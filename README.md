@@ -1,3 +1,3 @@
 # brad72287.github.io
-new github pages site for 202?6
-ummmmmmmmm
+book stuff
+[title](/data.csv)
