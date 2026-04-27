@@ -4,9 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Library</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -25,7 +23,7 @@
     }
 
     body {
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -42,7 +40,7 @@
       flex-wrap: wrap;
     }
     header h1 {
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 1.75rem;
       font-weight: 700;
       letter-spacing: -0.02em;
@@ -82,7 +80,7 @@
       padding: 8px 12px 8px 36px;
       border: 1px solid var(--border);
       border-radius: 6px;
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 0.875rem;
       background: var(--bg);
       color: var(--text);
@@ -95,7 +93,7 @@
       padding: 8px 28px 8px 10px;
       border: 1px solid var(--border);
       border-radius: 6px;
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 0.8rem;
       background: var(--bg);
       color: var(--text);
@@ -135,7 +133,7 @@
     }
 
     thead th {
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
       font-weight: 500;
       font-size: 0.75rem;
       text-transform: uppercase;
@@ -165,7 +163,7 @@
     }
 
     .td-title {
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 0.9rem;
       font-weight: 400;
       color: var(--text);
@@ -192,6 +190,12 @@
       text-align: center;
     }
     .td-pages {
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .td-words {
       color: var(--muted);
       font-size: 0.8rem;
       text-align: right;
@@ -246,7 +250,7 @@
       border-radius: 5px;
       background: var(--surface);
       color: var(--text);
-      font-family: 'DM Sans', sans-serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 0.8rem;
       cursor: pointer;
       transition: all .15s;
@@ -267,7 +271,7 @@
       color: var(--muted);
     }
     .empty h2 {
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Times New Roman', Times, serif;
       font-size: 1.1rem;
       margin-bottom: 8px;
     }
@@ -281,6 +285,29 @@
       font-style: italic;
     }
 
+    .bookclub-btn {
+      padding: 7px 14px;
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      background: var(--accent-lt);
+      color: var(--accent);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 0.8rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background .15s, color .15s;
+    }
+    .bookclub-btn:hover, .bookclub-btn.active {
+      background: var(--accent);
+      color: #fff;
+    }
+    #last-updated {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-left: auto;
+    }
+
     @media (max-width: 700px) {
       header, .toolbar, .table-wrap { padding-left: 16px; padding-right: 16px; }
       .td-tags, .td-publisher { display: none; }
@@ -290,8 +317,9 @@
 <body>
 
 <header>
-  <h1>books</h1>
+  <h1>My Library</h1>
   <span id="book-count"></span>
+  <span id="last-updated"></span>
 </header>
 
 <div class="toolbar">
@@ -315,7 +343,10 @@
     <option value="year-asc">Oldest first</option>
     <option value="rating-desc">Highest rated</option>
     <option value="pages-desc">Most pages</option>
+    <option value="words-desc">Most words</option>
   </select>
+
+  <button class="bookclub-btn" id="bookclub-btn">📚 Book Club</button>
 
   <div class="toolbar-right">
     <span id="result-count"></span>
@@ -333,6 +364,7 @@
         <th data-col="publisher">Publisher</th>
         <th data-col="year" style="text-align:center">Year</th>
         <th data-col="pages" style="text-align:right">Pages</th>
+        <th data-col="words" style="text-align:right">Words</th>
         <th data-col="rating" style="text-align:center">Rating</th>
         <th data-col="tags">Tags</th>
       </tr>
@@ -414,6 +446,7 @@ function renderTable() {
       <td class="td-publisher" title="${esc(b.publisher||'')}">${esc(b.publisher || '—')}</td>
       <td class="td-year">${y || '—'}</td>
       <td class="td-pages">${fmt(b['*pagecount'])}</td>
+      <td class="td-words">${fmt(b['*wordcount'])}</td>
       <td class="td-rating">
         <span class="stars" title="${b['*grrating'] || ''}">${stars(b['*grrating'])}</span>
         <span class="rating-num">${b['*grrating'] ? b['*grrating'] + ' · ' + fmt(b['*grvotes']) + ' votes' : '—'}</span>
@@ -487,6 +520,7 @@ function applyFilters() {
       case 'year':    av = year(a)||0; bv = year(b)||0; break;
       case 'rating':  av = parseFloat(a['*grrating'])||0; bv = parseFloat(b['*grrating'])||0; break;
       case 'pages':   av = a['*pagecount']||0; bv = b['*pagecount']||0; break;
+      case 'words':   av = a['*wordcount']||0; bv = b['*wordcount']||0; break;
       default:        av = ''; bv = '';
     }
     if (av < bv) return sortDir === 'asc' ? -1 : 1;
@@ -531,7 +565,7 @@ document.getElementById('tag-filter').addEventListener('change', e => {
 document.getElementById('sort-select').addEventListener('change', e => {
   const [k, d] = e.target.value.split('-');
   // map select values to sortKey
-  const keyMap = { title:'title', author:'authors', year:'year', rating:'rating', pages:'pages' };
+  const keyMap = { title:'title', author:'authors', year:'year', rating:'rating', pages:'pages', words:'words' };
   sortKey = keyMap[k] || k;
   sortDir = d;
   currentPage = 1;
@@ -555,6 +589,23 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
   });
 });
 
+// ── bookclub shortcut ─────────────────────────────────────────────────────────
+document.getElementById('bookclub-btn').addEventListener('click', () => {
+  const btn = document.getElementById('bookclub-btn');
+  const sel = document.getElementById('tag-filter');
+  if (tagFilter === 'bookclub') {
+    tagFilter = '';
+    sel.value = '';
+    btn.classList.remove('active');
+  } else {
+    tagFilter = 'bookclub';
+    sel.value = 'bookclub';
+    btn.classList.add('active');
+  }
+  currentPage = 1;
+  applyFilters();
+});
+
 // ── escape ────────────────────────────────────────────────────────────────────
 function esc(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -562,7 +613,15 @@ function esc(s) {
 
 // ── boot ──────────────────────────────────────────────────────────────────────
 fetch('data.json')
-  .then(r => r.json())
+  .then(r => {
+    const lastMod = r.headers.get('Last-Modified');
+    if (lastMod) {
+      const d = new Date(lastMod);
+      document.getElementById('last-updated').textContent =
+        'Updated ' + d.toLocaleDateString(undefined, {year:'numeric',month:'long',day:'numeric'});
+    }
+    return r.json();
+  })
   .then(data => {
     allBooks = data;
     document.getElementById('loading').style.display = 'none';
