@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Library</title>
+  <title>book list</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -41,9 +41,9 @@
       flex-wrap: wrap;
     }
     header h1 {
-      font-family: 'Courier New', Courier, monospace;
+      font-family: sans-serif;
       font-size: 1.5rem;
-      font-weight: 700;
+      font-weight: bold;
       letter-spacing: 0.04em;
       color: var(--accent);
     }
@@ -253,7 +253,7 @@
 <body>
 
 <header>
-  <h1>My Library</h1>
+  <h1>book list</h1>
   <span id="book-count"></span>
   <span id="last-updated"></span>
 </header>
@@ -263,7 +263,7 @@
     <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
       <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
     </svg>
-    <input id="search" type="text" placeholder="Search title, author, publisher, tag…" autocomplete="off" />
+    <input id="search" type="text" placeholder="search" autocomplete="off" />
   </div>
 
   <select id="tag-select">
@@ -271,18 +271,20 @@
   </select>
 
   <select id="sort-select">
-    <option value="title-asc">Title A–Z</option>
-    <option value="title-desc">Title Z–A</option>
-    <option value="author-asc">Author A–Z</option>
-    <option value="author-desc">Author Z–A</option>
-    <option value="year-desc">Newest first</option>
-    <option value="year-asc">Oldest first</option>
-    <option value="rating-desc">Highest rated</option>
-    <option value="pages-desc">Most pages</option>
-    <option value="words-desc">Most words</option>
+    <option value="title-asc">title a–z</option>
+    <option value="title-desc">title z–a</option>
+    <option value="author-asc">author a–z</option>
+    <option value="author-desc">author z–a</option>
+    <option value="year-desc">newest first</option>
+    <option value="year-asc">oldest first</option>
+    <option value="rating-desc">highest rated</option>
+    <option value="pages-desc">most pages</option>
+    <option value="words-desc">most words</option>
   </select>
 
-  <button class="bookclub-btn" id="bookclub-btn">📚 Book Club</button>
+  <button class="bookclub-btn" id="bookclub-btn">stuff we've read</button>
+  <button class="bookclub-btn" id="potential-short-btn">stuff we could read (1 week)</button>
+  <button class="bookclub-btn" id="potential-normal-btn">stuff we could read (2+ week)</button>
 
   <div class="toolbar-right">
     <span id="result-count"></span>
@@ -290,25 +292,25 @@
 </div>
 
 <div id="active-filters">
-  <span class="filter-label">Filters:</span>
+  <span class="filter-label">filters:</span>
   <div id="filter-pills"></div>
   <button id="clear-filters">clear all</button>
 </div>
 
-<div id="loading">Loading your library…</div>
+<div id="loading">loading…</div>
 
 <div class="table-wrap" id="table-wrap" style="display:none">
   <table>
     <thead>
       <tr>
-        <th data-col="title">Title</th>
-        <th data-col="authors">Author</th>
-        <th data-col="publisher">Publisher</th>
-        <th data-col="year" style="text-align:center">Year</th>
-        <th data-col="pages" style="text-align:right">Pages</th>
-        <th data-col="words" style="text-align:right">Words</th>
-        <th data-col="rating" style="text-align:center">Rating</th>
-        <th data-col="tags">Tags</th>
+        <th data-col="title">title</th>
+        <th data-col="authors">author</th>
+        <th data-col="publisher">publisher</th>
+        <th data-col="year" style="text-align:center">year</th>
+        <th data-col="pages" style="text-align:right">pages</th>
+        <th data-col="words" style="text-align:right">words</th>
+        <th data-col="rating" style="text-align:center">rating</th>
+        <th data-col="tags">tags</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -316,8 +318,8 @@
 </div>
 
 <div id="empty" class="empty" style="display:none">
-  <h2>No books found</h2>
-  <p>Try a different search or filter.</p>
+  <h2>no books found =(</h2>
+  <p>try a different search</p>
 </div>
 
 <div class="pagination" id="pagination"></div>
@@ -502,6 +504,8 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
 });
 
 document.getElementById('bookclub-btn').addEventListener('click', () => toggleTag('bookclub'));
+document.getElementById('potential-short-btn').addEventListener('click', () => toggleTag('potential_short'));
+document.getElementById('potential-normal-btn').addEventListener('click', () => toggleTag('potential_normal'));
 document.getElementById('clear-filters').addEventListener('click', () => { activeTags.clear(); currentPage=1; renderFilterPills(); applyFilters(); });
 
 // ── boot ──────────────────────────────────────────────────────────────────────
