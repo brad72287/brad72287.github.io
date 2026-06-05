@@ -7918,7 +7918,6 @@
     "publisher": "The New Press",
     "size": 5719431,
     "tags": [
-      "999",
       "20th Century",
       "Art",
       "General",
@@ -27214,14 +27213,13 @@
     "publisher": "Charco Press",
     "size": 301911,
     "tags": [
-      "999",
-      "Psychological",
-      "Horror",
       "Fiction",
       "General",
+      "Horror",
       "Literary",
-      "World Literature",
-      "potential_short"
+      "potential_short",
+      "Psychological",
+      "World Literature"
     ],
     "title": "On Earth as It Is Beneath"
   },
@@ -31371,16 +31369,15 @@
     "publisher": "Citadel",
     "size": 186713,
     "tags": [
-      "Historical",
-      "999",
-      "Horror",
-      "War",
-      "Fiction",
       "Classics",
+      "Fiction",
       "General",
+      "Historical",
+      "Horror",
       "Literary",
+      "Military",
       "Politics",
-      "Military"
+      "War"
     ],
     "title": "Johnny Got His Gun"
   },
@@ -93889,10 +93886,9 @@
     "publisher": "Houghton Mifflin/Seymour Lawrence",
     "size": 1410545,
     "tags": [
-      "Poetry",
       "Classics",
-      "999",
-      "Humour"
+      "Humour",
+      "Poetry"
     ],
     "title": "Trout Fishing in America / the Pill vs. The Springhill Mine Disaster / in Watermelon Sugar"
   },
@@ -95093,9 +95089,8 @@
     "publisher": "Plume",
     "size": 320589,
     "tags": [
-      "999",
-      "Contemporary",
-      "Classics"
+      "Classics",
+      "Contemporary"
     ],
     "title": "The Universal Baseball Association, Inc."
   },
