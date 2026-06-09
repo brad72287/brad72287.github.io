@@ -1923,8 +1923,8 @@
     "title": "The Sense of an Ending"
   },
   {
-    "*grrating": "4.08",
-    "*grvotes": "3196",
+    "*grrating": "3.98",
+    "*grvotes": "5979",
     "*pagecount": 139,
     "*wordcount": 45904,
     "authors": "Julian Barnes",
@@ -1933,15 +1933,18 @@
     "publisher": "Knopf",
     "size": 650859,
     "tags": [
-      "England",
-      "Family Life",
-      "Fiction",
-      "General",
-      "special_top1000author",
-      "Literary",
-      "World Literature",
       "read_author",
-      "potential_normal"
+      "999",
+      "Romance",
+      "General",
+      "Family Life",
+      "World Literature",
+      "potential_normal",
+      "England",
+      "Fiction",
+      "special_top1000author",
+      "Contemporary",
+      "Literary"
     ],
     "title": "Departure"
   },
@@ -3430,33 +3433,6 @@
       "Humour"
     ],
     "title": "Notes From the Dog"
-  },
-  {
-    "*grrating": "3.79",
-    "*grvotes": "432531",
-    "*pagecount": 131,
-    "*wordcount": 43481,
-    "authors": "Gary Paulsen",
-    "id": 869,
-    "pubdate": "1987-01-01T08:00:00+00:00",
-    "publisher": "Simon and Schuster",
-    "size": 134567,
-    "tags": [
-      "Action",
-      "Adventure",
-      "Juvenile Fiction",
-      "Social Themes",
-      "General",
-      "Canada",
-      "Family",
-      "Places",
-      "Children's Books",
-      "Divorce",
-      "People",
-      "Marriage",
-      "Classics"
-    ],
-    "title": "Hatchet"
   },
   {
     "*grrating": "3.9",
@@ -7398,27 +7374,6 @@
     "title": "Frost at Christmas"
   },
   {
-    "*grrating": "4.12",
-    "*grvotes": "3874",
-    "*pagecount": 444,
-    "*wordcount": 122285,
-    "authors": "R. D. Wingfield",
-    "id": 2184,
-    "pubdate": "1987-01-01T08:00:00+00:00",
-    "publisher": "Bantam",
-    "size": 392977,
-    "tags": [
-      "Detective",
-      "Thrillers",
-      "Fiction",
-      "Suspense",
-      "Mystery",
-      "Crime",
-      "Police Procedural"
-    ],
-    "title": "A Touch of Frost"
-  },
-  {
     "*grrating": "4.18",
     "*grvotes": "3263",
     "*pagecount": 491,
@@ -11326,7 +11281,10 @@
       "special_top1000author",
       "Adult",
       "Travel",
-      "Classics"
+      "Classics",
+      "English",
+      "Humorous Stories",
+      "potential_normal"
     ],
     "title": "Three Men in a Boat"
   },
@@ -12559,27 +12517,6 @@
     "title": "Bones: Recipes, History and Lore"
   },
   {
-    "*grrating": "3.78",
-    "*grvotes": "15213",
-    "*pagecount": 266,
-    "*wordcount": 65356,
-    "authors": "Tera Lynn Childs",
-    "id": 3813,
-    "pubdate": "2008-01-01T08:00:00+00:00",
-    "publisher": "Penguin Speak",
-    "size": 209266,
-    "tags": [
-      "Contemporary",
-      "Romance",
-      "Fiction:Young Adult",
-      "General",
-      "Young Adult Fiction",
-      "Legends; Myths; Fables",
-      "Humorous"
-    ],
-    "title": "Oh. My. Gods."
-  },
-  {
     "*grrating": "3.91",
     "*grvotes": "64269",
     "*pagecount": 374,
@@ -13024,30 +12961,6 @@
       "History"
     ],
     "title": "The Swerve: How the World Became Modern"
-  },
-  {
-    "*grrating": "4.41",
-    "*grvotes": "1344",
-    "*pagecount": 1497,
-    "*wordcount": 497435,
-    "authors": "George Orwell",
-    "id": 3874,
-    "pubdate": "1949-01-01T07:00:00+00:00",
-    "publisher": "Penguin Classics",
-    "size": 1363173,
-    "tags": [
-      "special_top100author",
-      "Fiction",
-      "European",
-      "Science Fiction",
-      "special_top1000author",
-      "Literary Collections",
-      "Philosophy",
-      "Politics",
-      "English; Irish; Scottish; Welsh",
-      "Classics"
-    ],
-    "title": "The Complete Novels of George Orwell: Animal Farm, Burmese Days, a Clergyman's Daughter, Coming Up for Air, Keep the Aspidistra Flying, Nineteen Eighty-Four"
   },
   {
     "*grrating": "3.78",
@@ -18855,11 +18768,12 @@
     "publisher": "Viking",
     "size": 577432,
     "tags": [
-      "Historical",
-      "special_top100author",
+      "888",
+      "Classics",
       "Fiction",
+      "Historical",
       "special_top1000author",
-      "Classics"
+      "special_top100author"
     ],
     "title": "The Grapes of Wrath"
   },
@@ -20399,20 +20313,6 @@
       "Adult"
     ],
     "title": "Sweetness in the Belly"
-  },
-  {
-    "*grrating": "",
-    "*grvotes": "",
-    "*pagecount": 474,
-    "*wordcount": 147673,
-    "authors": "Various Authors & Edward Abbey & Anonymous",
-    "id": 5787,
-    "pubdate": "1993-02-15T05:00:00+00:00",
-    "size": 4036180,
-    "tags": [
-      "United States"
-    ],
-    "title": "Ecodefense: A Field Guide to Monkeywrenching"
   },
   {
     "*grrating": "3.88",
@@ -23043,12 +22943,13 @@
     "publisher": "Penguin Books",
     "size": 925453,
     "tags": [
+      "888",
+      "Classics",
       "Historical",
-      "War",
+      "read_author",
       "Science Fiction",
       "special_top1000author",
-      "read_author",
-      "Classics"
+      "War"
     ],
     "title": "Gravity's Rainbow"
   },
@@ -23613,24 +23514,6 @@
       "Adult"
     ],
     "title": "The Lady and the Unicorn"
-  },
-  {
-    "*grrating": "4.41",
-    "*grvotes": "4594",
-    "*pagecount": 609,
-    "*wordcount": 251824,
-    "authors": "Winston S. Churchill",
-    "id": 6733,
-    "pubdate": "1962-07-01T07:00:00+00:00",
-    "publisher": "Mariner/Houghton Mifflin Co.",
-    "size": 2824151,
-    "tags": [
-      "War",
-      "Politics",
-      "Biography",
-      "History"
-    ],
-    "title": "The Second World War, Volume II: Their Finest Hour"
   },
   {
     "*grrating": "4.3",
@@ -24877,6 +24760,7 @@
     "pubdate": "0101-01-01T00:00:00+00:00",
     "size": 226441,
     "tags": [
+      "bookclub",
       "Horror",
       "Science Fiction"
     ],
@@ -26138,21 +26022,6 @@
       "Crime"
     ],
     "title": "Cross"
-  },
-  {
-    "*grrating": "3.94",
-    "*grvotes": "84",
-    "*pagecount": 602,
-    "*wordcount": 236288,
-    "authors": "Paul Bergman & Sara J. Berman",
-    "id": 7701,
-    "pubdate": "1997-10-01T07:00:00+00:00",
-    "publisher": "NOLO",
-    "size": 2174414,
-    "tags": [
-      "Reference"
-    ],
-    "title": "Criminal Law Handbook: Know Your Rights, Survive the System"
   },
   {
     "*grrating": "3.96",
@@ -30119,26 +29988,6 @@
     "title": "Gone With the Wind"
   },
   {
-    "*grrating": "3.66",
-    "*grvotes": "5861",
-    "*pagecount": 176,
-    "*wordcount": 45617,
-    "authors": "Elodie Harper & Manuela Saragosa & Paul Bassett Davies & Michael Button & Stuart Johnstone & Neil Hudson",
-    "id": 9020,
-    "pubdate": "2016-08-25T07:00:00+00:00",
-    "publisher": "Cemetery Dance",
-    "size": 257846,
-    "tags": [
-      "Horror",
-      "Anthologies",
-      "Fantasy",
-      "Thriller",
-      "Paranormal",
-      "Adult"
-    ],
-    "title": "Six Scary Stories"
-  },
-  {
     "*grrating": "3.96",
     "*grvotes": "6868",
     "*pagecount": 318,
@@ -31497,8 +31346,8 @@
     "title": "The Last of the Mohicans"
   },
   {
-    "*grrating": "4.08",
-    "*grvotes": "3487",
+    "*grrating": "4.01",
+    "*grvotes": "7865",
     "*pagecount": 323,
     "*wordcount": 83714,
     "authors": "Y\u00e1ng Shu\u0101ng-Z\u01d0",
@@ -31507,10 +31356,10 @@
     "publisher": "Tantor Audio",
     "size": 4371452,
     "tags": [
-      "999",
       "Historical",
-      "Romance",
-      "Travel"
+      "Travel",
+      "999",
+      "Romance"
     ],
     "title": "Taiwan Travelogue: A Novel"
   },
@@ -31651,26 +31500,6 @@
       "Non-Fiction"
     ],
     "title": "Chuck Klosterman on Rock: A Collection of Previously Published Essays"
-  },
-  {
-    "*grrating": "3.67",
-    "*grvotes": "126",
-    "*pagecount": 140,
-    "*wordcount": 46401,
-    "authors": "Chuck Klosterman",
-    "id": 9515,
-    "pubdate": "2010-09-14T04:38:23+00:00",
-    "publisher": "Scribner",
-    "size": 278190,
-    "tags": [
-      "Contemporary",
-      "Essays",
-      "Form",
-      "Popular Culture",
-      "Social Science",
-      "Humor"
-    ],
-    "title": "Chuck Klosterman on Media and Culture: A Collection of Previously Published Essays"
   },
   {
     "*grrating": "3.84",
@@ -32513,8 +32342,8 @@
     "title": "Travels With Myself and Another"
   },
   {
-    "*grrating": "3.96",
-    "*grvotes": "34874",
+    "*grrating": "3.95",
+    "*grvotes": "36504",
     "*pagecount": 79,
     "*wordcount": 34028,
     "authors": "Adolfo Bioy Casares",
@@ -32523,15 +32352,17 @@
     "publisher": "New York Review Books",
     "size": 769198,
     "tags": [
+      "Classics",
       "999",
-      "Dark Fantasy",
+      "Supernatural",
       "Fantasy",
-      "Fiction",
       "General",
       "Occult",
       "potential_normal",
+      "Fiction",
       "special_top1000author",
-      "Supernatural"
+      "Science Fiction",
+      "Dark Fantasy"
     ],
     "title": "The Invention of Morel"
   },
@@ -32915,79 +32746,6 @@
       "Classics"
     ],
     "title": "A Wrinkle in Time"
-  },
-  {
-    "*grrating": "4.16",
-    "*grvotes": "109210",
-    "*pagecount": 333,
-    "*wordcount": 88979,
-    "authors": "David Eddings",
-    "id": 9886,
-    "pubdate": "1982-03-12T08:00:00+00:00",
-    "publisher": "Del Rey",
-    "size": 553859,
-    "tags": [
-      "Young Adult",
-      "Adventure",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "title": "Pawn of Prophecy"
-  },
-  {
-    "*grrating": "4.39",
-    "*grvotes": "8003",
-    "*pagecount": 426,
-    "*wordcount": 116344,
-    "authors": "David Eddings",
-    "id": 9887,
-    "pubdate": "1980-01-01T08:00:00+00:00",
-    "publisher": "Del Rey",
-    "size": 684373,
-    "tags": [
-      "Young Adult",
-      "Adventure",
-      "Science Fiction",
-      "Fantasy",
-      "Adult"
-    ],
-    "title": "The Belgariad, Vol. Two: Castle of Wizardry / Enchanters' End Game"
-  },
-  {
-    "*grrating": "4.18",
-    "*grvotes": "78470",
-    "*pagecount": 440,
-    "*wordcount": 119325,
-    "authors": "David Eddings",
-    "id": 9888,
-    "pubdate": "1984-01-01T08:00:00+00:00",
-    "publisher": "Del Rey",
-    "size": 627992,
-    "tags": [
-      "Young Adult",
-      "Adventure",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "title": "Castle of Wizardry"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "95851",
-    "*pagecount": 365,
-    "*wordcount": 96768,
-    "authors": "David Eddings",
-    "id": 9893,
-    "pubdate": "1983-06-01T07:00:00+00:00",
-    "publisher": "Del Rey",
-    "size": 577212,
-    "tags": [
-      "Young Adult",
-      "Adventure",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "title": "Magician's Gambit"
   },
   {
     "*grrating": "4.21",
@@ -33711,25 +33469,25 @@
   },
   {
     "*grrating": "4.55",
-    "*grvotes": "111338",
+    "*grvotes": "126761",
     "*pagecount": 68,
     "*wordcount": 25291,
     "authors": "James Baldwin",
     "id": 10231,
-    "pubdate": "1993-01-01T05:00:00+00:00",
-    "publisher": "Vintage International",
+    "pubdate": "1963-01-31T08:00:00+00:00",
+    "publisher": "Vintage",
     "size": 1761384,
     "tags": [
-      "999",
       "Biography",
-      "Classics",
-      "History",
-      "Non-Fiction",
-      "Politics",
       "read_author",
-      "special_top1000author",
+      "Classics",
       "special_top100author",
-      "Writing"
+      "999",
+      "History",
+      "Writing",
+      "Politics",
+      "Non-Fiction",
+      "special_top1000author"
     ],
     "title": "The Fire Next Time"
   },
@@ -37423,34 +37181,6 @@
     "title": "Fight Club"
   },
   {
-    "*grrating": "3.51",
-    "*grvotes": "9988",
-    "*pagecount": 142,
-    "*wordcount": 38104,
-    "authors": "Chuck Palahniuk",
-    "id": 13019,
-    "pubdate": "2003-06-08T07:00:00+00:00",
-    "publisher": "Vintage",
-    "size": 233562,
-    "tags": [
-      "Contemporary",
-      "Travelogues",
-      "Essays",
-      "Fiction",
-      "Local",
-      "Recreation",
-      "General",
-      "State",
-      "Sports",
-      "United States",
-      "read_author",
-      "Travel",
-      "Reference",
-      "History"
-    ],
-    "title": "Fugitives & Refugees: A Walk in Portland, Oregon"
-  },
-  {
     "*grrating": "3.59",
     "*grvotes": "108859",
     "*pagecount": 399,
@@ -40055,18 +39785,19 @@
     "publisher": "Farrar, Straus and Giroux",
     "size": 879057,
     "tags": [
+      "888",
+      "Classics",
       "Contemporary",
-      "Historical",
-      "Thrillers",
-      "Horror",
-      "Fiction",
-      "Suspense",
-      "General",
-      "Mystery",
-      "Literary",
-      "special_top1000author",
       "Crime",
-      "Classics"
+      "Fiction",
+      "General",
+      "Historical",
+      "Horror",
+      "Literary",
+      "Mystery",
+      "special_top1000author",
+      "Suspense",
+      "Thrillers"
     ],
     "title": "2666"
   },
@@ -43056,23 +42787,6 @@
     "title": "Sister Carrie"
   },
   {
-    "*grrating": "4.03",
-    "*grvotes": "82058",
-    "*pagecount": 1512,
-    "*wordcount": 546349,
-    "authors": "Andrew Lang",
-    "id": 14683,
-    "pubdate": "0800-01-01T07:52:58+00:00",
-    "publisher": "Forgotten Books",
-    "size": 1267606,
-    "tags": [
-      "Fantasy",
-      "Adventure",
-      "Classics"
-    ],
-    "title": "The Arabian Nights Entertainments"
-  },
-  {
     "*grrating": "3.83",
     "*grvotes": "1522",
     "*pagecount": 667,
@@ -43623,15 +43337,16 @@
     "publisher": "Book Jungle",
     "size": 337813,
     "tags": [
-      "Literary Criticism",
-      "special_top100author",
-      "Fiction",
-      "European",
-      "special_top1000author",
-      "Literary Collections",
-      "potential_normal",
+      "888",
+      "Classics",
       "English; Irish; Scottish; Welsh",
-      "Classics"
+      "European",
+      "Fiction",
+      "Literary Collections",
+      "Literary Criticism",
+      "potential_normal",
+      "special_top1000author",
+      "special_top100author"
     ],
     "title": "De Profundis"
   },
@@ -45344,26 +45059,6 @@
       "Classics"
     ],
     "title": "The High King"
-  },
-  {
-    "*grrating": "4.41",
-    "*grvotes": "1595",
-    "*pagecount": 298,
-    "*wordcount": 80445,
-    "authors": "Thomas E. Sniegoski",
-    "id": 15304,
-    "pubdate": "2006-07-25T07:00:00+00:00",
-    "publisher": "Pocket Star",
-    "size": 412307,
-    "tags": [
-      "Horror",
-      "Mystery",
-      "Science Fiction",
-      "Fantasy",
-      "Paranormal",
-      "Comics"
-    ],
-    "title": "Hellboy: The God Machine"
   },
   {
     "*grrating": "4.07",
@@ -52122,28 +51817,6 @@
     "title": "Forty Stories"
   },
   {
-    "*grrating": "4.39",
-    "*grvotes": "7737",
-    "*pagecount": 640,
-    "*wordcount": 261043,
-    "authors": "Winston S. Churchill",
-    "id": 17324,
-    "pubdate": "1948-06-01T07:00:00+00:00",
-    "publisher": "RosettaBooks",
-    "size": 2615297,
-    "tags": [
-      "World War II",
-      "20th Century",
-      "Conflicts",
-      "General",
-      "Great Britain",
-      "Wars",
-      "Europe",
-      "History"
-    ],
-    "title": "The Gathering Storm"
-  },
-  {
     "*grrating": "3.82",
     "*grvotes": "38405",
     "*pagecount": 155,
@@ -53667,13 +53340,14 @@
     "publisher": "Picador",
     "size": 602199,
     "tags": [
-      "Historical",
-      "Fiction:Historical",
-      "Fiction",
-      "General",
-      "special_top1000author",
+      "888",
       "Adult",
-      "History"
+      "Fiction",
+      "Fiction:Historical",
+      "General",
+      "Historical",
+      "History",
+      "special_top1000author"
     ],
     "title": "Wolf Hall"
   },
@@ -55931,24 +55605,6 @@
     "title": "A Rule Against Murder"
   },
   {
-    "*grrating": "3.88",
-    "*grvotes": "16114",
-    "*pagecount": 322,
-    "*wordcount": 103780,
-    "authors": "Manel Loureiro",
-    "id": 18328,
-    "pubdate": "2007-01-01T08:00:00+00:00",
-    "publisher": "AmazonCrossing",
-    "size": 489765,
-    "tags": [
-      "Horror",
-      "Thriller",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "title": "Apocalypse Z: The Beginning of the End"
-  },
-  {
     "*grrating": "3.93",
     "*grvotes": "120755",
     "*pagecount": 448,
@@ -56236,11 +55892,11 @@
     "publisher": "Open Road Media",
     "size": 510564,
     "tags": [
-      "Fiction",
-      "General",
       "special_top1000author",
+      "General",
+      "Humorous",
       "read_author",
-      "Humorous"
+      "Fiction"
     ],
     "title": "The Message in the Bottle and Lost in the Cosmos"
   },
@@ -60420,9 +60076,10 @@
     "publisher": "NYRB Classics",
     "size": 1714369,
     "tags": [
+      "888",
+      "Classics",
       "Fiction",
-      "Literary",
-      "Classics"
+      "Literary"
     ],
     "title": "The Red Thread: Twenty Years of NYRB Classics: A Selection"
   },
@@ -60638,23 +60295,25 @@
     "title": "The Genocides"
   },
   {
-    "*grrating": "4.36",
-    "*grvotes": "1769",
+    "*grrating": "4.29",
+    "*grvotes": "6574",
     "*pagecount": 188,
     "*wordcount": 63854,
     "authors": "Lauren Groff",
     "id": 21452,
     "pubdate": "2026-02-24T08:00:00+00:00",
-    "publisher": "Penguin Group",
+    "publisher": "Riverhead Books",
     "size": 4440085,
     "tags": [
       "999",
-      "Family Life",
-      "Fiction",
+      "Contemporary",
       "General",
-      "Literary",
+      "Family Life",
       "potential_normal",
-      "Short Stories (Single Author)"
+      "Fiction",
+      "Adult",
+      "Short Stories (Single Author)",
+      "Literary"
     ],
     "title": "Brawler"
   },
@@ -64966,31 +64625,6 @@
     "title": "The Social Contract: Or, Principles of Political Right"
   },
   {
-    "*grrating": "3.83",
-    "*grvotes": "81318",
-    "*pagecount": 211,
-    "*wordcount": 67727,
-    "authors": "Jerome K. Jerome",
-    "id": 22717,
-    "pubdate": "1889-01-01T08:00:00+00:00",
-    "publisher": "Standard Ebooks",
-    "size": 618381,
-    "tags": [
-      "Historical",
-      "Humour",
-      "Fiction",
-      "Adventure",
-      "special_top1000author",
-      "English",
-      "Humorous Stories",
-      "Adult",
-      "Travel",
-      "potential_normal",
-      "Classics"
-    ],
-    "title": "Three Men in a Boat: (To Say Nothing of the Dog)"
-  },
-  {
     "*grrating": "3.82",
     "*grvotes": "11696",
     "*pagecount": 137,
@@ -65008,23 +64642,6 @@
       "Classics"
     ],
     "title": "Cane"
-  },
-  {
-    "*grrating": "3.85",
-    "*grvotes": "232",
-    "*pagecount": 160,
-    "*wordcount": 50318,
-    "authors": "Johanna Spyri",
-    "id": 22721,
-    "pubdate": "1892-01-01T08:00:00+00:00",
-    "publisher": "Standard Ebooks",
-    "size": 564601,
-    "tags": [
-      "Young Adult",
-      "Childrens",
-      "Classics"
-    ],
-    "title": "Cornelli"
   },
   {
     "*grrating": "4.0",
@@ -65236,24 +64853,6 @@
       "Classics"
     ],
     "title": "The Mark of Zorro"
-  },
-  {
-    "*grrating": "4.26",
-    "*grvotes": "6587",
-    "*pagecount": 381,
-    "*wordcount": 116095,
-    "authors": "Jos\u00e9 Rizal",
-    "id": 22768,
-    "pubdate": "1891-09-18T08:00:00+00:00",
-    "publisher": "Standard Ebooks",
-    "size": 687563,
-    "tags": [
-      "Fiction",
-      "Historical",
-      "Classics",
-      "History"
-    ],
-    "title": "El Filibusterismo"
   },
   {
     "*grrating": "3.87",
@@ -66384,25 +65983,25 @@
   },
   {
     "*grrating": "4.17",
-    "*grvotes": "410245",
+    "*grvotes": "412240",
     "*pagecount": 52,
     "*wordcount": 21257,
     "authors": "Oscar Wilde",
     "id": 22952,
     "pubdate": "1895-02-14T08:00:00+00:00",
-    "publisher": "Standard Ebooks",
+    "publisher": "Top 100 Classics",
     "size": 334263,
     "tags": [
-      "999",
-      "Adult",
+      "special_top100author",
       "Classics",
-      "Fiction",
-      "Historical",
-      "Humour",
-      "potential_short",
+      "999",
       "Romance",
+      "potential_short",
+      "Humour",
+      "Fiction",
+      "Adult",
       "special_top1000author",
-      "special_top100author"
+      "Historical"
     ],
     "title": "The Importance of Being Earnest"
   },
@@ -67017,30 +66616,6 @@
     "title": "New Hampshire: A Poem with Notes and Grace Notes"
   },
   {
-    "*grrating": "3.83",
-    "*grvotes": "678139",
-    "*pagecount": 76,
-    "*wordcount": 26389,
-    "authors": "Robert Louis Stevenson",
-    "id": 23044,
-    "pubdate": "1886-01-01T08:00:00+00:00",
-    "publisher": "Standard Ebooks",
-    "size": 380269,
-    "tags": [
-      "Psychological fiction",
-      "special_top100author",
-      "Horror",
-      "Horror tales",
-      "Mystery",
-      "Science Fiction",
-      "special_top1000author",
-      "Thriller",
-      "Fantasy",
-      "Classics"
-    ],
-    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde"
-  },
-  {
     "*grrating": "3.63",
     "*grvotes": "254",
     "*pagecount": 207,
@@ -67221,20 +66796,6 @@
     "title": "Dear Debbie"
   },
   {
-    "*grrating": "4.55",
-    "*grvotes": "61415",
-    "*pagecount": 500,
-    "authors": "Devney Perry",
-    "id": 23087,
-    "pubdate": "2026-04-07T07:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Adult",
-      "Fantasy"
-    ],
-    "title": "Rites of the Starling"
-  },
-  {
     "*grrating": "4.53",
     "*grvotes": "270964",
     "*pagecount": 387,
@@ -67252,20 +66813,6 @@
       "Historical"
     ],
     "title": "Theo of Golden"
-  },
-  {
-    "*grrating": "4.06",
-    "*grvotes": "46181",
-    "*pagecount": 384,
-    "authors": "Navessa Allen",
-    "id": 23089,
-    "pubdate": "2026-03-31T07:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Adult",
-      "Contemporary"
-    ],
-    "title": "Game On"
   },
   {
     "*grrating": "4.06",
@@ -67300,22 +66847,6 @@
       "Non-Fiction"
     ],
     "title": "Strangers: A Memoir of Marriage"
-  },
-  {
-    "*grrating": "4.38",
-    "*grvotes": "320717",
-    "*pagecount": 528,
-    "authors": "Devney Perry",
-    "id": 23092,
-    "pubdate": "2025-05-06T07:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Paranormal",
-      "Adult",
-      "Adventure",
-      "Fantasy"
-    ],
-    "title": "Shield of Sparrows"
   },
   {
     "*grrating": "4.0",
@@ -67398,22 +66929,6 @@
     "title": "Wild Dark Shore"
   },
   {
-    "*grrating": "4.47",
-    "*grvotes": "345469",
-    "*pagecount": 464,
-    "authors": "Matt Dinniman",
-    "id": 23099,
-    "pubdate": "2020-09-21T07:00:00+00:00",
-    "tags": [
-      "Science Fiction",
-      "Adult",
-      "Humour",
-      "Adventure",
-      "Fantasy"
-    ],
-    "title": "Dungeon Crawler Carl"
-  },
-  {
     "*grrating": "3.98",
     "*grvotes": "98327",
     "*pagecount": 342,
@@ -67428,20 +66943,6 @@
       "Thriller"
     ],
     "title": "It's Not Her"
-  },
-  {
-    "*grrating": "4.37",
-    "*grvotes": "126876",
-    "*pagecount": 416,
-    "authors": "Liz Tomforde",
-    "id": 23101,
-    "pubdate": "2026-03-03T08:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Adult",
-      "Contemporary"
-    ],
-    "title": "In Her Own League"
   },
   {
     "*grrating": "4.27",
@@ -67506,36 +67007,6 @@
       "Contemporary"
     ],
     "title": "My Friends"
-  },
-  {
-    "*grrating": "4.5",
-    "*grvotes": "227507",
-    "*pagecount": 400,
-    "authors": "Matt Dinniman",
-    "id": 23112,
-    "pubdate": "2021-01-06T08:00:00+00:00",
-    "tags": [
-      "Science Fiction",
-      "Adult",
-      "Humour",
-      "Adventure",
-      "Fantasy"
-    ],
-    "title": "Carl's Doomsday Scenario"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "15486",
-    "*pagecount": 506,
-    "authors": "L.J. Shen",
-    "id": 23114,
-    "pubdate": "2026-04-07T07:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Adult",
-      "Contemporary"
-    ],
-    "title": "Twisted Pawn"
   },
   {
     "*grrating": "4.1",
@@ -67639,22 +67110,6 @@
     "title": "The Tenant"
   },
   {
-    "*grrating": "4.42",
-    "*grvotes": "184497",
-    "*pagecount": 534,
-    "authors": "Matt Dinniman",
-    "id": 23130,
-    "pubdate": "2021-03-19T07:00:00+00:00",
-    "tags": [
-      "Science Fiction",
-      "Adult",
-      "Humour",
-      "Adventure",
-      "Fantasy"
-    ],
-    "title": "The Dungeon Anarchist's Cookbook"
-  },
-  {
     "*grrating": "4.57",
     "*grvotes": "3716329",
     "*pagecount": 517,
@@ -67740,39 +67195,6 @@
       "Health"
     ],
     "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-  },
-  {
-    "*grrating": "4.43",
-    "*grvotes": "1538787",
-    "*pagecount": 304,
-    "authors": "Jennette McCurdy",
-    "id": 23137,
-    "pubdate": "2022-08-09T07:00:00+00:00",
-    "tags": [
-      "Biography",
-      "Adult",
-      "Humour",
-      "Contemporary",
-      "Non-Fiction"
-    ],
-    "title": "I'm Glad My Mom Died"
-  },
-  {
-    "*grrating": "4.43",
-    "*grvotes": "1217147",
-    "*pagecount": 448,
-    "authors": "Michelle Obama",
-    "id": 23138,
-    "pubdate": "2018-11-13T08:00:00+00:00",
-    "tags": [
-      "Feminism",
-      "Politics",
-      "History",
-      "Biography",
-      "Adult",
-      "Non-Fiction"
-    ],
-    "title": "Becoming"
   },
   {
     "*grrating": "4.37",
@@ -68279,25 +67701,6 @@
     "title": "The Other Boleyn Girl"
   },
   {
-    "*grrating": "4.32",
-    "*grvotes": "1190051",
-    "*pagecount": 272,
-    "authors": "Heather Morris",
-    "id": 23173,
-    "pubdate": "2018-01-11T08:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Fiction",
-      "History",
-      "Biography",
-      "Adult",
-      "War",
-      "Non-Fiction",
-      "Historical"
-    ],
-    "title": "The Tattooist of Auschwitz"
-  },
-  {
     "*grrating": "4.2",
     "*grvotes": "1894863",
     "*pagecount": 368,
@@ -68590,35 +67993,6 @@
     "title": "Sarah's Key"
   },
   {
-    "*grrating": "3.91",
-    "*grvotes": "221",
-    "*pagecount": 240,
-    "authors": "SOPHIE MACKINTOSH",
-    "id": 23197,
-    "pubdate": "2026-04-02T07:00:00+00:00",
-    "tags": [
-      "Fantasy",
-      "Science Fiction",
-      "Romance",
-      "Adult"
-    ],
-    "title": "Permanence"
-  },
-  {
-    "*grrating": "4.07",
-    "*grvotes": "320",
-    "*pagecount": 288,
-    "authors": "STEPHANIE SY-QUIA",
-    "id": 23198,
-    "pubdate": "2026-04-14T07:00:00+00:00",
-    "tags": [
-      "Historical",
-      "Romance",
-      "Contemporary"
-    ],
-    "title": "A Private Man"
-  },
-  {
     "*grrating": "4.28",
     "*grvotes": "223",
     "*pagecount": 384,
@@ -68692,35 +68066,6 @@
     "title": "A Good Person"
   },
   {
-    "*grrating": "4.39",
-    "*grvotes": "6411",
-    "*pagecount": 496,
-    "authors": "Tana French",
-    "id": 23222,
-    "pubdate": "2026-03-31T07:00:00+00:00",
-    "tags": [
-      "Mystery",
-      "Thriller",
-      "Crime",
-      "Suspense",
-      "Contemporary",
-      "Adult"
-    ],
-    "title": "The Keeper"
-  },
-  {
-    "*grrating": "4.46",
-    "*grvotes": "102",
-    "*pagecount": 432,
-    "authors": "GENE WOJCIECHOWSKI",
-    "id": 23224,
-    "pubdate": "2026-03-31T07:00:00+00:00",
-    "tags": [
-      "Humour"
-    ],
-    "title": "All Carry"
-  },
-  {
     "*grrating": "4.06",
     "*grvotes": "965",
     "*pagecount": 256,
@@ -68749,37 +68094,6 @@
       "special_top1000author"
     ],
     "title": "Python's Kiss: Stories"
-  },
-  {
-    "*grrating": "4.22",
-    "*grvotes": "2735",
-    "*pagecount": 384,
-    "authors": "KIRAN MILLWOOD HARGRAVE",
-    "id": 23227,
-    "pubdate": "2026-03-12T07:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Historical",
-      "Fiction",
-      "Gay",
-      "Contemporary",
-      "Adult"
-    ],
-    "title": "Almost Life"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "126",
-    "*pagecount": 256,
-    "authors": "NANCY FOLEY",
-    "id": 23232,
-    "pubdate": "2026-03-17T07:00:00+00:00",
-    "tags": [
-      "Contemporary",
-      "Historical",
-      "Adult"
-    ],
-    "title": "I Am Agatha"
   },
   {
     "*grrating": "4.0",
@@ -69083,19 +68397,6 @@
     "title": "A Great Act of Love"
   },
   {
-    "*grrating": "3.85",
-    "*grvotes": "1626",
-    "*pagecount": 245,
-    "authors": "EMANUELA ANECHOUM",
-    "id": 23309,
-    "pubdate": "2024-01-24T08:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Contemporary"
-    ],
-    "title": "Tangerinn"
-  },
-  {
     "*grrating": "4.02",
     "*grvotes": "8230",
     "*pagecount": 240,
@@ -69120,21 +68421,6 @@
     "title": "Every One Still Here: Stories"
   },
   {
-    "*grrating": "3.83",
-    "*grvotes": "16255",
-    "*pagecount": 352,
-    "authors": "ASHLEY WINSTEAD",
-    "id": 23315,
-    "pubdate": "2026-01-20T08:00:00+00:00",
-    "tags": [
-      "Romance",
-      "Contemporary",
-      "Music",
-      "Adult"
-    ],
-    "title": "The Future Saints"
-  },
-  {
     "*grrating": "4.37",
     "*grvotes": "4707",
     "*pagecount": 512,
@@ -69147,22 +68433,6 @@
       "Historical"
     ],
     "title": "The School of Night"
-  },
-  {
-    "*grrating": "4.31",
-    "*grvotes": "14399",
-    "*pagecount": 368,
-    "authors": "JEAN-BAPTISTE ANDREA",
-    "id": 23329,
-    "pubdate": "2023-08-17T07:00:00+00:00",
-    "tags": [
-      "Historical",
-      "Fiction",
-      "Romance",
-      "Art",
-      "Contemporary"
-    ],
-    "title": "Watching Over Her"
   },
   {
     "*grrating": "4.25",
@@ -69781,28 +69051,6 @@
     "title": "Lincoln at Gettysburg: The Words That Remade America"
   },
   {
-    "*grrating": "4.04",
-    "*grvotes": "857",
-    "*pagecount": 798,
-    "*wordcount": 264337,
-    "authors": "David K. Shipler",
-    "id": 23602,
-    "pubdate": "1986-08-12T07:00:00+00:00",
-    "publisher": "Crown",
-    "tags": [
-      "Non-Fiction",
-      "Nonfiction",
-      "History",
-      "World",
-      "General",
-      "Middle East",
-      "Religion",
-      "Politics",
-      "POLITICAL SCIENCE"
-    ],
-    "title": "Arab and Jew: Wounded Spirits in a Promised Land"
-  },
-  {
     "*grrating": "4.6",
     "*grvotes": "843",
     "*pagecount": 1665,
@@ -69988,28 +69236,6 @@
       "Adventure"
     ],
     "title": "Forever Peace"
-  },
-  {
-    "*grrating": "4.47",
-    "*grvotes": "2004",
-    "*pagecount": 482,
-    "*wordcount": 136111,
-    "authors": "Orson Scott Card",
-    "id": 23629,
-    "pubdate": "2013-09-17T07:00:00+00:00",
-    "publisher": "Tor Books",
-    "tags": [
-      "Young Adult",
-      "Adventure",
-      "Action & Adventure",
-      "special_top1000author",
-      "Science Fiction",
-      "Fantasy",
-      "Fiction",
-      "Space Opera",
-      "Military"
-    ],
-    "title": "The Ender Quintet: Ender's Game, Speaker for the Dead, Xenocide, Children of the Mind, and Ender in Exile"
   },
   {
     "*grrating": "4.31",
@@ -70451,53 +69677,17 @@
     "pubdate": "1991-01-01T08:00:00+00:00",
     "publisher": "Pantheon",
     "tags": [
-      "History",
+      "bookclub",
       "Biography",
-      "War",
-      "read_author",
-      "Fiction",
-      "Non-Fiction",
       "Comics",
-      "Historical"
+      "Fiction",
+      "Historical",
+      "History",
+      "Non-Fiction",
+      "read_author",
+      "War"
     ],
     "title": "Maus II: A Survivor's Tale: And Here My Troubles Began"
-  },
-  {
-    "*grrating": "4.4",
-    "*grvotes": "298114",
-    "*pagecount": 821,
-    "authors": "Edgar Allan Poe",
-    "id": 23689,
-    "pubdate": "1849-11-01T07:52:58+00:00",
-    "publisher": "Doubleday & Company, Inc.",
-    "tags": [
-      "special_top100author",
-      "Mystery",
-      "Poetry",
-      "Horror",
-      "Fantasy",
-      "Classics",
-      "special_top1000author"
-    ],
-    "title": "The Complete Stories and Poems"
-  },
-  {
-    "*grrating": "4.4",
-    "*grvotes": "209537",
-    "*pagecount": 341,
-    "authors": "Marjane Satrapi",
-    "id": 23690,
-    "pubdate": "2007-01-01T08:00:00+00:00",
-    "publisher": "Pantheon Books",
-    "tags": [
-      "History",
-      "Biography",
-      "Feminism",
-      "special_top1000author",
-      "Non-Fiction",
-      "Comics"
-    ],
-    "title": "The Complete Persepolis"
   },
   {
     "*grrating": "4.37",
@@ -70856,46 +70046,6 @@
       "special_top1000author"
     ],
     "title": "The Great Divorce"
-  },
-  {
-    "*grrating": "4.34",
-    "*grvotes": "270251",
-    "*pagecount": 159,
-    "authors": "James Baldwin",
-    "id": 23715,
-    "pubdate": "1956-01-01T08:00:00+00:00",
-    "publisher": "Knopf Doubleday Publishing Group",
-    "tags": [
-      "Adult",
-      "Gay",
-      "special_top1000author",
-      "special_top100author",
-      "Romance",
-      "read_author",
-      "Classics",
-      "Fiction",
-      "Historical",
-      "African American & Black",
-      "General",
-      "Literary"
-    ],
-    "title": "Giovanni's Room"
-  },
-  {
-    "*grrating": "4.29",
-    "*grvotes": "108736",
-    "*pagecount": 803,
-    "authors": "Hans Christian Andersen",
-    "id": 23717,
-    "pubdate": "1850-01-01T07:52:58+00:00",
-    "publisher": "Gramercy Books",
-    "tags": [
-      "Fantasy",
-      "Childrens",
-      "special_top1000author",
-      "Classics"
-    ],
-    "title": "The Complete Fairy Tales"
   },
   {
     "*grrating": "4.27",
@@ -71302,26 +70452,6 @@
       "Business"
     ],
     "title": "The Intelligent Investor"
-  },
-  {
-    "*grrating": "4.29",
-    "*grvotes": "107127",
-    "*pagecount": 770,
-    "authors": "Emily Dickinson",
-    "id": 23746,
-    "pubdate": "1890-01-01T08:00:00+00:00",
-    "publisher": "Little, Brown and Company",
-    "tags": [
-      "Adult",
-      "Feminism",
-      "Reference",
-      "Gay",
-      "special_top1000author",
-      "Poetry",
-      "Classics",
-      "Non-Fiction"
-    ],
-    "title": "The Complete Poems of Emily Dickinson"
   },
   {
     "*grrating": "4.19",
@@ -71975,28 +71105,6 @@
       "special_top1000author"
     ],
     "title": "Nine Stories"
-  },
-  {
-    "*grrating": "4.19",
-    "*grvotes": "78743",
-    "*pagecount": 233,
-    "authors": "Fyodor Dostoevsky",
-    "id": 23794,
-    "pubdate": "1864-01-01T07:52:58+00:00",
-    "publisher": "Signet",
-    "tags": [
-      "special_top1000author",
-      "Philosophy",
-      "Non-Fiction",
-      "Adult",
-      "special_top100author",
-      "read_author",
-      "Psychology",
-      "Historical",
-      "Fiction",
-      "Classics"
-    ],
-    "title": "Notes From Underground, White Nights, the Dream of a Ridiculous Man, and Selections From the House of the Dead"
   },
   {
     "*grrating": "4.18",
@@ -74818,25 +73926,6 @@
     "title": "The Big Sleep"
   },
   {
-    "*grrating": "3.97",
-    "*grvotes": "81941",
-    "*pagecount": 451,
-    "authors": "Orson Scott Card",
-    "id": 24002,
-    "pubdate": "2000-12-10T08:00:00+00:00",
-    "publisher": "Tor Books",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Fantasy",
-      "Science",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "title": "Shadow of the Hegemon"
-  },
-  {
     "*grrating": "3.99",
     "*grvotes": "76257",
     "*pagecount": 710,
@@ -74965,25 +74054,6 @@
       "special_top1000author"
     ],
     "title": "Far From the Madding Crowd"
-  },
-  {
-    "*grrating": "3.91",
-    "*grvotes": "147727",
-    "*pagecount": 224,
-    "authors": "Robert Louis Stevenson",
-    "id": 24011,
-    "pubdate": "1886-01-05T08:00:00+00:00",
-    "publisher": "Penguin Classics",
-    "tags": [
-      "special_top100author",
-      "Mystery",
-      "Horror",
-      "Science Fiction",
-      "Fantasy",
-      "Classics",
-      "special_top1000author"
-    ],
-    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror"
   },
   {
     "*grrating": "3.99",
@@ -75789,10 +74859,12 @@
     "*grrating": "3.83",
     "*grvotes": "678139",
     "*pagecount": 139,
+    "*wordcount": 26389,
     "authors": "Robert Louis Stevenson",
     "id": 24070,
     "pubdate": "1886-01-01T08:00:00+00:00",
     "publisher": "Signet Classic",
+    "size": 380269,
     "tags": [
       "special_top100author",
       "Fantasy",
@@ -75801,7 +74873,9 @@
       "Science Fiction",
       "Thriller",
       "Classics",
-      "special_top1000author"
+      "special_top1000author",
+      "Psychological fiction",
+      "Horror tales"
     ],
     "title": "Dr. Jekyll and Mr. Hyde"
   },
@@ -75939,42 +75013,6 @@
     "title": "A Thousand Acres"
   },
   {
-    "*grrating": "3.82",
-    "*grvotes": "166717",
-    "*pagecount": 592,
-    "authors": "Orson Scott Card",
-    "id": 24081,
-    "pubdate": "1991-08-01T07:00:00+00:00",
-    "publisher": "Tor Books",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Fantasy",
-      "Science Fiction",
-      "Science"
-    ],
-    "title": "Xenocide"
-  },
-  {
-    "*grrating": "3.8",
-    "*grvotes": "73231",
-    "*pagecount": 64,
-    "authors": "Christopher Marlowe",
-    "id": 24082,
-    "pubdate": "1588-01-01T07:52:58+00:00",
-    "publisher": "Dover Publications",
-    "tags": [
-      "Religion",
-      "Classics",
-      "Fantasy",
-      "Poetry",
-      "special_top1000author",
-      "Horror"
-    ],
-    "title": "Dr. Faustus"
-  },
-  {
     "*grrating": "3.81",
     "*grvotes": "133865",
     "*pagecount": 867,
@@ -76010,25 +75048,6 @@
       "read_author"
     ],
     "title": "The Taming of the Shrew"
-  },
-  {
-    "*grrating": "3.78",
-    "*grvotes": "114703",
-    "*pagecount": 370,
-    "authors": "Orson Scott Card",
-    "id": 24085,
-    "pubdate": "1996-08-01T07:00:00+00:00",
-    "publisher": "Tor Books",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Fantasy",
-      "Science",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "title": "Children of the Mind"
   },
   {
     "*grrating": "3.79",
@@ -76752,55 +75771,6 @@
     "title": "The Accidental Tourist / Ladder of Years"
   },
   {
-    "*grrating": "3.72",
-    "*grvotes": "29754",
-    "*pagecount": 238,
-    "authors": "A. N. Roquelaure & Anne Rice",
-    "id": 24219,
-    "pubdate": "1985-06-03T07:00:00+00:00",
-    "publisher": "Penguin Group",
-    "tags": [
-      "Fantasy",
-      "Adult",
-      "special_top1000author",
-      "Romance"
-    ],
-    "title": "Beauty's Release"
-  },
-  {
-    "*grrating": "3.63",
-    "*grvotes": "29813",
-    "*pagecount": 256,
-    "authors": "Anne Rice",
-    "id": 24220,
-    "pubdate": "1984-01-01T08:00:00+00:00",
-    "publisher": "Penguin Books",
-    "tags": [
-      "Fantasy",
-      "Adult",
-      "special_top1000author",
-      "Romance"
-    ],
-    "title": "Beauty's Punishment"
-  },
-  {
-    "*grrating": "3.58",
-    "*grvotes": "190",
-    "*pagecount": 204,
-    "authors": "Bram Stoker",
-    "id": 24222,
-    "pubdate": "1897-05-26T08:00:00+00:00",
-    "publisher": "Echo Library",
-    "tags": [
-      "Horror",
-      "Classics",
-      "special_top100author",
-      "Romance",
-      "special_top1000author"
-    ],
-    "title": "The Man"
-  },
-  {
     "*grrating": "4.17",
     "*grvotes": "3522",
     "*pagecount": 555,
@@ -77295,29 +76265,6 @@
       "Adventure"
     ],
     "title": "Elric of Melnibone"
-  },
-  {
-    "*grrating": "4.41",
-    "*grvotes": "1356",
-    "*pagecount": 1497,
-    "*wordcount": 497439,
-    "authors": "George Orwell",
-    "id": 24387,
-    "pubdate": "1949-01-01T07:00:00+00:00",
-    "publisher": "Penguin Classics",
-    "tags": [
-      "Literary Collections",
-      "Classics",
-      "special_top100author",
-      "Philosophy",
-      "Fiction",
-      "Science Fiction",
-      "Politics",
-      "European",
-      "English; Irish; Scottish; Welsh",
-      "special_top1000author"
-    ],
-    "title": "Modern Classics the Complete Novels of George Orwell"
   },
   {
     "*grrating": "4.19",
@@ -77900,268 +76847,6 @@
       "Horror"
     ],
     "title": "Ghost Story"
-  },
-  {
-    "*grrating": "3.63",
-    "*grvotes": "11713",
-    "*pagecount": 274,
-    "*wordcount": 111329,
-    "authors": "Orson Scott Card",
-    "id": 24590,
-    "pubdate": "2003-01-01T08:00:00+00:00",
-    "publisher": "Tor Fantasy",
-    "tags": [
-      "Young Adult",
-      "special_top1000author",
-      "Fantasy",
-      "Science Fiction",
-      "Fiction",
-      "Historical"
-    ],
-    "title": "The Crystal City"
-  },
-  {
-    "*grrating": "3.76",
-    "*grvotes": "16512",
-    "*pagecount": 339,
-    "*wordcount": 135972,
-    "authors": "Orson Scott Card",
-    "id": 24591,
-    "pubdate": "1995-09-01T07:00:00+00:00",
-    "publisher": "Macmillan",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "Action & Adventure",
-      "Epic",
-      "special_top1000author",
-      "Science Fiction",
-      "Fantasy",
-      "Fiction",
-      "General",
-      "Historical",
-      "Adventure"
-    ],
-    "title": "Alvin Journeyman"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "37463",
-    "*pagecount": 204,
-    "*wordcount": 81945,
-    "authors": "Orson Scott Card",
-    "id": 24592,
-    "pubdate": "1987-07-01T07:00:00+00:00",
-    "publisher": "Tor Fantasy",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Fantasy",
-      "Science Fiction",
-      "Fiction",
-      "Historical"
-    ],
-    "title": "Seventh Son"
-  },
-  {
-    "*grrating": "3.81",
-    "*grvotes": "21559",
-    "*pagecount": 272,
-    "*wordcount": 108518,
-    "authors": "Orson Scott Card",
-    "id": 24593,
-    "pubdate": "1988-01-28T08:00:00+00:00",
-    "publisher": "Macmillan",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "Action & Adventure",
-      "Epic",
-      "special_top1000author",
-      "Science Fiction",
-      "Fantasy",
-      "Fiction",
-      "General",
-      "Historical"
-    ],
-    "title": "Red Prophet"
-  },
-  {
-    "*grrating": "3.73",
-    "*grvotes": "13594",
-    "*pagecount": 261,
-    "*wordcount": 103011,
-    "authors": "Orson Scott Card",
-    "id": 24594,
-    "pubdate": "1998-01-01T08:00:00+00:00",
-    "publisher": "Macmillan",
-    "tags": [
-      "History",
-      "Young Adult",
-      "Action & Adventure",
-      "Epic",
-      "special_top1000author",
-      "Fantasy",
-      "Science Fiction",
-      "Fiction",
-      "General",
-      "Historical"
-    ],
-    "title": "Heartfire"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "56784",
-    "*pagecount": 285,
-    "*wordcount": 107646,
-    "authors": "Orson Scott Card",
-    "id": 24595,
-    "pubdate": "2005-03-01T08:00:00+00:00",
-    "publisher": "Orbit",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Science-Fiction",
-      "Fantasy",
-      "Science",
-      "Science Fiction",
-      "War"
-    ],
-    "title": "Shadow of the Giant"
-  },
-  {
-    "*grrating": "3.86",
-    "*grvotes": "14712",
-    "*pagecount": 125,
-    "*wordcount": 49201,
-    "authors": "Orson Scott Card",
-    "id": 24596,
-    "pubdate": "1999-01-01T08:00:00+00:00",
-    "publisher": "TOR",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Short Stories",
-      "Science-Fiction",
-      "Science Fiction",
-      "Fantasy",
-      "General",
-      "Alien Contact",
-      "Young Adult Fiction"
-    ],
-    "title": "First Meetings in Ender's Universe"
-  },
-  {
-    "*grrating": "3.92",
-    "*grvotes": "53944",
-    "*pagecount": 326,
-    "*wordcount": 127952,
-    "authors": "Orson Scott Card",
-    "id": 24597,
-    "pubdate": "2008-11-11T08:00:00+00:00",
-    "publisher": "Tor Science Fiction",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Science-Fiction",
-      "Fantasy",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "title": "Ender in Exile"
-  },
-  {
-    "*grrating": "4.32",
-    "*grvotes": "181041",
-    "*pagecount": 468,
-    "*wordcount": 142298,
-    "authors": "Orson Scott Card",
-    "id": 24598,
-    "pubdate": "1999-10-01T07:00:00+00:00",
-    "publisher": "Starscape",
-    "tags": [
-      "Fantasy & Magic",
-      "Young Adult",
-      "Juvenile Fiction",
-      "special_top1000author",
-      "War",
-      "Science-Fiction",
-      "Science Fiction",
-      "Fantasy",
-      "Fiction",
-      "General",
-      "Hard Science Fiction",
-      "Adventure"
-    ],
-    "title": "Ender's Shadow"
-  },
-  {
-    "*grrating": "3.9",
-    "*grvotes": "62428",
-    "*pagecount": 380,
-    "*wordcount": 98270,
-    "authors": "Orson Scott Card",
-    "id": 24599,
-    "pubdate": "2002-08-09T07:00:00+00:00",
-    "publisher": "Tor Books",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "special_top1000author",
-      "Science-Fiction",
-      "Fantasy",
-      "Science",
-      "Science Fiction",
-      "War",
-      "Adventure"
-    ],
-    "title": "Shadow Puppets"
-  },
-  {
-    "*grrating": "3.81",
-    "*grvotes": "18941",
-    "*pagecount": 310,
-    "*wordcount": 126205,
-    "authors": "Orson Scott Card",
-    "id": 24600,
-    "pubdate": "1989-01-01T08:00:00+00:00",
-    "publisher": "Macmillan",
-    "tags": [
-      "Adult",
-      "Young Adult",
-      "Action & Adventure",
-      "Epic",
-      "special_top1000author",
-      "Science Fiction",
-      "Fantasy",
-      "Fiction",
-      "General",
-      "Historical"
-    ],
-    "title": "Prentice Alvin"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "25225",
-    "*pagecount": 633,
-    "*wordcount": 177549,
-    "authors": "Orson Scott Card",
-    "id": 24601,
-    "pubdate": "2010-09-01T07:00:00+00:00",
-    "publisher": "Margaret K. McElderry Books",
-    "tags": [
-      "Young Adult",
-      "special_top1000author",
-      "Science-Fiction",
-      "Fantasy",
-      "Science Fiction",
-      "Adventure"
-    ],
-    "title": "Pathfinder"
   },
   {
     "*grrating": "3.75",
@@ -79463,26 +78148,6 @@
     "title": "Song of Lawino"
   },
   {
-    "*grrating": "4.2",
-    "*grvotes": "22925",
-    "*pagecount": 0,
-    "authors": "Naguib Mahfouz",
-    "id": 25776,
-    "pubdate": "1956-01-01T08:00:00+00:00",
-    "tags": [
-      "Realistic Fiction",
-      "Family & Relationships",
-      "Social & Cultural Fiction",
-      "Fiction",
-      "History",
-      "Historical fiction",
-      "Literary Fiction",
-      "Classics",
-      "Historical"
-    ],
-    "title": "The Cairo Trilogy"
-  },
-  {
     "*grrating": "4.0",
     "*grvotes": "12944",
     "*pagecount": 90,
@@ -79567,25 +78232,6 @@
       "Classics"
     ],
     "title": "Down Second Avenue"
-  },
-  {
-    "*grrating": "4.2",
-    "*grvotes": "22925",
-    "*pagecount": 0,
-    "authors": "Naguib Mahfouz",
-    "id": 25785,
-    "pubdate": "1956-01-01T08:00:00+00:00",
-    "tags": [
-      "Family & Relationships",
-      "Social & Cultural Fiction",
-      "Fiction",
-      "History",
-      "Historical fiction",
-      "Literary Fiction",
-      "Classics",
-      "Historical"
-    ],
-    "title": "Palace Walk"
   },
   {
     "*grrating": "3.88",
@@ -81255,22 +79901,24 @@
   },
   {
     "*grrating": "4.21",
-    "*grvotes": "36934",
+    "*grvotes": "37333",
     "*pagecount": 347,
     "*wordcount": 72000,
     "authors": "Marguerite Yourcenar",
     "id": 26086,
     "pubdate": "1951-01-01T08:00:00+00:00",
+    "publisher": "FSG Adult",
     "tags": [
-      "Literary Fiction",
       "Biography",
-      "History",
-      "Fiction",
+      "Literary Fiction",
+      "Classics",
+      "999",
       "Philosophy",
       "Historical fiction",
-      "Historical",
       "philosophical",
-      "Classics"
+      "History",
+      "Fiction",
+      "Historical"
     ],
     "title": "Memoirs of Hadrian"
   },
@@ -81355,28 +80003,6 @@
       "Classics"
     ],
     "title": "History"
-  },
-  {
-    "*grrating": "4.38",
-    "*grvotes": "41081",
-    "*pagecount": 555,
-    "authors": "Flannery O'Connor",
-    "id": 26099,
-    "pubdate": "1971-11-08T08:00:00+00:00",
-    "tags": [
-      "Literary Fiction",
-      "Gothic",
-      "Fiction",
-      "Anthologies",
-      "Contemporary",
-      "Social & Cultural Fiction",
-      "Short Story Collection",
-      "Adult",
-      "Classics",
-      "special_top100author",
-      "read_author"
-    ],
-    "title": "The Complete Stories of Flannery O'Connor"
   },
   {
     "*grrating": "3.89",
@@ -81583,21 +80209,6 @@
       "Family & Relationships"
     ],
     "title": "I Capture the Castle"
-  },
-  {
-    "*grrating": "4.2",
-    "*grvotes": "13068",
-    "*pagecount": 287,
-    "authors": "Elizabeth Bishop",
-    "id": 26116,
-    "pubdate": "1990-01-01T08:00:00+00:00",
-    "tags": [
-      "Classics",
-      "Literary Fiction",
-      "Fiction",
-      "Poetry"
-    ],
-    "title": "Complete Poems"
   },
   {
     "*grrating": "4.36",
@@ -83921,24 +82532,25 @@
     "title": "Tell Me a Riddle"
   },
   {
-    "*grrating": "4.07",
-    "*grvotes": "371147",
+    "*grrating": "4.06",
+    "*grvotes": "376202",
     "*pagecount": 34,
     "*wordcount": 6000,
     "authors": "Charlotte Perkins Gilman",
     "id": 26331,
     "pubdate": "1892-01-01T08:00:00+00:00",
+    "publisher": "Prabhat Prakashan",
     "tags": [
-      "999",
-      "Adult",
-      "Classics",
-      "Feminism",
-      "Fiction",
-      "Gothic",
-      "Horror",
       "Literary Fiction",
+      "Classics",
+      "999",
+      "Horror",
       "Psychological",
-      "Social & Cultural Fiction"
+      "Feminism",
+      "Adult",
+      "Fiction",
+      "Social & Cultural Fiction",
+      "Gothic"
     ],
     "title": "The Yellow Wallpaper"
   },
@@ -84826,11 +83438,12 @@
     "pubdate": "1872-01-01T07:52:58+00:00",
     "publisher": "Signet",
     "tags": [
-      "special_top100author",
-      "Historical",
+      "888",
       "Classics",
+      "Fiction",
+      "Historical",
       "Romance",
-      "Fiction"
+      "special_top100author"
     ],
     "title": "Middlemarch"
   },
@@ -84903,24 +83516,6 @@
       "Philosophy"
     ],
     "title": "Oedipus the King: Sophocles"
-  },
-  {
-    "*grrating": "4.4",
-    "*grvotes": "298250",
-    "*pagecount": 0,
-    "authors": "Edgar Allan Poe",
-    "id": 26426,
-    "pubdate": "1849-11-01T07:52:58+00:00",
-    "publisher": "JKL Classics",
-    "tags": [
-      "Mystery",
-      "Fantasy",
-      "Poetry",
-      "Classics",
-      "special_top100author",
-      "Horror"
-    ],
-    "title": "The Complete Tales and Poems of Edgar Allan Poe: By Edgar Allan Poe - Rank 9 of 100"
   },
   {
     "*grrating": "4.03",
@@ -85415,21 +84010,6 @@
     "title": "The Growth of the Soil: Nobel Laureate Knut Hamsun's Classic From 1917 in a New English Translation"
   },
   {
-    "*grrating": "4.35",
-    "*grvotes": "1087",
-    "*pagecount": 520,
-    "authors": "Guy de Maupassant",
-    "id": 26620,
-    "pubdate": "1902-01-01T08:00:00+00:00",
-    "publisher": "Kessinger Publishing",
-    "tags": [
-      "read_author",
-      "Adult",
-      "Classics"
-    ],
-    "title": "The Complete Short Stories of Guy De Maupassant, Part One"
-  },
-  {
     "*grrating": "3.78",
     "*grvotes": "16913",
     "authors": "Graham Greene",
@@ -85543,11 +84123,12 @@
     "pubdate": "1945-01-01T07:00:00+00:00",
     "publisher": "Random House of Canada",
     "tags": [
-      "Historical",
+      "bookclub",
       "Classics",
-      "War",
       "Fiction",
-      "read_author"
+      "Historical",
+      "read_author",
+      "War"
     ],
     "title": "Loving"
   },
@@ -86991,23 +85572,6 @@
     "title": "Amok and Other Stories"
   },
   {
-    "*grrating": "4.41",
-    "*grvotes": "1357",
-    "*pagecount": 925,
-    "authors": "George Orwell",
-    "id": 27771,
-    "pubdate": "1949-01-01T07:00:00+00:00",
-    "publisher": "Penguin Classic",
-    "tags": [
-      "special_top100author",
-      "Politics",
-      "Classics",
-      "Science Fiction",
-      "Philosophy"
-    ],
-    "title": "George Orwell Omnibus: The Complete Novels: Animal Farm, Burmese Days, a Clergyman's Daughter, Coming Up for Air, Keep the Aspidistra Flying, and Nineteen Eighty-Four"
-  },
-  {
     "*grrating": "3.89",
     "*grvotes": "12440",
     "*pagecount": 451,
@@ -87205,22 +85769,6 @@
     "title": "Dust Tracks on a Road (P.S.)"
   },
   {
-    "*grrating": "4.03",
-    "*grvotes": "1934",
-    "*pagecount": 470,
-    "authors": "\u00c9mile Zola",
-    "id": 27932,
-    "pubdate": "1892-01-01T08:00:00+00:00",
-    "publisher": "\u00c9ditions Ararauna",
-    "tags": [
-      "Historical",
-      "special_top100author",
-      "Classics",
-      "War"
-    ],
-    "title": "La d\u00e9b\u00e2cle - \u00c9mile Zola : Cycle Les Rougon-Macquart - Livre XIX - \u00c9ditions Ararauna: Texte int\u00e9gral"
-  },
-  {
     "*grrating": "4.05",
     "*grvotes": "23851",
     "*pagecount": 1056,
@@ -87369,23 +85917,6 @@
       "read_author"
     ],
     "title": "The Unpleasant Profession of Jonathan Hoag"
-  },
-  {
-    "*grrating": "4.26",
-    "*grvotes": "4565",
-    "*pagecount": 608,
-    "authors": "Walt Whitman",
-    "id": 28006,
-    "pubdate": "1892-01-01T08:00:00+00:00",
-    "publisher": "Wordsworth Editions Ltd",
-    "tags": [
-      "Poetry",
-      "Classics",
-      "Reference",
-      "special_top100author",
-      "Philosophy"
-    ],
-    "title": "The Complete Poems of Walt Whitman (Wordsworth Poetry)"
   },
   {
     "*grrating": "3.75",
@@ -87617,21 +86148,6 @@
   },
   {
     "*grrating": "4.33",
-    "*grvotes": "7124",
-    "authors": "T. S. Eliot",
-    "id": 28258,
-    "pubdate": "1952-01-01T08:00:00+00:00",
-    "publisher": "Ecco",
-    "tags": [
-      "Poetry",
-      "special_top100author",
-      "read_author",
-      "Classics"
-    ],
-    "title": "The Complete Poems and Plays, 1909-1950"
-  },
-  {
-    "*grrating": "4.33",
     "*grvotes": "745",
     "*pagecount": 385,
     "authors": "Stefan Zweig",
@@ -87854,24 +86370,6 @@
       "Philosophy"
     ],
     "title": "Theory of Colours"
-  },
-  {
-    "*grrating": "4.03",
-    "*grvotes": "1934",
-    "*pagecount": 228,
-    "authors": "\u00c9mile Zola",
-    "id": 28707,
-    "pubdate": "1892-01-01T08:00:00+00:00",
-    "publisher": "Independently Published",
-    "tags": [
-      "Historical",
-      "Fiction",
-      "History",
-      "War",
-      "Classics",
-      "special_top100author"
-    ],
-    "title": "La D\u00e9b\u00e2cle Les Rougon-Macquart Tome 19: Emile Zola"
   },
   {
     "*grrating": "3.8",
@@ -88133,20 +86631,6 @@
       "Biography"
     ],
     "title": "Count Belisarius"
-  },
-  {
-    "*grrating": "4.42",
-    "*grvotes": "125",
-    "*pagecount": 567,
-    "authors": "Thomas Mann",
-    "id": 29249,
-    "pubdate": "1936-01-01T08:00:00+00:00",
-    "publisher": "Modern Library",
-    "tags": [
-      "special_top100author",
-      "Classics"
-    ],
-    "title": "Stories of Three Decades"
   },
   {
     "*grrating": "3.79",
@@ -89021,20 +87505,6 @@
     "title": "The Power of Darkness"
   },
   {
-    "*grrating": "4.15",
-    "*grvotes": "505",
-    "authors": "Alexander Pushkin",
-    "id": 30453,
-    "pubdate": "1837-01-01T07:52:58+00:00",
-    "publisher": "Vintage",
-    "tags": [
-      "Poetry",
-      "read_author",
-      "Classics"
-    ],
-    "title": "Novels, Tales, Journeys: The Complete Prose of Alexander Pushkin"
-  },
-  {
     "*grrating": "3.8",
     "*grvotes": "10663",
     "*pagecount": 220,
@@ -89414,21 +87884,6 @@
     "title": "The Professor of Desire"
   },
   {
-    "*grrating": "4.52",
-    "*grvotes": "4629",
-    "*pagecount": 1497,
-    "authors": "Margaret Atwood",
-    "id": 30861,
-    "pubdate": "2013-08-27T07:00:00+00:00",
-    "publisher": "Vintage Canada",
-    "tags": [
-      "read_author",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "title": "The MaddAddam Trilogy: Oryx and Crake / the Year of the Flood / MaddAddam"
-  },
-  {
     "*grrating": "4.01",
     "*grvotes": "31319",
     "*pagecount": 162,
@@ -89591,22 +88046,6 @@
       "read_author"
     ],
     "title": "The Investigation"
-  },
-  {
-    "*grrating": "3.55",
-    "*grvotes": "1748",
-    "*pagecount": 145,
-    "authors": "F. Scott Fitzgerald",
-    "id": 31241,
-    "pubdate": "1941-05-01T08:00:00+00:00",
-    "publisher": "Classic F. Scott Fitzgerald Fiction: The complete Pat Hobby Short Stories",
-    "tags": [
-      "special_top100author",
-      "read_author",
-      "Humour",
-      "Classics"
-    ],
-    "title": "The Complete Pat Hobby Stories"
   },
   {
     "*grrating": "3.94",
@@ -89778,24 +88217,6 @@
     "title": "The West-Eastern Divan of Johann Wolfgang Von Goethe"
   },
   {
-    "*grrating": "4.25",
-    "*grvotes": "36945",
-    "*pagecount": 1165,
-    "authors": "Lewis Carroll",
-    "id": 31738,
-    "pubdate": "1982-01-01T08:00:00+00:00",
-    "publisher": "Barnes & Noble Publishing, Inc.",
-    "tags": [
-      "special_top100author",
-      "Classics",
-      "Childrens",
-      "Young Adult",
-      "Poetry",
-      "Fantasy"
-    ],
-    "title": "The Complete Works of Lewis Carroll"
-  },
-  {
     "*grrating": "3.96",
     "*grvotes": "10135",
     "*pagecount": 496,
@@ -89824,27 +88245,6 @@
       "Classics"
     ],
     "title": "The Plays of Oscar Wilde"
-  },
-  {
-    "*grrating": "4.47",
-    "*grvotes": "15463",
-    "*pagecount": 1216,
-    "authors": "Oscar Wilde",
-    "id": 31749,
-    "pubdate": "1908-01-01T08:00:00+00:00",
-    "publisher": "Harper Perennial Modern Classics",
-    "tags": [
-      "Fantasy",
-      "Romance",
-      "Poetry",
-      "Non-Fiction",
-      "Classics",
-      "special_top100author",
-      "Writing",
-      "Philosophy",
-      "Humour"
-    ],
-    "title": "The Complete Works of Oscar Wilde: Stories, Plays, Poems & Essays"
   },
   {
     "*grrating": "3.75",
@@ -90236,22 +88636,6 @@
     "title": "The Dark Tower: And Other Stories"
   },
   {
-    "*grrating": "4.38",
-    "*grvotes": "322",
-    "*pagecount": 574,
-    "authors": "Jean Rhys",
-    "id": 32376,
-    "pubdate": "1984-01-01T08:00:00+00:00",
-    "publisher": "Norton",
-    "tags": [
-      "Historical",
-      "Psychology",
-      "read_author",
-      "Classics"
-    ],
-    "title": "The Complete Novels: Voyage in the Dark / Quartet / After Leaving Mr Mackenzie / Good Morning, Midnight / Wide Sargasso Sea"
-  },
-  {
     "*grrating": "4.1",
     "*grvotes": "53996",
     "*pagecount": 256,
@@ -90285,24 +88669,6 @@
       "read_author"
     ],
     "title": "Desolation Angels by Kerouac, Jack ( Author ) ON May-03-2012, Paperback"
-  },
-  {
-    "*grrating": "4.28",
-    "*grvotes": "6886",
-    "*pagecount": 848,
-    "authors": "Mark Twain",
-    "id": 32530,
-    "pubdate": "1957-01-01T08:00:00+00:00",
-    "publisher": "Bantam Classics",
-    "tags": [
-      "Historical",
-      "Anthologies",
-      "Classics",
-      "Young Adult",
-      "special_top100author",
-      "Humour"
-    ],
-    "title": "The Complete Short Stories of Mark Twain"
   },
   {
     "*grrating": "4.0",
@@ -90523,23 +88889,6 @@
     "title": "The Truth"
   },
   {
-    "*grrating": "4.47",
-    "*grvotes": "39412",
-    "authors": "David Foster Wallace",
-    "id": 33171,
-    "pubdate": "2009-04-14T07:00:00+00:00",
-    "publisher": "Little, Brown and Company",
-    "tags": [
-      "Non-Fiction",
-      "Self Help",
-      "Writing",
-      "Psychology",
-      "Philosophy",
-      "read_author"
-    ],
-    "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, About Living a Compassionate Life"
-  },
-  {
     "*grrating": "3.61",
     "*grvotes": "13478",
     "*pagecount": 156,
@@ -90591,20 +88940,6 @@
     "title": "Selected Poems"
   },
   {
-    "*grrating": "4.33",
-    "*grvotes": "2438",
-    "*pagecount": 484,
-    "authors": "Samuel Beckett",
-    "id": 33223,
-    "pubdate": "1961-09-01T07:00:00+00:00",
-    "publisher": "Faber & Faber",
-    "tags": [
-      "special_top100author",
-      "Classics"
-    ],
-    "title": "The Complete Dramatic Works of Samuel Beckett"
-  },
-  {
     "*grrating": "3.72",
     "*grvotes": "18292",
     "*pagecount": 208,
@@ -90650,22 +88985,6 @@
       "Classics"
     ],
     "title": "Old Times on the Mississippi"
-  },
-  {
-    "*grrating": "4.25",
-    "*grvotes": "15267",
-    "*pagecount": 852,
-    "authors": "Victor Hugo",
-    "id": 33361,
-    "pubdate": "0101-01-01T00:00:00+00:00",
-    "tags": [
-      "special_top100author",
-      "Historical",
-      "Classics",
-      "Romance",
-      "Fiction"
-    ],
-    "title": "The Man Who Laughs: Victor Hugo (Adventure, Literature) [Annotated]"
   },
   {
     "*grrating": "3.88",
@@ -90905,22 +89224,6 @@
     "title": "Wessex Tales: Thomas Hardy"
   },
   {
-    "*grrating": "4.13",
-    "*grvotes": "1122",
-    "*pagecount": 864,
-    "authors": "H. G. Wells",
-    "id": 34262,
-    "pubdate": "1927-09-01T08:00:00+00:00",
-    "publisher": "Orion Publishing",
-    "tags": [
-      "special_top100author",
-      "Science Fiction",
-      "Fantasy",
-      "Classics"
-    ],
-    "title": "The Complete Short Stories of H.G. Wells"
-  },
-  {
     "*grrating": "3.55",
     "*grvotes": "438",
     "*pagecount": 96,
@@ -91039,18 +89342,6 @@
       "read_author"
     ],
     "title": "The Passenger"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "124",
-    "authors": "Ocean Vuong",
-    "id": 34534,
-    "pubdate": "2020-01-01T08:00:00+00:00",
-    "tags": [
-      "Poetry",
-      "read_author"
-    ],
-    "title": "On Earth We're Briefly Gorgeous & Night Sky With Exit Wounds by Ocean Vuong 2 Books Collection Set"
   },
   {
     "*grrating": "3.62",
@@ -91737,22 +90028,6 @@
       "Historical"
     ],
     "title": "Staring at the Sun"
-  },
-  {
-    "*grrating": "4.31",
-    "*grvotes": "559",
-    "authors": "Oscar Wilde & Merlin Holland & Rupert Hart-Davis",
-    "id": 35969,
-    "pubdate": "1962-01-01T08:00:00+00:00",
-    "publisher": "Henry Holt & Company",
-    "tags": [
-      "special_top100author",
-      "History",
-      "Classics",
-      "Biography",
-      "Poetry"
-    ],
-    "title": "The Complete Letters of Oscar Wilde"
   },
   {
     "*grrating": "4.12",
@@ -93415,22 +91690,6 @@
     "title": "Self-Consciousness: Memoirs by John Updike"
   },
   {
-    "*grrating": "4.24",
-    "*grvotes": "1102",
-    "*pagecount": 336,
-    "authors": "Zora Neale Hurston",
-    "id": 39193,
-    "pubdate": "1995-01-01T08:00:00+00:00",
-    "publisher": "Amistad",
-    "tags": [
-      "Anthologies",
-      "special_top100author",
-      "Adult",
-      "Classics"
-    ],
-    "title": "The Complete Stories"
-  },
-  {
     "*grrating": "3.9",
     "*grvotes": "14382",
     "*pagecount": 128,
@@ -93781,21 +92040,6 @@
     "title": "The Critic as Artist: With Some Remarks on the Importance of Doing Nothing and Discussing Everything"
   },
   {
-    "*grrating": "4.25",
-    "*grvotes": "127",
-    "*pagecount": 84,
-    "authors": "Oscar Wilde",
-    "id": 40200,
-    "pubdate": "2006-01-01T08:00:00+00:00",
-    "publisher": "Digireads.Com",
-    "tags": [
-      "special_top100author",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "The Complete Fairy Tales of Oscar Wilde"
-  },
-  {
     "*grrating": "4.47",
     "*grvotes": "4961",
     "*pagecount": 208,
@@ -94038,21 +92282,6 @@
       "read_author"
     ],
     "title": "Playing in the Dark: Whiteness and the Literary Imagination"
-  },
-  {
-    "*grrating": "4.28",
-    "*grvotes": "372",
-    "*pagecount": 8884,
-    "authors": "Thomas Hardy",
-    "id": 41581,
-    "pubdate": "1912-01-01T08:00:00+00:00",
-    "publisher": "Bauer Books",
-    "tags": [
-      "Poetry",
-      "special_top100author",
-      "Classics"
-    ],
-    "title": "Thomas Hardy: The Complete Works: The Hand of Ethelberta,The Trumpet-Major,The Woodlanders, Wessex Tales... (Illustrated) (Bauer Classics)"
   },
   {
     "*grrating": "4.25",
@@ -94667,23 +92896,6 @@
     "title": "Nesnesiteln\u00e1 lehkost byt\u00ed"
   },
   {
-    "*grrating": "4.14",
-    "*grvotes": "8354",
-    "*pagecount": 287,
-    "authors": "Fyodor Dostoevsky",
-    "id": 44121,
-    "pubdate": "1864-01-29T07:52:58+00:00",
-    "publisher": "Penguin Books",
-    "tags": [
-      "special_top100author",
-      "Classics",
-      "Psychology",
-      "Philosophy",
-      "read_author"
-    ],
-    "title": "Notes From Underground & the Double"
-  },
-  {
     "*grrating": "3.99",
     "*grvotes": "747333",
     "*pagecount": 416,
@@ -94699,24 +92911,6 @@
       "read_author"
     ],
     "title": "Naokos L\u00e4cheln"
-  },
-  {
-    "*grrating": "4.25",
-    "*grvotes": "36945",
-    "*pagecount": 1165,
-    "authors": "Lewis Carroll",
-    "id": 44154,
-    "pubdate": "1982-01-01T08:00:00+00:00",
-    "publisher": "Barnes & Noble",
-    "tags": [
-      "special_top100author",
-      "Classics",
-      "Childrens",
-      "Young Adult",
-      "Poetry",
-      "Fantasy"
-    ],
-    "title": "Alice's Adventures in Wonderland & Other Stories"
   },
   {
     "*grrating": "3.82",
@@ -94971,7 +93165,7 @@
   },
   {
     "*grrating": "3.83",
-    "*grvotes": "57694",
+    "*grvotes": "57836",
     "*pagecount": 312,
     "*wordcount": 86528,
     "authors": "Julia Phillips",
@@ -94981,13 +93175,13 @@
     "size": 733727,
     "tags": [
       "Mystery",
+      "999",
       "General",
       "Fiction",
       "Crime",
-      "Contemporary",
-      "Thriller",
       "Adult",
-      "999"
+      "Contemporary",
+      "Thriller"
     ],
     "title": "Disappearing Earth"
   },
@@ -95037,8 +93231,8 @@
     "title": "House of Leaves"
   },
   {
-    "*grrating": "3.98",
-    "*grvotes": "4252",
+    "*grrating": "3.94",
+    "*grvotes": "6386",
     "*pagecount": 104,
     "*wordcount": 34697,
     "authors": "Ben Lerner",
@@ -95047,12 +93241,13 @@
     "publisher": "Farrar, Straus and Giroux",
     "size": 4179767,
     "tags": [
-      "21st Century",
-      "999",
       "American",
+      "999",
+      "World Literature",
       "Fiction",
-      "Literary",
-      "World Literature"
+      "21st Century",
+      "Contemporary",
+      "Literary"
     ],
     "title": "Transcription: A Novel"
   },
@@ -95125,8 +93320,8 @@
     "publisher": "Amazon Original Stories",
     "size": 189879,
     "tags": [
+      "bookclub",
       "Adult",
-      "999",
       "Fantasy",
       "Science Fiction"
     ],
@@ -95145,5 +93340,35 @@
       "Literature -- Collections"
     ],
     "title": "Library of the World's Best Literature, Ancient and Modern"
+  },
+  {
+    "*grrating": "4.34",
+    "*grvotes": "277098",
+    "*pagecount": 174,
+    "*wordcount": 55465,
+    "authors": "James Baldwin",
+    "id": 45110,
+    "pubdate": "1956-01-01T08:00:00+00:00",
+    "publisher": "Everyman's Library",
+    "size": 363544,
+    "tags": [
+      "read_author",
+      "special_top100author",
+      "Classics",
+      "Romance",
+      "Americans",
+      "999",
+      "General",
+      "Historical",
+      "Fiction",
+      "Adult",
+      "Gay",
+      "Homosexuality",
+      "Bohemianism",
+      "African American & Black",
+      "special_top1000author",
+      "Literary"
+    ],
+    "title": "Giovanni's room"
   }
 ]

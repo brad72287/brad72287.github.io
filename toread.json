@@ -1,39 +1,63 @@
 [
   {
     "*grrating": "3.83",
-    "*grvotes": "57694",
+    "*grvotes": "57836",
     "*wordcount": 86528,
     "authors": "Julia Phillips",
     "id": 45012,
     "title": "Disappearing Earth"
   },
   {
-    "*grrating": "4.08",
-    "*grvotes": "3487",
+    "*grrating": "4.01",
+    "*grvotes": "7865",
     "*wordcount": 83714,
     "authors": "Y\u00e1ng Shu\u0101ng-Z\u01d0",
     "id": 9482,
     "title": "Taiwan Travelogue: A Novel"
   },
   {
-    "*grrating": "4.36",
-    "*grvotes": "1769",
+    "*grrating": "4.21",
+    "*grvotes": "37333",
+    "*wordcount": 72000,
+    "authors": "Marguerite Yourcenar",
+    "id": 26086,
+    "title": "Memoirs of Hadrian"
+  },
+  {
+    "*grrating": "4.29",
+    "*grvotes": "6574",
     "*wordcount": 63854,
     "authors": "Lauren Groff",
     "id": 21452,
     "title": "Brawler"
   },
   {
+    "*grrating": "4.34",
+    "*grvotes": "277098",
+    "*wordcount": 55465,
+    "authors": "James Baldwin",
+    "id": 45110,
+    "title": "Giovanni's room"
+  },
+  {
     "*grrating": "3.98",
-    "*grvotes": "4252",
+    "*grvotes": "5979",
+    "*wordcount": 45904,
+    "authors": "Julian Barnes",
+    "id": 598,
+    "title": "Departure"
+  },
+  {
+    "*grrating": "3.94",
+    "*grvotes": "6386",
     "*wordcount": 34697,
     "authors": "Ben Lerner",
     "id": 45018,
     "title": "Transcription: A Novel"
   },
   {
-    "*grrating": "3.96",
-    "*grvotes": "34874",
+    "*grrating": "3.95",
+    "*grvotes": "36504",
     "*wordcount": 34028,
     "authors": "Adolfo Bioy Casares",
     "id": 9750,
@@ -41,7 +65,7 @@
   },
   {
     "*grrating": "4.55",
-    "*grvotes": "111338",
+    "*grvotes": "126761",
     "*wordcount": 25291,
     "authors": "James Baldwin",
     "id": 10231,
@@ -49,23 +73,15 @@
   },
   {
     "*grrating": "4.17",
-    "*grvotes": "410245",
+    "*grvotes": "412240",
     "*wordcount": 21257,
     "authors": "Oscar Wilde",
     "id": 22952,
     "title": "The Importance of Being Earnest"
   },
   {
-    "*grrating": "4.01",
-    "*grvotes": "35058",
-    "*wordcount": 9012,
-    "authors": "N. K. Jemisin",
-    "id": 45023,
-    "title": "Emergency Skin"
-  },
-  {
-    "*grrating": "4.07",
-    "*grvotes": "371147",
+    "*grrating": "4.06",
+    "*grvotes": "376202",
     "*wordcount": 6000,
     "authors": "Charlotte Perkins Gilman",
     "id": 26331,
