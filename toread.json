@@ -1,19 +1,43 @@
 [
   {
+    "*grrating": "4.3",
+    "*grvotes": "2409",
+    "*wordcount": 104850,
+    "authors": "Richard Brautigan",
+    "id": 45116,
+    "title": "Revenge of the Lawn, The Abortion, So the Wind Won't Blow It All Away"
+  },
+  {
+    "*grrating": "3.8",
+    "*grvotes": "86605",
+    "*wordcount": 96043,
+    "authors": "Charles Bukowski",
+    "id": 19903,
+    "title": "Women"
+  },
+  {
+    "*grrating": "4.04",
+    "*grvotes": "15604",
+    "*wordcount": 90932,
+    "authors": "Bernard Werber",
+    "id": 45115,
+    "title": "Empire of the Ants"
+  },
+  {
+    "*grrating": "4.27",
+    "*grvotes": "950711",
+    "*wordcount": 88643,
+    "authors": "William Goldman",
+    "id": 2869,
+    "title": "The Princess Bride"
+  },
+  {
     "*grrating": "3.83",
     "*grvotes": "57836",
     "*wordcount": 86528,
     "authors": "Julia Phillips",
     "id": 45012,
     "title": "Disappearing Earth"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "7865",
-    "*wordcount": 83714,
-    "authors": "Y\u00e1ng Shu\u0101ng-Z\u01d0",
-    "id": 9482,
-    "title": "Taiwan Travelogue: A Novel"
   },
   {
     "*grrating": "4.21",
@@ -72,6 +96,14 @@
     "title": "The Fire Next Time"
   },
   {
+    "*grrating": "3.85",
+    "*grvotes": "2993",
+    "*wordcount": 22034,
+    "authors": "Richard Brautigan",
+    "id": 45114,
+    "title": "Willard and His Bowling Trophies"
+  },
+  {
     "*grrating": "4.17",
     "*grvotes": "412240",
     "*wordcount": 21257,
@@ -86,5 +118,26 @@
     "authors": "Charlotte Perkins Gilman",
     "id": 26331,
     "title": "The Yellow Wallpaper"
+  },
+  {
+    "*grrating": "3.81",
+    "*grvotes": "38625",
+    "authors": "Han Kang",
+    "id": 24706,
+    "title": "The White Book"
+  },
+  {
+    "*grrating": "4.19",
+    "*grvotes": "19781",
+    "authors": "Raymond Carver",
+    "id": 36731,
+    "title": "Will You Please Be Quiet, Please?"
+  },
+  {
+    "*grrating": "4.14",
+    "*grvotes": "7767",
+    "authors": "Robert Graves",
+    "id": 38385,
+    "title": "The Greek Myths: Complete Edition"
   }
 ]
