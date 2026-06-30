@@ -1,13 +1,5 @@
 [
   {
-    "*grrating": "4.26",
-    "*grvotes": "21534",
-    "*wordcount": 120656,
-    "authors": "John Williams",
-    "id": 45628,
-    "title": "Augustus"
-  },
-  {
     "*grrating": "4.3",
     "*grvotes": "2409",
     "*wordcount": 104850,
@@ -48,28 +40,12 @@
     "title": "Disappearing Earth"
   },
   {
-    "*grrating": "3.89",
-    "*grvotes": "72",
-    "*wordcount": 82189,
-    "authors": "Edwin Frank",
-    "id": 20914,
-    "title": "The Red Thread: Twenty Years of NYRB Classics: A Selection"
-  },
-  {
     "*grrating": "4.21",
     "*grvotes": "37333",
     "*wordcount": 72000,
     "authors": "Marguerite Yourcenar",
     "id": 26086,
     "title": "Memoirs of Hadrian"
-  },
-  {
-    "*grrating": "3.93",
-    "*grvotes": "62368",
-    "*wordcount": 69274,
-    "authors": "John Wyndham",
-    "id": 15399,
-    "title": "The Chrysalids"
   },
   {
     "*grrating": "4.29",
@@ -110,22 +86,6 @@
     "authors": "Adolfo Bioy Casares",
     "id": 9750,
     "title": "The Invention of Morel"
-  },
-  {
-    "*grrating": "4.55",
-    "*grvotes": "126761",
-    "*wordcount": 25291,
-    "authors": "James Baldwin",
-    "id": 10231,
-    "title": "The Fire Next Time"
-  },
-  {
-    "*grrating": "3.85",
-    "*grvotes": "2993",
-    "*wordcount": 22034,
-    "authors": "Richard Brautigan",
-    "id": 45114,
-    "title": "Willard and His Bowling Trophies"
   },
   {
     "*grrating": "4.17",

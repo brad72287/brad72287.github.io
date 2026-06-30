@@ -31509,15 +31509,14 @@
     "size": 1761384,
     "tags": [
       "Biography",
-      "read_author",
       "Classics",
-      "special_top100author",
-      "999",
       "History",
-      "Writing",
-      "Politics",
       "Non-Fiction",
-      "special_top1000author"
+      "Politics",
+      "read_author",
+      "special_top1000author",
+      "special_top100author",
+      "Writing"
     ],
     "title": "The Fire Next Time"
   },
@@ -42075,7 +42074,6 @@
     "publisher": "NYRB Classics",
     "size": 188839,
     "tags": [
-      "999",
       "Classics",
       "Fantasy",
       "nyrb_classics",
@@ -56377,8 +56375,7 @@
     "tags": [
       "Classics",
       "Fiction",
-      "Literary",
-      "999"
+      "Literary"
     ],
     "title": "The Red Thread: Twenty Years of NYRB Classics: A Selection"
   },
@@ -86908,11 +86905,10 @@
     "publisher": "New York: Simon and Schuster",
     "size": 104937,
     "tags": [
-      "999",
-      "Mystery",
-      "Humour",
+      "Classics",
       "Fantasy",
-      "Classics"
+      "Humour",
+      "Mystery"
     ],
     "title": "Willard and His Bowling Trophies"
   },
@@ -95428,7 +95424,6 @@
     "publisher": "NYRB Classics",
     "size": 1450465,
     "tags": [
-      "999",
       "Classics",
       "Historical"
     ],
