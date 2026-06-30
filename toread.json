@@ -8,14 +8,6 @@
     "title": "Revenge of the Lawn, The Abortion, So the Wind Won't Blow It All Away"
   },
   {
-    "*grrating": "3.8",
-    "*grvotes": "86605",
-    "*wordcount": 96043,
-    "authors": "Charles Bukowski",
-    "id": 19903,
-    "title": "Women"
-  },
-  {
     "*grrating": "4.04",
     "*grvotes": "15604",
     "*wordcount": 90932,
@@ -24,12 +16,12 @@
     "title": "Empire of the Ants"
   },
   {
-    "*grrating": "4.27",
-    "*grvotes": "950711",
-    "*wordcount": 88643,
-    "authors": "William Goldman",
-    "id": 2869,
-    "title": "The Princess Bride"
+    "*grrating": "",
+    "*grvotes": "",
+    "*wordcount": 90757,
+    "authors": "David R. Bunch",
+    "id": 45121,
+    "title": "Moderan"
   },
   {
     "*grrating": "3.83",
@@ -40,12 +32,28 @@
     "title": "Disappearing Earth"
   },
   {
+    "*grrating": "3.89",
+    "*grvotes": "72",
+    "*wordcount": 82189,
+    "authors": "Edwin Frank",
+    "id": 20914,
+    "title": "The Red Thread: Twenty Years of NYRB Classics: A Selection"
+  },
+  {
     "*grrating": "4.21",
     "*grvotes": "37333",
     "*wordcount": 72000,
     "authors": "Marguerite Yourcenar",
     "id": 26086,
     "title": "Memoirs of Hadrian"
+  },
+  {
+    "*grrating": "3.93",
+    "*grvotes": "62368",
+    "*wordcount": 69274,
+    "authors": "John Wyndham",
+    "id": 15399,
+    "title": "The Chrysalids"
   },
   {
     "*grrating": "4.29",
@@ -110,34 +118,5 @@
     "authors": "Oscar Wilde",
     "id": 22952,
     "title": "The Importance of Being Earnest"
-  },
-  {
-    "*grrating": "4.06",
-    "*grvotes": "376202",
-    "*wordcount": 6000,
-    "authors": "Charlotte Perkins Gilman",
-    "id": 26331,
-    "title": "The Yellow Wallpaper"
-  },
-  {
-    "*grrating": "3.81",
-    "*grvotes": "38625",
-    "authors": "Han Kang",
-    "id": 24706,
-    "title": "The White Book"
-  },
-  {
-    "*grrating": "4.19",
-    "*grvotes": "19781",
-    "authors": "Raymond Carver",
-    "id": 36731,
-    "title": "Will You Please Be Quiet, Please?"
-  },
-  {
-    "*grrating": "4.14",
-    "*grvotes": "7767",
-    "authors": "Robert Graves",
-    "id": 38385,
-    "title": "The Greek Myths: Complete Edition"
   }
-]
+]Integration status: True
