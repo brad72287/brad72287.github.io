@@ -95411,8 +95411,9 @@
     "publisher": "New York Review Books",
     "size": 570490,
     "tags": [
-      "Historical",
-      "Classics"
+      "999",
+      "Classics",
+      "Historical"
     ],
     "title": "Butcher's Crossing"
   },
@@ -95427,8 +95428,9 @@
     "publisher": "NYRB Classics",
     "size": 1450465,
     "tags": [
-      "Historical",
-      "Classics"
+      "999",
+      "Classics",
+      "Historical"
     ],
     "title": "Augustus"
   }

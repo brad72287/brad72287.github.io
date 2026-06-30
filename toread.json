@@ -1,11 +1,27 @@
 [
   {
+    "*grrating": "4.26",
+    "*grvotes": "21534",
+    "*wordcount": 120656,
+    "authors": "John Williams",
+    "id": 45628,
+    "title": "Augustus"
+  },
+  {
     "*grrating": "4.3",
     "*grvotes": "2409",
     "*wordcount": 104850,
     "authors": "Richard Brautigan",
     "id": 45116,
     "title": "Revenge of the Lawn, The Abortion, So the Wind Won't Blow It All Away"
+  },
+  {
+    "*grrating": "4.18",
+    "*grvotes": "41165",
+    "*wordcount": 101549,
+    "authors": "John Williams",
+    "id": 45627,
+    "title": "Butcher's Crossing"
   },
   {
     "*grrating": "4.04",
