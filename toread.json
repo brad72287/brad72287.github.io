@@ -1,11 +1,11 @@
 [
   {
-    "*grrating": "4.3",
-    "*grvotes": "2409",
-    "*wordcount": 104850,
-    "authors": "Richard Brautigan",
-    "id": 45116,
-    "title": "Revenge of the Lawn, The Abortion, So the Wind Won't Blow It All Away"
+    "*grrating": "4.21",
+    "*grvotes": "37615",
+    "*wordcount": 106356,
+    "authors": "Marguerite Yourcenar",
+    "id": 45664,
+    "title": "Memoirs of Hadrian"
   },
   {
     "*grrating": "4.18",
@@ -16,6 +16,14 @@
     "title": "Butcher's Crossing"
   },
   {
+    "*grrating": "4.05",
+    "*grvotes": "17623",
+    "*wordcount": 96695,
+    "authors": "L\u00e1szl\u00f3 Krasznahorkai",
+    "id": 45665,
+    "title": "Satantango"
+  },
+  {
     "*grrating": "4.04",
     "*grvotes": "15604",
     "*wordcount": 90932,
@@ -24,8 +32,8 @@
     "title": "Empire of the Ants"
   },
   {
-    "*grrating": "",
-    "*grvotes": "",
+    "*grrating": "3.8",
+    "*grvotes": "501",
     "*wordcount": 90757,
     "authors": "David R. Bunch",
     "id": 45121,
@@ -38,14 +46,6 @@
     "authors": "Julia Phillips",
     "id": 45012,
     "title": "Disappearing Earth"
-  },
-  {
-    "*grrating": "4.21",
-    "*grvotes": "37333",
-    "*wordcount": 72000,
-    "authors": "Marguerite Yourcenar",
-    "id": 26086,
-    "title": "Memoirs of Hadrian"
   },
   {
     "*grrating": "4.29",
@@ -61,7 +61,7 @@
     "*wordcount": 55465,
     "authors": "James Baldwin",
     "id": 45110,
-    "title": "Giovanni's room"
+    "title": "Giovanni's Room"
   },
   {
     "*grrating": "3.98",
@@ -72,20 +72,20 @@
     "title": "Departure"
   },
   {
-    "*grrating": "3.94",
-    "*grvotes": "6386",
-    "*wordcount": 34697,
-    "authors": "Ben Lerner",
-    "id": 45018,
-    "title": "Transcription: A Novel"
-  },
-  {
     "*grrating": "3.95",
     "*grvotes": "36504",
     "*wordcount": 34028,
     "authors": "Adolfo Bioy Casares",
     "id": 9750,
     "title": "The Invention of Morel"
+  },
+  {
+    "*grrating": "4.03",
+    "*grvotes": "4476",
+    "*wordcount": 33030,
+    "authors": "Richard Brautigan",
+    "id": 45661,
+    "title": "So the Wind Won't Blow It All Away"
   },
   {
     "*grrating": "4.17",
