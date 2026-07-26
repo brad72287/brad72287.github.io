@@ -1,1650 +1,1037 @@
 [
   {
-    "*grrating": "3.43",
-    "*grvotes": "35",
-    "*wordcount": 771800,
-    "authors": "Lovecraft H.P.",
-    "id": 45111,
-    "title": "The Complete H.P. Lovecraft Collection (Xist Classics)"
-  },
-  {
-    "*grrating": "4.11",
-    "*grvotes": "945069",
-    "*wordcount": 351293,
-    "authors": "Leo Tolstoy",
-    "id": 5312,
-    "title": "Anna Karenina"
-  },
-  {
-    "*grrating": "3.95",
-    "*grvotes": "1597",
-    "*wordcount": 281352,
-    "authors": "Geoffrey Chaucer",
-    "id": 20926,
-    "title": "The Canterbury Tales and Other Poems"
-  },
-  {
-    "*grrating": "3.76",
-    "*grvotes": "139353",
-    "*wordcount": 268101,
-    "authors": "James Joyce",
-    "id": 13850,
-    "title": "Ulysses"
-  },
-  {
-    "*grrating": "4.21",
-    "*grvotes": "222735",
-    "*wordcount": 243849,
-    "authors": "Fyodor Dostoevsky",
-    "id": 20254,
-    "title": "The Idiot"
-  },
-  {
-    "*grrating": "4.29",
-    "*grvotes": "1656030",
-    "*wordcount": 205516,
-    "authors": "Frank Herbert",
-    "id": 19749,
-    "title": "Dune"
-  },
-  {
-    "*grrating": "4.37",
-    "*grvotes": "32180",
-    "*wordcount": 181824,
-    "authors": "Anton Chekhov",
-    "id": 18578,
-    "title": "Selected Stories of Anton Chekhov"
-  },
-  {
-    "*grrating": "4.35",
-    "*grvotes": "15432",
-    "*wordcount": 171670,
-    "authors": "Nikolai Gogol",
-    "id": 41846,
-    "title": "The Collected Tales of Nikolai Gogol"
-  },
-  {
-    "*grrating": "3.81",
-    "*grvotes": "18103",
-    "*wordcount": 171050,
-    "authors": "Joseph Conrad",
-    "id": 1681,
-    "title": "Nostromo"
-  },
-  {
-    "*grrating": "4.28",
-    "*grvotes": "431295",
-    "*wordcount": 157221,
-    "authors": "Mikhail Bulgakov",
-    "id": 19650,
-    "title": "The Master and Margarita"
-  },
-  {
-    "*grrating": "4.03",
-    "*grvotes": "1067580",
-    "*wordcount": 141571,
-    "authors": "William Shakespeare & Jeff Wood & Lynn Wood",
-    "id": 6389,
-    "title": "Hamlet"
-  },
-  {
-    "*grrating": "4.33",
-    "*grvotes": "25686",
-    "*wordcount": 141201,
-    "authors": "Ivo Andri\u0107",
-    "id": 17694,
-    "title": "The Bridge on the Drina"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "1510",
-    "*wordcount": 138485,
-    "authors": "Sinclair Lewis",
-    "id": 45008,
-    "title": "Dodsworth"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "140694",
-    "*wordcount": 138454,
-    "authors": "Viet Thanh Nguyen",
-    "id": 10646,
-    "title": "The Sympathizer"
-  },
-  {
-    "*grrating": "3.9",
-    "*grvotes": "2207578",
-    "*wordcount": 138065,
-    "authors": "Emily Bront\u00eb",
-    "id": 16066,
-    "title": "Wuthering Heights"
-  },
-  {
-    "*grrating": "4.07",
-    "*grvotes": "16064",
-    "*wordcount": 128688,
-    "authors": "David Foster Wallace",
-    "id": 3428,
-    "title": "Oblivion: stories"
-  },
-  {
-    "*grrating": "3.76",
-    "*grvotes": "16199",
-    "*wordcount": 127460,
-    "authors": "Saul Bellow",
-    "id": 13481,
-    "title": "Henderson The Rain King"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "4990",
-    "*wordcount": 125454,
-    "authors": "Italo Calvino",
-    "id": 2736,
-    "title": "The Complete Cosmicomics"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "604",
-    "*wordcount": 125399,
-    "authors": "Tatyana Tolstaya",
-    "id": 17715,
-    "title": "White Walls: Collected Stories"
-  },
-  {
-    "*grrating": "4.23",
-    "*grvotes": "1332",
-    "*wordcount": 123786,
-    "authors": "Guy de Maupassant",
-    "id": 3626,
-    "title": "The Collected Stories of Guy De Maupassant"
-  },
-  {
-    "*grrating": "3.99",
-    "*grvotes": "744803",
-    "*wordcount": 123428,
-    "authors": "Haruki Murakami",
-    "id": 3854,
-    "title": "Norwegian Wood"
-  },
-  {
-    "*grrating": "4.12",
-    "*grvotes": "3645",
-    "*wordcount": 120584,
-    "authors": "Fyodor Dostoevsky",
-    "id": 27889,
-    "title": "The Double and the Gambler"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "139986",
-    "*wordcount": 119534,
-    "authors": "Robert A. Heinlein",
-    "id": 19885,
-    "title": "The Moon Is a Harsh Mistress"
-  },
-  {
-    "*grrating": "4.08",
-    "*grvotes": "509695",
-    "*wordcount": 119160,
-    "authors": "Liu Cixin",
-    "id": 14284,
-    "title": "The Three-Body Problem"
-  },
-  {
-    "*grrating": "3.61",
-    "*grvotes": "452721",
-    "*wordcount": 117088,
-    "authors": "Jack Kerouac",
-    "id": 4132,
-    "title": "On the Road"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "231788",
-    "*wordcount": 116564,
-    "authors": "Cormac McCarthy",
-    "id": 45006,
-    "title": "Blood Meridian, or the Evening Redness in the West"
-  },
-  {
-    "*grrating": "4.12",
-    "*grvotes": "78520",
-    "*wordcount": 116281,
-    "authors": "Jack London",
-    "id": 11253,
-    "title": "The Call of the Wild / White Fang"
-  },
-  {
-    "*grrating": "3.87",
-    "*grvotes": "958573",
-    "*wordcount": 115371,
-    "authors": "Vladimir Nabokov",
-    "id": 6329,
-    "title": "Lolita"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "95566",
-    "*wordcount": 112702,
-    "authors": "E. M. Forster",
-    "id": 16203,
-    "title": "Howards End"
-  },
-  {
-    "*grrating": "3.97",
-    "*grvotes": "198992",
-    "*wordcount": 112448,
-    "authors": "Edith Wharton",
-    "id": 19525,
-    "title": "The Age of Innocence"
-  },
-  {
-    "*grrating": "4.11",
-    "*grvotes": "383939",
-    "*wordcount": 111642,
-    "authors": "Martha Wells",
-    "id": 6807,
-    "title": "All Systems Red"
-  },
-  {
-    "*grrating": "4.33",
-    "*grvotes": "92687",
-    "*wordcount": 110586,
-    "authors": "Michael Shaara",
-    "id": 4409,
-    "title": "The Killer Angels"
-  },
-  {
-    "*grrating": "3.86",
-    "*grvotes": "197975",
-    "*wordcount": 109911,
-    "authors": "William Faulkner",
-    "id": 10761,
-    "title": "The Sound and the Fury"
-  },
-  {
-    "*grrating": "3.77",
-    "*grvotes": "18934",
-    "*wordcount": 109621,
-    "authors": "V. S. Naipaul",
-    "id": 13727,
-    "title": "A Bend in the River"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "13364",
-    "*wordcount": 109414,
-    "authors": "Greg Egan",
-    "id": 2129,
-    "title": "Permutation City"
-  },
-  {
-    "*grrating": "3.77",
-    "*grvotes": "151142",
-    "*wordcount": 109414,
-    "authors": "F. Scott Fitzgerald",
-    "id": 20298,
-    "title": "Tender Is the Night"
-  },
-  {
-    "*grrating": "3.65",
-    "*grvotes": "78737",
-    "*wordcount": 106798,
-    "authors": "Henry Miller",
-    "id": 20913,
-    "title": "Tropic of Cancer"
-  },
-  {
-    "*grrating": "4.31",
-    "*grvotes": "287933",
-    "*wordcount": 106054,
-    "authors": "Octavia E. Butler",
-    "id": 17531,
-    "title": "Kindred"
-  },
-  {
-    "*grrating": "3.31",
-    "*grvotes": "3491",
-    "*wordcount": 104525,
-    "authors": "Alexandra Kleeman",
-    "id": 3614,
-    "title": "Something New Under the Sun"
-  },
-  {
-    "*grrating": "4.06",
-    "*grvotes": "20749",
-    "*wordcount": 103960,
-    "authors": "Robertson Davies",
-    "id": 27682,
-    "title": "Fifth Business"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "498117",
-    "*wordcount": 103452,
-    "authors": "Elena Ferrante",
-    "id": 1227,
-    "title": "My Brilliant Friend"
-  },
-  {
-    "*grrating": "3.86",
-    "*grvotes": "128834",
-    "*wordcount": 102483,
-    "authors": "Don DeLillo",
-    "id": 18771,
-    "title": "White Noise"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "1585",
-    "*wordcount": 101564,
-    "authors": "Julien Gracq",
-    "id": 6895,
-    "title": "The Opposing Shore"
-  },
-  {
-    "*grrating": "4.18",
-    "*grvotes": "41165",
-    "*wordcount": 101549,
-    "authors": "John Williams",
-    "id": 45627,
-    "title": "Butcher's Crossing"
-  },
-  {
-    "*grrating": "3.91",
-    "*grvotes": "64269",
-    "*wordcount": 100269,
-    "authors": "Kurt Vonnegut",
-    "id": 3817,
-    "title": "Player piano"
-  },
-  {
-    "*grrating": "3.78",
-    "*grvotes": "16561",
-    "*wordcount": 99445,
-    "authors": "Iris Murdoch",
-    "id": 5942,
-    "title": "Under the Net"
-  },
-  {
-    "*grrating": "0.0",
-    "*grvotes": "0",
-    "*wordcount": 99306,
-    "authors": "Heliodorus",
-    "id": 24623,
-    "title": "Aethiopica: Theagenes and Chariclea"
-  },
-  {
-    "*grrating": "4.52",
-    "*grvotes": "55222",
-    "*wordcount": 98435,
-    "authors": "Susan Abulhawa",
-    "id": 19906,
-    "title": "Mornings in Jenin"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "31107",
-    "*wordcount": 97637,
-    "authors": "Paul Bowles",
-    "id": 20851,
-    "title": "The Sheltering Sky ; with an Introduction by Michael Hoffmann"
-  },
-  {
-    "*grrating": "4.02",
-    "*grvotes": "321372",
-    "*wordcount": 97277,
-    "authors": "Albert Camus",
-    "id": 17224,
-    "title": "The Plague"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "331035",
-    "*wordcount": 96908,
-    "authors": "Arundhati Roy",
-    "id": 17142,
-    "title": "The God of Small Things"
-  },
-  {
-    "*grrating": "3.86",
-    "*grvotes": "566",
-    "*wordcount": 96646,
-    "authors": "John Glassco",
-    "id": 16437,
-    "title": "Memoirs of Montparnasse"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "2475927",
-    "*wordcount": 95897,
-    "authors": "Margaret Atwood",
-    "id": 15825,
-    "title": "The Handmaid's Tale"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "33109",
-    "*wordcount": 93524,
-    "authors": "Paul Auster",
-    "id": 17679,
-    "title": "The Brooklyn Follies"
-  },
-  {
-    "*grrating": "3.94",
-    "*grvotes": "6174",
-    "*wordcount": 92702,
-    "authors": "Craig Thomas",
-    "id": 15249,
-    "title": "Firefox"
-  },
-  {
-    "*grrating": "3.91",
-    "*grvotes": "771",
-    "*wordcount": 92516,
-    "authors": "Abubakar Adam Ibrahim",
-    "id": 2429,
-    "title": "Season of Crimson Blossoms"
-  },
-  {
-    "*grrating": "4.44",
-    "*grvotes": "34148",
-    "*wordcount": 92406,
-    "authors": "Jorge Luis Borges",
-    "id": 45007,
-    "title": "Labyrinths"
-  },
-  {
-    "*grrating": "4.25",
-    "*grvotes": "128098",
-    "*wordcount": 91131,
-    "authors": "Ted Chiang",
-    "id": 4413,
-    "title": "Stories of Your Life and Others"
-  },
-  {
-    "*grrating": "4.36",
-    "*grvotes": "284597",
-    "*wordcount": 90194,
-    "authors": "John Williams",
-    "id": 4839,
-    "title": "Stoner"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "48442",
-    "*wordcount": 88930,
-    "authors": "Giuseppe Tomasi Di Lampedusa",
-    "id": 176,
-    "title": "The Leopard"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "31102",
-    "*wordcount": 88318,
-    "authors": "Graham Greene & James Wood",
-    "id": 1596,
-    "title": "The Heart of the Matter"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "226974",
-    "*wordcount": 87902,
-    "authors": "Ursula K. Le Guin",
-    "id": 10201,
-    "title": "The Left Hand of Darkness"
-  },
-  {
-    "*grrating": "4.06",
-    "*grvotes": "450733",
-    "*wordcount": 87719,
-    "authors": "Colson Whitehead",
-    "id": 13751,
-    "title": "The Underground Railroad"
-  },
-  {
-    "*grrating": "3.94",
-    "*grvotes": "405111",
-    "*wordcount": 87270,
-    "authors": "Franz Kafka",
-    "id": 2170,
-    "title": "The Trial"
-  },
-  {
-    "*grrating": "4.15",
-    "*grvotes": "185477",
-    "*wordcount": 86353,
-    "authors": "Kaveh Akbar",
-    "id": 14695,
-    "title": "Martyr!"
-  },
-  {
-    "*grrating": "3.81",
-    "*grvotes": "16451",
-    "*wordcount": 86149,
-    "authors": "John O'Hara",
-    "id": 7377,
-    "title": "Appointment in Samarra"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "553024",
-    "*wordcount": 86057,
-    "authors": "Milan Kundera",
-    "id": 5980,
-    "title": "The Unbearable Lightness of Being"
-  },
-  {
-    "*grrating": "3.52",
-    "*grvotes": "4972",
-    "*wordcount": 85243,
-    "authors": "Max Beerbohm",
-    "id": 13625,
-    "title": "Zuleika Dobson: An Oxford Love Story"
-  },
-  {
-    "*grrating": "4.35",
-    "*grvotes": "259",
-    "*wordcount": 85147,
-    "authors": "Siamak Herawi",
-    "id": 17572,
-    "title": "Tali Girls: A Novel of Afghanistan"
-  },
-  {
-    "*grrating": "3.64",
-    "*grvotes": "165803",
-    "*wordcount": 84833,
-    "authors": "James Joyce",
-    "id": 13851,
-    "title": "A Portrait of the Artist as a Young Man"
-  },
-  {
-    "*grrating": "3.89",
-    "*grvotes": "369495",
-    "*wordcount": 83964,
-    "authors": "William Gibson",
-    "id": 19360,
-    "title": "Neuromancer"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "11073",
-    "*wordcount": 83714,
-    "authors": "Y\u00e1ng Shu\u0101ng-Z\u01d0",
-    "id": 9482,
-    "title": "Taiwan Travelogue"
-  },
-  {
-    "*grrating": "4.06",
-    "*grvotes": "84537",
-    "*wordcount": 83481,
-    "authors": "James Baldwin",
-    "id": 36998,
-    "title": "Go Tell It on the Mountain"
-  },
-  {
-    "*grrating": "4.04",
-    "*grvotes": "566181",
-    "*wordcount": 82724,
-    "authors": "Patrick S\u00fcskind",
-    "id": 20853,
-    "title": "Perfume: The Story of a Murderer"
-  },
-  {
-    "*grrating": "4.01",
-    "*grvotes": "114309",
-    "*wordcount": 82146,
-    "authors": "Italo Calvino",
-    "id": 26516,
-    "title": "If on a Winter's Night a Traveller (Vintage Classics) Paperback \u2013 20 Feb 1992 by Italo Calvino"
-  },
-  {
-    "*grrating": "3.9",
-    "*grvotes": "47096",
-    "*wordcount": 81474,
-    "authors": "E. L. Doctorow",
-    "id": 6267,
-    "title": "Ragtime"
-  },
-  {
-    "*grrating": "4.17",
-    "*grvotes": "58498",
-    "*wordcount": 80270,
-    "authors": "Vladimir Nabokov",
-    "id": 6332,
-    "title": "Pale Fire"
-  },
-  {
-    "*grrating": "3.87",
-    "*grvotes": "118009",
-    "*wordcount": 80188,
-    "authors": "Virginia Woolf",
-    "id": 13452,
-    "title": "Orlando"
-  },
-  {
-    "*grrating": "3.7",
-    "*grvotes": "74582",
-    "*wordcount": 79108,
-    "authors": "Philip Roth",
-    "id": 1253,
-    "title": "Portnoy's Complaint"
-  },
-  {
-    "*grrating": "3.89",
-    "*grvotes": "203990",
-    "*wordcount": 78987,
-    "authors": "E. M. Forster",
-    "id": 19578,
-    "title": "A Room With a View"
-  },
-  {
-    "*grrating": "3.7",
-    "*grvotes": "251942",
-    "*wordcount": 78686,
-    "authors": "Jennifer Egan",
-    "id": 15926,
-    "title": "A Visit From the Goon Squad"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "103050",
-    "*wordcount": 78521,
-    "authors": "Ivan Turgenev",
-    "id": 13040,
-    "title": "Fathers and Sons"
-  },
-  {
-    "*grrating": "3.91",
-    "*grvotes": "1942593",
-    "*wordcount": 78000,
-    "authors": "Mary Shelley",
-    "id": 26082,
-    "title": "Frankenstein"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "2097",
-    "*wordcount": 77256,
-    "authors": "Shida Bazyar",
-    "id": 10742,
-    "title": "The Nights Are Quiet in Tehran"
-  },
-  {
-    "*grrating": "4.14",
-    "*grvotes": "369215",
-    "*wordcount": 76691,
-    "authors": "Kazuo Ishiguro",
-    "id": 10030,
-    "title": "The Remains of the Day"
-  },
-  {
-    "*grrating": "4.04",
-    "*grvotes": "1256095",
-    "*wordcount": 76573,
-    "authors": "Sylvia Plath",
-    "id": 19799,
-    "title": "The Bell Jar"
-  },
-  {
-    "*grrating": "4.14",
-    "*grvotes": "182227",
-    "*wordcount": 76536,
-    "authors": "Joe Haldeman",
-    "id": 19920,
-    "title": "The Forever War"
-  },
-  {
-    "*grrating": "3.79",
-    "*grvotes": "59799",
-    "*wordcount": 76536,
-    "authors": "H. P. Lovecraft",
-    "id": 14309,
-    "title": "At the Mountains of Madness"
-  },
-  {
-    "*grrating": "3.67",
-    "*grvotes": "29082",
-    "*wordcount": 76045,
-    "authors": "Ford Madox Ford",
-    "id": 20929,
-    "title": "The Good Soldier"
-  },
-  {
-    "*grrating": "3.93",
-    "*grvotes": "165441",
-    "*wordcount": 75918,
-    "authors": "Olga Tokarczuk",
-    "id": 8687,
-    "title": "Drive Your Plow Over the Bones of the Dead"
-  },
-  {
-    "*grrating": "4.23",
-    "*grvotes": "617601",
-    "*wordcount": 75201,
-    "authors": "Michelle Zauner",
-    "id": 16277,
-    "title": "Crying in H Mart"
-  },
-  {
-    "*grrating": "4.13",
-    "*grvotes": "219459",
-    "*wordcount": 75065,
-    "authors": "Hermann Hesse",
-    "id": 19058,
-    "title": "Steppenwolf"
-  },
-  {
-    "*grrating": "4.12",
-    "*grvotes": "34302",
-    "*wordcount": 74614,
-    "authors": "Arthur Koestler",
-    "id": 8546,
-    "title": "Darkness at Noon"
-  },
-  {
-    "*grrating": "3.25",
-    "*grvotes": "7191",
-    "*wordcount": 74019,
-    "authors": "Y\u014dko Tawada",
-    "id": 17633,
-    "title": "Scattered All Over the Earth"
-  },
-  {
-    "*grrating": "4.04",
-    "*grvotes": "44109",
-    "*wordcount": 73509,
-    "authors": "Natsume Soseki",
-    "id": 17226,
-    "title": "Kokoro"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "29307",
-    "*wordcount": 73250,
-    "authors": "Evelyn Waugh",
-    "id": 14181,
-    "title": "A Handful of Dust"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "8841",
-    "*wordcount": 72869,
-    "authors": "Wallace Stegner",
-    "id": 9781,
-    "title": "The Spectator Bird"
-  },
-  {
-    "*grrating": "4.13",
-    "*grvotes": "108960",
-    "*wordcount": 72755,
-    "authors": "Ray Bradbury",
-    "id": 20064,
-    "title": "The Illustrated Man"
-  },
-  {
-    "*grrating": "3.77",
-    "*grvotes": "363193",
-    "*wordcount": 72526,
-    "authors": "Virginia Woolf",
-    "id": 13440,
-    "title": "Mrs. Dalloway"
-  },
-  {
-    "*grrating": "3.83",
-    "*grvotes": "37304",
-    "*wordcount": 72476,
-    "authors": "Sherwood Anderson",
-    "id": 6785,
-    "title": "Winesburg, Ohio"
-  },
-  {
-    "*grrating": "3.62",
-    "*grvotes": "226494",
-    "*wordcount": 72007,
     "authors": "Andrew Sean Greer",
     "id": 99,
     "title": "Less"
   },
   {
-    "*grrating": "3.98",
-    "*grvotes": "134309",
-    "*wordcount": 71902,
-    "authors": "Stanislaw Lem",
-    "id": 20903,
-    "title": "Solaris"
+    "authors": "Giuseppe Tomasi Di Lampedusa",
+    "id": 176,
+    "title": "The Leopard"
   },
   {
-    "*grrating": "3.81",
-    "*grvotes": "218717",
-    "*wordcount": 71027,
-    "authors": "Virginia Woolf",
-    "id": 13445,
-    "title": "To the Lighthouse"
-  },
-  {
-    "*grrating": "3.97",
-    "*grvotes": "44006",
-    "*wordcount": 70522,
-    "authors": "Willa Cather",
-    "id": 16266,
-    "title": "Death Comes for the Archbishop"
-  },
-  {
-    "*grrating": "4.32",
-    "*grvotes": "50265",
-    "*wordcount": 70377,
-    "authors": "Jorge Luis Borges",
-    "id": 15281,
-    "title": "The Aleph and Other Stories 1933-1969"
-  },
-  {
-    "*grrating": "4.02",
-    "*grvotes": "11189",
-    "*wordcount": 69845,
-    "authors": "Adam Johnson",
-    "id": 17607,
-    "title": "Fortune Smiles"
-  },
-  {
-    "*grrating": "3.46",
-    "*grvotes": "99435",
-    "*wordcount": 69526,
-    "authors": "William S. Burroughs",
-    "id": 15567,
-    "title": "Naked Lunch"
-  },
-  {
-    "*grrating": "3.64",
-    "*grvotes": "31289",
-    "*wordcount": 69062,
-    "authors": "Walker Percy",
-    "id": 4037,
-    "title": "The Moviegoer"
-  },
-  {
-    "*grrating": "3.95",
-    "*grvotes": "5608",
-    "*wordcount": 68823,
-    "authors": "Daniel Kraus",
-    "id": 45001,
-    "title": "Angel Down"
-  },
-  {
-    "*grrating": "4.21",
-    "*grvotes": "22674",
-    "*wordcount": 68356,
-    "authors": "George Saunders",
-    "id": 15091,
-    "title": "CivilWarLand in Bad Decline"
-  },
-  {
-    "*grrating": "3.79",
-    "*grvotes": "500092",
-    "*wordcount": 68224,
-    "authors": "Ernest Hemingway",
-    "id": 20085,
-    "title": "The Sun Also Rises"
-  },
-  {
-    "*grrating": "3.87",
-    "*grvotes": "17802",
-    "*wordcount": 67796,
-    "authors": "William Kennedy",
-    "id": 34591,
-    "title": "Ironweed"
-  },
-  {
-    "*grrating": "4.42",
-    "*grvotes": "546021",
-    "*wordcount": 67509,
-    "authors": "Percival Everett",
-    "id": 17552,
-    "title": "James"
-  },
-  {
-    "*grrating": "3.71",
-    "*grvotes": "26190",
-    "*wordcount": 67375,
-    "authors": "Henry James",
-    "id": 4505,
-    "title": "Washington Square"
-  },
-  {
-    "*grrating": "3.99",
-    "*grvotes": "426433",
-    "*wordcount": 66644,
-    "authors": "Terry Pratchett",
-    "id": 5544,
-    "title": "The Color of Magic"
-  },
-  {
-    "*grrating": "3.78",
-    "*grvotes": "22752",
-    "*wordcount": 65426,
-    "authors": "Evelyn Waugh",
-    "id": 14180,
-    "title": "Scoop"
-  },
-  {
-    "*grrating": "4.12",
-    "*grvotes": "90071",
-    "*wordcount": 65386,
-    "authors": "Arkady Strugatsky & Boris Strugatsky",
-    "id": 16059,
-    "title": "Roadside Picnic"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "115257",
-    "*wordcount": 64541,
-    "authors": "Yevgeny Zamyatin",
-    "id": 3087,
-    "title": "We"
-  },
-  {
-    "*grrating": "3.62",
-    "*grvotes": "310",
-    "*wordcount": 64026,
-    "authors": "D. W. Wilson",
-    "id": 8029,
-    "title": "Once You Break a Knuckle"
-  },
-  {
-    "*grrating": "4.09",
-    "*grvotes": "521058",
-    "*wordcount": 63795,
-    "authors": "Philip K. Dick",
-    "id": 616,
-    "title": "Do Androids Dream of Electric Sheep?"
-  },
-  {
-    "*grrating": "3.72",
-    "*grvotes": "189542",
-    "*wordcount": 63091,
-    "authors": "William Faulkner",
-    "id": 10765,
-    "title": "As I Lay Dying"
-  },
-  {
-    "*grrating": "3.89",
-    "*grvotes": "1610793",
-    "*wordcount": 63084,
-    "authors": "Mark Haddon",
-    "id": 19119,
-    "title": "The Curious Incident of the Dog in the Night-Time"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "1056021",
-    "*wordcount": 62757,
-    "authors": "Cormac McCarthy",
-    "id": 18770,
-    "title": "The Road"
-  },
-  {
-    "*grrating": "4.18",
-    "*grvotes": "207994",
-    "*wordcount": 62354,
-    "authors": "Jhumpa Lahiri",
-    "id": 17695,
-    "title": "Interpreter of Maladies"
-  },
-  {
-    "*grrating": "3.9",
-    "*grvotes": "71688",
-    "*wordcount": 62313,
-    "authors": "Graham Greene",
-    "id": 1593,
-    "title": "The End of the Affair"
-  },
-  {
-    "*grrating": "3.76",
-    "*grvotes": "10736",
-    "*wordcount": 62067,
-    "authors": "Richard Hughes",
-    "id": 6630,
-    "title": "A High Wind in Jamaica"
-  },
-  {
-    "*grrating": "3.74",
-    "*grvotes": "43674",
-    "*wordcount": 61954,
-    "authors": "Bora Chung",
-    "id": 12233,
-    "title": "Cursed Bunny"
-  },
-  {
-    "*grrating": "4.18",
-    "*grvotes": "339207",
-    "*wordcount": 61837,
-    "authors": "Arthur C. Clarke",
-    "id": 7715,
-    "title": "2001: A Space Odyssey"
-  },
-  {
-    "*grrating": "4.27",
-    "*grvotes": "80928",
-    "*wordcount": 61268,
-    "authors": "Han Kang",
-    "id": 17438,
-    "title": "Human Acts: A Novel"
-  },
-  {
-    "*grrating": "3.71",
-    "*grvotes": "15999",
-    "*wordcount": 60591,
-    "authors": "Erskine Caldwell",
-    "id": 10446,
-    "title": "Tobacco Road"
-  },
-  {
-    "*grrating": "3.75",
-    "*grvotes": "179995",
-    "*wordcount": 60584,
-    "authors": "George Saunders",
-    "id": 15095,
-    "title": "Lincoln in the Bardo"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "422017",
-    "*wordcount": 59918,
-    "authors": "Ocean Vuong",
-    "id": 21455,
-    "title": "On Earth We\u2019re Briefly Gorgeous"
-  },
-  {
-    "*grrating": "3.99",
-    "*grvotes": "49809",
-    "*wordcount": 58452,
-    "authors": "Hua Hsu",
-    "id": 17713,
-    "title": "Stay True"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "630975",
-    "*wordcount": 58381,
-    "authors": "Jacqueline Harpman",
-    "id": 5114,
-    "title": "I Who Have Never Known Men"
-  },
-  {
-    "*grrating": "3.95",
-    "*grvotes": "399268",
-    "*wordcount": 58292,
-    "authors": "Laura Esquivel",
-    "id": 3690,
-    "title": "Like Water for Chocolate"
-  },
-  {
-    "*grrating": "3.98",
-    "*grvotes": "2900",
-    "*wordcount": 58221,
-    "authors": "Bonnie Jo Campbell",
-    "id": 789,
-    "title": "American Salvage"
-  },
-  {
-    "*grrating": "3.48",
-    "*grvotes": "17110",
-    "*wordcount": 57260,
-    "authors": "Orhan Pamuk",
-    "id": 20912,
-    "title": "The White Castle"
-  },
-  {
-    "*grrating": "4.11",
-    "*grvotes": "71753",
-    "*wordcount": 57150,
-    "authors": "Alexander Pushkin",
-    "id": 20909,
-    "title": "Eugene Onegin"
-  },
-  {
-    "*grrating": "3.99",
-    "*grvotes": "152600",
-    "*wordcount": 56886,
-    "authors": "Chuck Palahniuk",
-    "id": 20388,
-    "title": "Invisible Monsters"
-  },
-  {
-    "*grrating": "4.13",
-    "*grvotes": "309005",
-    "*wordcount": 54844,
-    "authors": "Toni Morrison",
-    "id": 11458,
-    "title": "The Bluest Eye"
-  },
-  {
-    "*grrating": "3.99",
-    "*grvotes": "2200",
-    "*wordcount": 52835,
-    "authors": "Jamil Jan Kochai",
-    "id": 10936,
-    "title": "The Haunting of Hajji Hotak and Other Stories"
-  },
-  {
-    "*grrating": "3.82",
-    "*grvotes": "38405",
-    "*wordcount": 52487,
-    "authors": "Flannery O'Connor",
-    "id": 17332,
-    "title": "Wise Blood"
-  },
-  {
-    "*grrating": "3.75",
-    "*grvotes": "417901",
-    "*wordcount": 51814,
-    "authors": "Chinua Achebe",
-    "id": 17686,
-    "title": "Things Fall Apart"
-  },
-  {
-    "*grrating": "3.62",
-    "*grvotes": "102864",
-    "*wordcount": 51585,
-    "authors": "Bret Easton Ellis",
-    "id": 16384,
-    "title": "Less Than Zero"
-  },
-  {
-    "*grrating": "3.98",
-    "*grvotes": "126575",
-    "*wordcount": 51220,
-    "authors": "Aleksandr Solzhenitsyn",
-    "id": 17883,
-    "title": "One Day in the Life of Ivan Denisovich"
-  },
-  {
-    "*grrating": "3.54",
-    "*grvotes": "919",
-    "*wordcount": 50568,
-    "authors": "Amy Levy",
-    "id": 940,
-    "title": "The Romance of a Shop"
-  },
-  {
-    "*grrating": "3.69",
-    "*grvotes": "229876",
-    "*wordcount": 50312,
-    "authors": "Kate Chopin",
-    "id": 11715,
-    "title": "The Awakening"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "100663",
-    "*wordcount": 50210,
-    "authors": "Y\u014dko Ogawa",
-    "id": 14874,
-    "title": "The Housekeeper and the Professor"
-  },
-  {
-    "*grrating": "4.05",
-    "*grvotes": "304421",
-    "*wordcount": 50159,
-    "authors": "Emily St. John Mandel",
-    "id": 10803,
-    "title": "Sea of Tranquility: A novel"
-  },
-  {
-    "*grrating": "4.1",
-    "*grvotes": "1499139",
-    "*wordcount": 50035,
-    "authors": "Kurt Vonnegut Jr.",
-    "id": 20209,
-    "title": "Slaughterhouse-Five"
-  },
-  {
-    "*grrating": "4.22",
-    "*grvotes": "2038345",
-    "*wordcount": 49830,
-    "authors": "Douglas Adams",
-    "id": 20916,
-    "title": "The Hitchhiker's Guide to the Galaxy"
-  },
-  {
-    "*grrating": "4.19",
-    "*grvotes": "12655",
-    "*wordcount": 49573,
-    "authors": "Nikolai Gogol",
-    "id": 26408,
-    "title": "The Overcoat and Other Short Stories"
-  },
-  {
-    "*grrating": "4.09",
-    "*grvotes": "66326",
-    "*wordcount": 48772,
-    "authors": "Benjam\u00edn Labatut",
-    "id": 11135,
-    "title": "When We Cease to Understand the World"
-  },
-  {
-    "*grrating": "3.69",
-    "*grvotes": "24375",
-    "*wordcount": 48761,
-    "authors": "Nathanael West",
-    "id": 2957,
-    "title": "The Day of the Locust"
-  },
-  {
-    "*grrating": "3.87",
-    "*grvotes": "13245",
-    "*wordcount": 48586,
-    "authors": "Chinua Achebe",
-    "id": 12576,
-    "title": "No Longer at Ease"
-  },
-  {
-    "*grrating": "4.29",
-    "*grvotes": "25063",
-    "*wordcount": 47873,
-    "authors": "Mikhail Bulgakov",
-    "id": 3773,
-    "title": "A Country Doctor's Notebook"
-  },
-  {
-    "*grrating": "4.42",
-    "*grvotes": "105",
-    "*wordcount": 47164,
-    "authors": "Thomas Pynchon",
-    "id": 20908,
-    "title": "The Crying of Lot 49"
-  },
-  {
-    "*grrating": "4.02",
-    "*grvotes": "168639",
-    "*wordcount": 46194,
-    "authors": "Ernest Hemingway",
-    "id": 17931,
-    "title": "A Moveable Feast"
-  },
-  {
-    "*grrating": "3.38",
-    "*grvotes": "183079",
-    "*wordcount": 45944,
-    "authors": "Henry James",
-    "id": 4502,
-    "title": "The Turn of the Screw"
-  },
-  {
-    "*grrating": "3.49",
-    "*grvotes": "13442",
-    "*wordcount": 44579,
-    "authors": "George Saunders",
-    "id": 15093,
-    "title": "Vigil"
-  },
-  {
-    "*grrating": "3.53",
-    "*grvotes": "52582",
-    "*wordcount": 43555,
-    "authors": "Haruki Murakami",
-    "id": 20923,
-    "title": "First Person Singular Stories"
-  },
-  {
-    "*grrating": "3.48",
-    "*grvotes": "163583",
-    "*wordcount": 43110,
-    "authors": "Samantha Harvey",
-    "id": 17495,
-    "title": "Orbital"
-  },
-  {
-    "*grrating": "3.74",
-    "*grvotes": "194998",
-    "*wordcount": 41998,
     "authors": "Julian Barnes",
     "id": 597,
     "title": "The Sense of an Ending"
   },
   {
-    "*grrating": "3.89",
-    "*grvotes": "133042",
-    "*wordcount": 41619,
-    "authors": "Banana Yoshimoto",
-    "id": 20919,
-    "title": "Kitchen"
+    "authors": "Philip K. Dick",
+    "id": 616,
+    "title": "Do Androids Dream of Electric Sheep?"
   },
   {
-    "*grrating": "3.69",
-    "*grvotes": "62005",
-    "*wordcount": 40684,
-    "authors": "Muriel Spark",
-    "id": 13605,
-    "title": "The Prime of Miss Jean Brodie"
+    "authors": "Bonnie Jo Campbell",
+    "id": 789,
+    "title": "American Salvage"
   },
   {
-    "*grrating": "3.4",
-    "*grvotes": "14065",
-    "*wordcount": 39838,
-    "authors": "Y\u014dko Tawada",
-    "id": 15113,
-    "title": "The Emissary"
+    "authors": "Amy Levy",
+    "id": 940,
+    "title": "The Romance of a Shop"
   },
   {
-    "*grrating": "3.72",
-    "*grvotes": "2603",
-    "*wordcount": 39469,
-    "authors": "Anne Garr\u00e9ta",
-    "id": 13890,
-    "title": "Sphinx"
-  },
-  {
-    "*grrating": "3.56",
-    "*grvotes": "42700",
-    "*wordcount": 38737,
-    "authors": "Yasunari Kawabata",
-    "id": 9835,
-    "title": "Snow Country"
-  },
-  {
-    "*grrating": "3.57",
-    "*grvotes": "276",
-    "*wordcount": 38058,
-    "authors": "Daniel Poppick",
-    "id": 15673,
-    "title": "The Copywriter"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "79510",
-    "*wordcount": 37028,
     "authors": "Raymond Carver",
     "id": 1000,
     "title": "What We Talk About When We Talk About Love"
   },
   {
-    "*grrating": "3.93",
-    "*grvotes": "266290",
-    "*wordcount": 35640,
-    "authors": "Osamu Dazai",
-    "id": 4190,
-    "title": "No Longer Human"
+    "authors": "Elena Ferrante",
+    "id": 1227,
+    "title": "My Brilliant Friend"
   },
   {
-    "*grrating": "3.76",
-    "*grvotes": "49490",
-    "*wordcount": 35144,
+    "authors": "Philip Roth",
+    "id": 1253,
+    "title": "Portnoy's Complaint"
+  },
+  {
     "authors": "James M. Cain",
     "id": 1485,
     "title": "The Postman Always Rings Twice"
   },
   {
-    "*grrating": "4.01",
-    "*grvotes": "1219",
-    "*wordcount": 34798,
-    "authors": "Verity Bargate",
-    "id": 45011,
-    "title": "No, Mam\u00e1, No"
+    "authors": "Graham Greene",
+    "id": 1593,
+    "title": "The End of the Affair"
   },
   {
-    "*grrating": "3.94",
-    "*grvotes": "6386",
-    "*wordcount": 34697,
-    "authors": "Ben Lerner",
-    "id": 45018,
-    "title": "Transcription: A Novel"
+    "authors": "Graham Greene & James Wood",
+    "id": 1596,
+    "title": "The Heart of the Matter"
   },
   {
-    "*grrating": "4.17",
-    "*grvotes": "45065",
-    "*wordcount": 34370,
-    "authors": "Adania Shibli",
-    "id": 17510,
-    "title": "Minor Detail"
+    "authors": "Joseph Conrad",
+    "id": 1681,
+    "title": "Nostromo"
   },
   {
-    "*grrating": "3.95",
-    "*grvotes": "36504",
-    "*wordcount": 34028,
-    "authors": "Adolfo Bioy Casares",
-    "id": 9750,
-    "title": "The Invention of Morel"
-  },
-  {
-    "*grrating": "4.08",
-    "*grvotes": "74572",
-    "*wordcount": 33982,
-    "authors": "Mikhail Bulgakov",
-    "id": 3772,
-    "title": "The Heart of a Dog"
-  },
-  {
-    "*grrating": "3.79",
-    "*grvotes": "38980",
-    "*wordcount": 32981,
-    "authors": "Thornton Wilder",
-    "id": 15441,
-    "title": "The Bridge of San Luis Rey"
-  },
-  {
-    "*grrating": "4.67",
-    "*grvotes": "931",
-    "*wordcount": 31647,
-    "authors": "Martha Wells",
-    "id": 11632,
-    "title": "The Murderbot Diaries: All Systems Red, Artificial Condition, Rogue Protocol, Exit Strategy, Network Effect, Fugitive Telemetry"
-  },
-  {
-    "*grrating": "4.03",
-    "*grvotes": "139171",
-    "*wordcount": 30516,
-    "authors": "Albert Camus",
-    "id": 17532,
-    "title": "The Fall"
-  },
-  {
-    "*grrating": "4.22",
-    "*grvotes": "74409",
-    "*wordcount": 30495,
-    "authors": "T. S. Eliot",
-    "id": 10176,
-    "title": "The Waste Land and Other Poems"
-  },
-  {
-    "*grrating": "3.97",
-    "*grvotes": "241898",
-    "*wordcount": 29418,
-    "authors": "Gabriel Garc\u00eda M\u00e1rquez",
-    "id": 18769,
-    "title": "Chronicle of a Death Foretold"
-  },
-  {
-    "*grrating": "3.59",
-    "*grvotes": "108904",
-    "*wordcount": 28297,
-    "authors": "Jean Rhys",
-    "id": 4606,
-    "title": "Wide Sargasso Sea"
-  },
-  {
-    "*grrating": "4.0",
-    "*grvotes": "1",
-    "*wordcount": 28054,
-    "authors": "Guy de Maupassant",
-    "id": 20899,
-    "title": "Boule De Suif"
-  },
-  {
-    "*grrating": "4.09",
-    "*grvotes": "99069",
-    "*wordcount": 26515,
-    "authors": "Italo Calvino",
-    "id": 2737,
-    "title": "Invisible Cities"
-  },
-  {
-    "*grrating": "3.83",
-    "*grvotes": "283277",
-    "*wordcount": 26437,
-    "authors": "Truman Capote",
-    "id": 14375,
-    "title": "Breakfast at Tiffany's"
-  },
-  {
-    "*grrating": "3.68",
-    "*grvotes": "7891",
-    "*wordcount": 23650,
-    "authors": "Vladimir Nabokov",
-    "id": 6325,
-    "title": "The Eye"
-  },
-  {
-    "*grrating": "4.04",
-    "*grvotes": "93586",
-    "*wordcount": 23147,
-    "authors": "Tom Stoppard",
-    "id": 17716,
-    "title": "Rosencrantz & Guildenstern Are Dead"
-  },
-  {
-    "*grrating": "4.27",
-    "*grvotes": "151196",
-    "*wordcount": 21852,
-    "authors": "Stefan Zweig & Joel Rotenberg & Peter Gay",
-    "id": 4685,
-    "title": "Chess Story"
-  },
-  {
-    "*grrating": "4.33",
-    "*grvotes": "9",
-    "*wordcount": 18576,
-    "authors": "C. M. Kosemen",
-    "id": 13156,
-    "title": "All Tomorrows: The Myriad Species and Mixed Fortunes of Man"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "67",
-    "*wordcount": 17825,
-    "authors": "Nikolai Gogol",
-    "id": 13798,
-    "title": "How the Two Ivans Quarelled and Other Russian Comic Stories"
-  },
-  {
-    "*grrating": "3.67",
-    "*grvotes": "1208",
-    "*wordcount": 17427,
-    "authors": "Zadie Smith",
-    "id": 3485,
-    "title": "The Wife of Willesden"
-  },
-  {
-    "*grrating": "4.31",
-    "*grvotes": "8270",
-    "*wordcount": 17217,
-    "authors": "Natalie D\u00edaz",
-    "id": 13047,
-    "title": "Postcolonial Love Poem"
-  },
-  {
-    "*grrating": "3.96",
-    "*grvotes": "57727",
-    "*wordcount": 15638,
-    "authors": "Miyamoto Musashi",
-    "id": 3426,
-    "title": "The Book of Five Rings"
-  },
-  {
-    "*grrating": "4.23",
-    "*grvotes": "330726",
-    "*wordcount": 12919,
     "authors": "Kahlil Gibran",
     "id": 1702,
     "title": "The Prophet"
   },
   {
-    "*grrating": "4.01",
-    "*grvotes": "35058",
-    "*wordcount": 9012,
-    "authors": "N. K. Jemisin",
-    "id": 45023,
-    "title": "Emergency Skin"
-  },
-  {
-    "*grrating": "3.72",
-    "*grvotes": "4234",
-    "*wordcount": 7577,
-    "authors": "Don DeLillo",
-    "id": 45004,
-    "title": "Midnight in Dostoevsky"
-  },
-  {
-    "*grrating": "4.13",
-    "*grvotes": "793",
-    "*wordcount": 6018,
-    "authors": "Octavia E. Butler",
-    "id": 8497,
-    "title": "Speech Sounds"
-  },
-  {
-    "*grrating": "3.85",
-    "*grvotes": "140",
-    "*wordcount": 2780,
-    "authors": "David Langford",
-    "id": 7275,
-    "title": "BLIT"
-  },
-  {
-    "*grrating": "4.58",
-    "*grvotes": "258555",
-    "authors": "Art Spiegelman",
-    "id": 8705,
-    "title": "Maus"
-  },
-  {
-    "*grrating": "3.88",
-    "*grvotes": "31157",
-    "authors": "Paul Bowles",
-    "id": 26640,
-    "title": "The Sheltering Sky"
-  },
-  {
-    "*grrating": "3.51",
-    "*grvotes": "3881",
-    "authors": "Henry Green",
-    "id": 26686,
-    "title": "Loving"
-  },
-  {
-    "*grrating": "3.91",
-    "*grvotes": "125115",
-    "authors": "Fyodor Dostoyevsky",
-    "id": 6226,
-    "title": "The Gambler"
-  },
-  {
-    "*grrating": "4.43",
-    "*grvotes": "159431",
-    "authors": "Art Spiegelman",
-    "id": 23688,
-    "title": "Maus II: A Survivor's Tale: And Here My Troubles Began"
-  },
-  {
-    "*grrating": "3.93",
-    "*grvotes": "254",
-    "authors": "Tatyana Tolstaya",
-    "id": 17189,
-    "title": "Sleepwalker in a Fog"
-  },
-  {
-    "*grrating": "4.04",
-    "*grvotes": "1971",
     "authors": "Mine Okubo",
     "id": 1879,
     "title": "Citizen 13660"
   },
   {
-    "*grrating": "4.39",
-    "*grvotes": "599004",
+    "authors": "Greg Egan",
+    "id": 2129,
+    "title": "Permutation City"
+  },
+  {
+    "authors": "Franz Kafka",
+    "id": 2170,
+    "title": "The Trial"
+  },
+  {
+    "authors": "Abubakar Adam Ibrahim",
+    "id": 2429,
+    "title": "Season of Crimson Blossoms"
+  },
+  {
+    "authors": "Italo Calvino",
+    "id": 2736,
+    "title": "The Complete Cosmicomics"
+  },
+  {
+    "authors": "Italo Calvino",
+    "id": 2737,
+    "title": "Invisible Cities"
+  },
+  {
+    "authors": "Nathanael West",
+    "id": 2957,
+    "title": "The Day of the Locust"
+  },
+  {
+    "authors": "Yevgeny Zamyatin",
+    "id": 3087,
+    "title": "We"
+  },
+  {
+    "authors": "Miyamoto Musashi",
+    "id": 3426,
+    "title": "The Book of Five Rings"
+  },
+  {
+    "authors": "David Foster Wallace",
+    "id": 3428,
+    "title": "Oblivion: stories"
+  },
+  {
+    "authors": "Zadie Smith",
+    "id": 3485,
+    "title": "The Wife of Willesden"
+  },
+  {
+    "authors": "Alexandra Kleeman",
+    "id": 3614,
+    "title": "Something New Under the Sun"
+  },
+  {
+    "authors": "Guy de Maupassant",
+    "id": 3626,
+    "title": "The Collected Stories of Guy De Maupassant"
+  },
+  {
+    "authors": "Laura Esquivel",
+    "id": 3690,
+    "title": "Like Water for Chocolate"
+  },
+  {
+    "authors": "Mikhail Bulgakov",
+    "id": 3772,
+    "title": "The Heart of a Dog"
+  },
+  {
+    "authors": "Mikhail Bulgakov",
+    "id": 3773,
+    "title": "A Country Doctor's Notebook"
+  },
+  {
+    "authors": "Kurt Vonnegut",
+    "id": 3817,
+    "title": "Player piano"
+  },
+  {
+    "authors": "Haruki Murakami",
+    "id": 3854,
+    "title": "Norwegian Wood"
+  },
+  {
+    "authors": "Walker Percy",
+    "id": 4037,
+    "title": "The Moviegoer"
+  },
+  {
+    "authors": "Jack Kerouac",
+    "id": 4132,
+    "title": "On the Road"
+  },
+  {
+    "authors": "Osamu Dazai",
+    "id": 4190,
+    "title": "No Longer Human"
+  },
+  {
+    "authors": "Michael Shaara",
+    "id": 4409,
+    "title": "The Killer Angels"
+  },
+  {
+    "authors": "Ted Chiang",
+    "id": 4413,
+    "title": "Stories of Your Life and Others"
+  },
+  {
+    "authors": "Henry James",
+    "id": 4502,
+    "title": "The Turn of the Screw"
+  },
+  {
+    "authors": "Henry James",
+    "id": 4505,
+    "title": "Washington Square"
+  },
+  {
     "authors": "Alan Moore",
     "id": 4573,
     "title": "Watchmen"
+  },
+  {
+    "authors": "Jean Rhys",
+    "id": 4606,
+    "title": "Wide Sargasso Sea"
+  },
+  {
+    "authors": "Stefan Zweig & Joel Rotenberg & Peter Gay",
+    "id": 4685,
+    "title": "Chess Story"
+  },
+  {
+    "authors": "John Williams",
+    "id": 4839,
+    "title": "Stoner"
+  },
+  {
+    "authors": "Jacqueline Harpman",
+    "id": 5114,
+    "title": "I Who Have Never Known Men"
+  },
+  {
+    "authors": "Leo Tolstoy",
+    "id": 5312,
+    "title": "Anna Karenina"
+  },
+  {
+    "authors": "Terry Pratchett",
+    "id": 5544,
+    "title": "The Color of Magic"
+  },
+  {
+    "authors": "Iris Murdoch",
+    "id": 5942,
+    "title": "Under the Net"
+  },
+  {
+    "authors": "Milan Kundera",
+    "id": 5980,
+    "title": "The Unbearable Lightness of Being"
+  },
+  {
+    "authors": "Fyodor Dostoyevsky",
+    "id": 6226,
+    "title": "The Gambler"
+  },
+  {
+    "authors": "E. L. Doctorow",
+    "id": 6267,
+    "title": "Ragtime"
+  },
+  {
+    "authors": "Vladimir Nabokov",
+    "id": 6325,
+    "title": "The Eye"
+  },
+  {
+    "authors": "Vladimir Nabokov",
+    "id": 6329,
+    "title": "Lolita"
+  },
+  {
+    "authors": "Vladimir Nabokov",
+    "id": 6332,
+    "title": "Pale Fire"
+  },
+  {
+    "authors": "William Shakespeare & Jeff Wood & Lynn Wood",
+    "id": 6389,
+    "title": "Hamlet"
+  },
+  {
+    "authors": "Richard Hughes",
+    "id": 6630,
+    "title": "A High Wind in Jamaica"
+  },
+  {
+    "authors": "Sherwood Anderson",
+    "id": 6785,
+    "title": "Winesburg, Ohio"
+  },
+  {
+    "authors": "Martha Wells",
+    "id": 6807,
+    "title": "All Systems Red"
+  },
+  {
+    "authors": "Julien Gracq",
+    "id": 6895,
+    "title": "The Opposing Shore"
+  },
+  {
+    "authors": "David Langford",
+    "id": 7275,
+    "title": "BLIT"
+  },
+  {
+    "authors": "John O'Hara",
+    "id": 7377,
+    "title": "Appointment in Samarra"
+  },
+  {
+    "authors": "Arthur C. Clarke",
+    "id": 7715,
+    "title": "2001: A Space Odyssey"
+  },
+  {
+    "authors": "D. W. Wilson",
+    "id": 8029,
+    "title": "Once You Break a Knuckle"
+  },
+  {
+    "authors": "Octavia E. Butler",
+    "id": 8497,
+    "title": "Speech Sounds"
+  },
+  {
+    "authors": "Arthur Koestler",
+    "id": 8546,
+    "title": "Darkness at Noon"
+  },
+  {
+    "authors": "Olga Tokarczuk",
+    "id": 8687,
+    "title": "Drive Your Plow Over the Bones of the Dead"
+  },
+  {
+    "authors": "Art Spiegelman",
+    "id": 8705,
+    "title": "Maus"
+  },
+  {
+    "authors": "Y\u00e1ng Shu\u0101ng-Z\u01d0",
+    "id": 9482,
+    "title": "Taiwan Travelogue"
+  },
+  {
+    "authors": "Adolfo Bioy Casares",
+    "id": 9750,
+    "title": "The Invention of Morel"
+  },
+  {
+    "authors": "Wallace Stegner",
+    "id": 9781,
+    "title": "The Spectator Bird"
+  },
+  {
+    "authors": "Yasunari Kawabata",
+    "id": 9835,
+    "title": "Snow Country"
+  },
+  {
+    "authors": "Kazuo Ishiguro",
+    "id": 10030,
+    "title": "The Remains of the Day"
+  },
+  {
+    "authors": "T. S. Eliot",
+    "id": 10176,
+    "title": "The Waste Land and Other Poems"
+  },
+  {
+    "authors": "Ursula K. Le Guin",
+    "id": 10201,
+    "title": "The Left Hand of Darkness"
+  },
+  {
+    "authors": "Erskine Caldwell",
+    "id": 10446,
+    "title": "Tobacco Road"
+  },
+  {
+    "authors": "Viet Thanh Nguyen",
+    "id": 10646,
+    "title": "The Sympathizer"
+  },
+  {
+    "authors": "Shida Bazyar",
+    "id": 10742,
+    "title": "The Nights Are Quiet in Tehran"
+  },
+  {
+    "authors": "William Faulkner",
+    "id": 10761,
+    "title": "The Sound and the Fury"
+  },
+  {
+    "authors": "William Faulkner",
+    "id": 10765,
+    "title": "As I Lay Dying"
+  },
+  {
+    "authors": "Emily St. John Mandel",
+    "id": 10803,
+    "title": "Sea of Tranquility: A novel"
+  },
+  {
+    "authors": "Jamil Jan Kochai",
+    "id": 10936,
+    "title": "The Haunting of Hajji Hotak and Other Stories"
+  },
+  {
+    "authors": "Benjam\u00edn Labatut",
+    "id": 11135,
+    "title": "When We Cease to Understand the World"
+  },
+  {
+    "authors": "Jack London",
+    "id": 11253,
+    "title": "The Call of the Wild / White Fang"
+  },
+  {
+    "authors": "Toni Morrison",
+    "id": 11458,
+    "title": "The Bluest Eye"
+  },
+  {
+    "authors": "Martha Wells",
+    "id": 11632,
+    "title": "The Murderbot Diaries: All Systems Red, Artificial Condition, Rogue Protocol, Exit Strategy, Network Effect, Fugitive Telemetry"
+  },
+  {
+    "authors": "Kate Chopin",
+    "id": 11715,
+    "title": "The Awakening"
+  },
+  {
+    "authors": "Bora Chung",
+    "id": 12233,
+    "title": "Cursed Bunny"
+  },
+  {
+    "authors": "Chinua Achebe",
+    "id": 12576,
+    "title": "No Longer at Ease"
+  },
+  {
+    "authors": "Ivan Turgenev",
+    "id": 13040,
+    "title": "Fathers and Sons"
+  },
+  {
+    "authors": "Natalie D\u00edaz",
+    "id": 13047,
+    "title": "Postcolonial Love Poem"
+  },
+  {
+    "authors": "C. M. Kosemen",
+    "id": 13156,
+    "title": "All Tomorrows: The Myriad Species and Mixed Fortunes of Man"
+  },
+  {
+    "authors": "Virginia Woolf",
+    "id": 13440,
+    "title": "Mrs. Dalloway"
+  },
+  {
+    "authors": "Virginia Woolf",
+    "id": 13445,
+    "title": "To the Lighthouse"
+  },
+  {
+    "authors": "Virginia Woolf",
+    "id": 13452,
+    "title": "Orlando"
+  },
+  {
+    "authors": "Saul Bellow",
+    "id": 13481,
+    "title": "Henderson The Rain King"
+  },
+  {
+    "authors": "Muriel Spark",
+    "id": 13605,
+    "title": "The Prime of Miss Jean Brodie"
+  },
+  {
+    "authors": "Max Beerbohm",
+    "id": 13625,
+    "title": "Zuleika Dobson: An Oxford Love Story"
+  },
+  {
+    "authors": "V. S. Naipaul",
+    "id": 13727,
+    "title": "A Bend in the River"
+  },
+  {
+    "authors": "Colson Whitehead",
+    "id": 13751,
+    "title": "The Underground Railroad"
+  },
+  {
+    "authors": "Nikolai Gogol",
+    "id": 13798,
+    "title": "How the Two Ivans Quarelled and Other Russian Comic Stories"
+  },
+  {
+    "authors": "James Joyce",
+    "id": 13850,
+    "title": "Ulysses"
+  },
+  {
+    "authors": "James Joyce",
+    "id": 13851,
+    "title": "A Portrait of the Artist as a Young Man"
+  },
+  {
+    "authors": "Anne Garr\u00e9ta",
+    "id": 13890,
+    "title": "Sphinx"
+  },
+  {
+    "authors": "Evelyn Waugh",
+    "id": 14180,
+    "title": "Scoop"
+  },
+  {
+    "authors": "Evelyn Waugh",
+    "id": 14181,
+    "title": "A Handful of Dust"
+  },
+  {
+    "authors": "Liu Cixin",
+    "id": 14284,
+    "title": "The Three-Body Problem"
+  },
+  {
+    "authors": "H. P. Lovecraft",
+    "id": 14309,
+    "title": "At the Mountains of Madness"
+  },
+  {
+    "authors": "Truman Capote",
+    "id": 14375,
+    "title": "Breakfast at Tiffany's"
+  },
+  {
+    "authors": "Kaveh Akbar",
+    "id": 14695,
+    "title": "Martyr!"
+  },
+  {
+    "authors": "Y\u014dko Ogawa",
+    "id": 14874,
+    "title": "The Housekeeper and the Professor"
+  },
+  {
+    "authors": "George Saunders",
+    "id": 15091,
+    "title": "CivilWarLand in Bad Decline"
+  },
+  {
+    "authors": "George Saunders",
+    "id": 15093,
+    "title": "Vigil"
+  },
+  {
+    "authors": "George Saunders",
+    "id": 15095,
+    "title": "Lincoln in the Bardo"
+  },
+  {
+    "authors": "Y\u014dko Tawada",
+    "id": 15113,
+    "title": "The Emissary"
+  },
+  {
+    "authors": "Craig Thomas",
+    "id": 15249,
+    "title": "Firefox"
+  },
+  {
+    "authors": "Jorge Luis Borges",
+    "id": 15281,
+    "title": "The Aleph and Other Stories 1933-1969"
+  },
+  {
+    "authors": "Thornton Wilder",
+    "id": 15441,
+    "title": "The Bridge of San Luis Rey"
+  },
+  {
+    "authors": "William S. Burroughs",
+    "id": 15567,
+    "title": "Naked Lunch"
+  },
+  {
+    "authors": "Daniel Poppick",
+    "id": 15673,
+    "title": "The Copywriter"
+  },
+  {
+    "authors": "Margaret Atwood",
+    "id": 15825,
+    "title": "The Handmaid's Tale"
+  },
+  {
+    "authors": "Jennifer Egan",
+    "id": 15926,
+    "title": "A Visit From the Goon Squad"
+  },
+  {
+    "authors": "Arkady Strugatsky & Boris Strugatsky",
+    "id": 16059,
+    "title": "Roadside Picnic"
+  },
+  {
+    "authors": "Emily Bront\u00eb",
+    "id": 16066,
+    "title": "Wuthering Heights"
+  },
+  {
+    "authors": "E. M. Forster",
+    "id": 16203,
+    "title": "Howards End"
+  },
+  {
+    "authors": "Willa Cather",
+    "id": 16266,
+    "title": "Death Comes for the Archbishop"
+  },
+  {
+    "authors": "Michelle Zauner",
+    "id": 16277,
+    "title": "Crying in H Mart"
+  },
+  {
+    "authors": "Bret Easton Ellis",
+    "id": 16384,
+    "title": "Less Than Zero"
+  },
+  {
+    "authors": "John Glassco",
+    "id": 16437,
+    "title": "Memoirs of Montparnasse"
+  },
+  {
+    "authors": "Arundhati Roy",
+    "id": 17142,
+    "title": "The God of Small Things"
+  },
+  {
+    "authors": "Tatyana Tolstaya",
+    "id": 17189,
+    "title": "Sleepwalker in a Fog"
+  },
+  {
+    "authors": "Albert Camus",
+    "id": 17224,
+    "title": "The Plague"
+  },
+  {
+    "authors": "Natsume Soseki",
+    "id": 17226,
+    "title": "Kokoro"
+  },
+  {
+    "authors": "Flannery O'Connor",
+    "id": 17332,
+    "title": "Wise Blood"
+  },
+  {
+    "authors": "Han Kang",
+    "id": 17438,
+    "title": "Human Acts: A Novel"
+  },
+  {
+    "authors": "Samantha Harvey",
+    "id": 17495,
+    "title": "Orbital"
+  },
+  {
+    "authors": "Adania Shibli",
+    "id": 17510,
+    "title": "Minor Detail"
+  },
+  {
+    "authors": "Octavia E. Butler",
+    "id": 17531,
+    "title": "Kindred"
+  },
+  {
+    "authors": "Albert Camus",
+    "id": 17532,
+    "title": "The Fall"
+  },
+  {
+    "authors": "Percival Everett",
+    "id": 17552,
+    "title": "James"
+  },
+  {
+    "authors": "Siamak Herawi",
+    "id": 17572,
+    "title": "Tali Girls: A Novel of Afghanistan"
+  },
+  {
+    "authors": "Adam Johnson",
+    "id": 17607,
+    "title": "Fortune Smiles"
+  },
+  {
+    "authors": "Y\u014dko Tawada",
+    "id": 17633,
+    "title": "Scattered All Over the Earth"
+  },
+  {
+    "authors": "Paul Auster",
+    "id": 17679,
+    "title": "The Brooklyn Follies"
+  },
+  {
+    "authors": "Chinua Achebe",
+    "id": 17686,
+    "title": "Things Fall Apart"
+  },
+  {
+    "authors": "Ivo Andri\u0107",
+    "id": 17694,
+    "title": "The Bridge on the Drina"
+  },
+  {
+    "authors": "Jhumpa Lahiri",
+    "id": 17695,
+    "title": "Interpreter of Maladies"
+  },
+  {
+    "authors": "Hua Hsu",
+    "id": 17713,
+    "title": "Stay True"
+  },
+  {
+    "authors": "Tatyana Tolstaya",
+    "id": 17715,
+    "title": "White Walls: Collected Stories"
+  },
+  {
+    "authors": "Tom Stoppard",
+    "id": 17716,
+    "title": "Rosencrantz & Guildenstern Are Dead"
+  },
+  {
+    "authors": "Aleksandr Solzhenitsyn",
+    "id": 17883,
+    "title": "One Day in the Life of Ivan Denisovich"
+  },
+  {
+    "authors": "Ernest Hemingway",
+    "id": 17931,
+    "title": "A Moveable Feast"
+  },
+  {
+    "authors": "Anton Chekhov",
+    "id": 18578,
+    "title": "Selected Stories of Anton Chekhov"
+  },
+  {
+    "authors": "Gabriel Garc\u00eda M\u00e1rquez",
+    "id": 18769,
+    "title": "Chronicle of a Death Foretold"
+  },
+  {
+    "authors": "Cormac McCarthy",
+    "id": 18770,
+    "title": "The Road"
+  },
+  {
+    "authors": "Don DeLillo",
+    "id": 18771,
+    "title": "White Noise"
+  },
+  {
+    "authors": "Hermann Hesse",
+    "id": 19058,
+    "title": "Steppenwolf"
+  },
+  {
+    "authors": "Mark Haddon",
+    "id": 19119,
+    "title": "The Curious Incident of the Dog in the Night-Time"
+  },
+  {
+    "authors": "William Gibson",
+    "id": 19360,
+    "title": "Neuromancer"
+  },
+  {
+    "authors": "Edith Wharton",
+    "id": 19525,
+    "title": "The Age of Innocence"
+  },
+  {
+    "authors": "E. M. Forster",
+    "id": 19578,
+    "title": "A Room With a View"
+  },
+  {
+    "authors": "Mikhail Bulgakov",
+    "id": 19650,
+    "title": "The Master and Margarita"
+  },
+  {
+    "authors": "Frank Herbert",
+    "id": 19749,
+    "title": "Dune"
+  },
+  {
+    "authors": "Sylvia Plath",
+    "id": 19799,
+    "title": "The Bell Jar"
+  },
+  {
+    "authors": "Robert A. Heinlein",
+    "id": 19885,
+    "title": "The Moon Is a Harsh Mistress"
+  },
+  {
+    "authors": "Susan Abulhawa",
+    "id": 19906,
+    "title": "Mornings in Jenin"
+  },
+  {
+    "authors": "Joe Haldeman",
+    "id": 19920,
+    "title": "The Forever War"
+  },
+  {
+    "authors": "Ray Bradbury",
+    "id": 20064,
+    "title": "The Illustrated Man"
+  },
+  {
+    "authors": "Ernest Hemingway",
+    "id": 20085,
+    "title": "The Sun Also Rises"
+  },
+  {
+    "authors": "Kurt Vonnegut Jr.",
+    "id": 20209,
+    "title": "Slaughterhouse-Five"
+  },
+  {
+    "authors": "Fyodor Dostoevsky",
+    "id": 20254,
+    "title": "The Idiot"
+  },
+  {
+    "authors": "F. Scott Fitzgerald",
+    "id": 20298,
+    "title": "Tender Is the Night"
+  },
+  {
+    "authors": "Chuck Palahniuk",
+    "id": 20388,
+    "title": "Invisible Monsters"
+  },
+  {
+    "authors": "Paul Bowles",
+    "id": 20851,
+    "title": "The Sheltering Sky ; with an Introduction by Michael Hoffmann"
+  },
+  {
+    "authors": "Patrick S\u00fcskind",
+    "id": 20853,
+    "title": "Perfume: The Story of a Murderer"
+  },
+  {
+    "authors": "Guy de Maupassant",
+    "id": 20899,
+    "title": "Boule De Suif"
+  },
+  {
+    "authors": "Stanislaw Lem",
+    "id": 20903,
+    "title": "Solaris"
+  },
+  {
+    "authors": "Thomas Pynchon",
+    "id": 20908,
+    "title": "The Crying of Lot 49"
+  },
+  {
+    "authors": "Alexander Pushkin",
+    "id": 20909,
+    "title": "Eugene Onegin"
+  },
+  {
+    "authors": "Orhan Pamuk",
+    "id": 20912,
+    "title": "The White Castle"
+  },
+  {
+    "authors": "Henry Miller",
+    "id": 20913,
+    "title": "Tropic of Cancer"
+  },
+  {
+    "authors": "Douglas Adams",
+    "id": 20916,
+    "title": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "authors": "Banana Yoshimoto",
+    "id": 20919,
+    "title": "Kitchen"
+  },
+  {
+    "authors": "Haruki Murakami",
+    "id": 20923,
+    "title": "First Person Singular Stories"
+  },
+  {
+    "authors": "Geoffrey Chaucer",
+    "id": 20926,
+    "title": "The Canterbury Tales and Other Poems"
+  },
+  {
+    "authors": "Ford Madox Ford",
+    "id": 20929,
+    "title": "The Good Soldier"
+  },
+  {
+    "authors": "Ocean Vuong",
+    "id": 21455,
+    "title": "On Earth We\u2019re Briefly Gorgeous"
+  },
+  {
+    "authors": "Art Spiegelman",
+    "id": 23688,
+    "title": "Maus II: A Survivor's Tale: And Here My Troubles Began"
+  },
+  {
+    "authors": "Heliodorus",
+    "id": 24623,
+    "title": "Aethiopica: Theagenes and Chariclea"
+  },
+  {
+    "authors": "Mary Shelley",
+    "id": 26082,
+    "title": "Frankenstein"
+  },
+  {
+    "authors": "Nikolai Gogol",
+    "id": 26408,
+    "title": "The Overcoat and Other Short Stories"
+  },
+  {
+    "authors": "Italo Calvino",
+    "id": 26516,
+    "title": "If on a Winter's Night a Traveller (Vintage Classics) Paperback \u2013 20 Feb 1992 by Italo Calvino"
+  },
+  {
+    "authors": "Paul Bowles",
+    "id": 26640,
+    "title": "The Sheltering Sky"
+  },
+  {
+    "authors": "Henry Green",
+    "id": 26686,
+    "title": "Loving"
+  },
+  {
+    "authors": "Robertson Davies",
+    "id": 27682,
+    "title": "Fifth Business"
+  },
+  {
+    "authors": "Fyodor Dostoevsky",
+    "id": 27889,
+    "title": "The Double and the Gambler"
+  },
+  {
+    "authors": "William Kennedy",
+    "id": 34591,
+    "title": "Ironweed"
+  },
+  {
+    "authors": "James Baldwin",
+    "id": 36998,
+    "title": "Go Tell It on the Mountain"
+  },
+  {
+    "authors": "Nikolai Gogol",
+    "id": 41846,
+    "title": "The Collected Tales of Nikolai Gogol"
+  },
+  {
+    "authors": "Daniel Kraus",
+    "id": 45001,
+    "title": "Angel Down"
+  },
+  {
+    "authors": "Don DeLillo",
+    "id": 45004,
+    "title": "Midnight in Dostoevsky"
+  },
+  {
+    "authors": "Cormac McCarthy",
+    "id": 45006,
+    "title": "Blood Meridian, or the Evening Redness in the West"
+  },
+  {
+    "authors": "Jorge Luis Borges",
+    "id": 45007,
+    "title": "Labyrinths"
+  },
+  {
+    "authors": "Sinclair Lewis",
+    "id": 45008,
+    "title": "Dodsworth"
+  },
+  {
+    "authors": "Verity Bargate",
+    "id": 45011,
+    "title": "No, Mam\u00e1, No"
+  },
+  {
+    "authors": "Ben Lerner",
+    "id": 45018,
+    "title": "Transcription: A Novel"
+  },
+  {
+    "authors": "N. K. Jemisin",
+    "id": 45023,
+    "title": "Emergency Skin"
+  },
+  {
+    "authors": "Lovecraft H.P.",
+    "id": 45111,
+    "title": "The Complete H.P. Lovecraft Collection (Xist Classics)"
+  },
+  {
+    "authors": "John Williams",
+    "id": 45627,
+    "title": "Butcher's Crossing"
   }
 ]Integration status: True
