@@ -39596,7 +39596,7 @@
     "publisher": "qntm",
     "size": 149352,
     "tags": [
-      "999",
+      "888",
       "Anthologies",
       "Fantasy",
       "Horror",
@@ -54298,15 +54298,15 @@
     "publisher": "Riverhead Books",
     "size": 4440085,
     "tags": [
-      "999",
-      "Contemporary",
-      "General",
-      "Family Life",
-      "potential_normal",
-      "Fiction",
+      "888",
       "Adult",
-      "Short Stories (Single Author)",
-      "Literary"
+      "Contemporary",
+      "Family Life",
+      "Fiction",
+      "General",
+      "Literary",
+      "potential_normal",
+      "Short Stories (Single Author)"
     ],
     "title": "Brawler"
   },
@@ -54321,13 +54321,13 @@
     "publisher": "Random House",
     "size": 2526484,
     "tags": [
-      "999",
-      "obama",
+      "888",
       "African American",
       "Black",
       "Fiction",
       "General",
       "Literary",
+      "obama",
       "Women"
     ],
     "title": "Kin"
@@ -59350,14 +59350,14 @@
     "publisher": "Top 100 Classics",
     "size": 334263,
     "tags": [
-      "Classics",
-      "999",
-      "Romance",
-      "potential_short",
-      "Humour",
-      "Fiction",
+      "888",
       "Adult",
-      "Historical"
+      "Classics",
+      "Fiction",
+      "Historical",
+      "Humour",
+      "potential_short",
+      "Romance"
     ],
     "title": "The Importance of Being Earnest"
   },
@@ -87498,7 +87498,7 @@
     "publisher": "NYRB Classics",
     "size": 1450465,
     "tags": [
-      "999",
+      "888",
       "Action",
       "Classics",
       "Historical",
@@ -87804,16 +87804,16 @@
     "publisher": "Farrar, Straus and Giroux",
     "size": 298134,
     "tags": [
-      "Historical",
-      "Classics",
-      "Philosophy",
+      "888",
       "Biography",
-      "Literary Fiction",
-      "999",
+      "Classics",
+      "Fiction",
+      "Historical",
       "Historical fiction",
-      "philosophical",
       "History",
-      "Fiction"
+      "Literary Fiction",
+      "philosophical",
+      "Philosophy"
     ],
     "title": "Memoirs of Hadrian"
   },
@@ -87828,9 +87828,8 @@
     "publisher": "New Directions",
     "size": 441276,
     "tags": [
-      "999",
-      "Contemporary",
       "Classics",
+      "Contemporary",
       "Romance"
     ],
     "title": "Satantango"
@@ -87896,7 +87895,7 @@
     "pubdate": "0101-01-01T00:00:00+00:00",
     "size": 2621623,
     "tags": [
-      "999",
+      "888",
       "read_author"
     ],
     "title": "The Sleep of Reason"
@@ -87927,8 +87926,7 @@
     "publisher": "Hogarth",
     "size": 686560,
     "tags": [
-      "999",
-      "666",
+      "888",
       "Adult",
       "Contemporary",
       "Fiction",
@@ -87951,8 +87949,7 @@
     "publisher": "Harper",
     "size": 674514,
     "tags": [
-      "999",
-      "666",
+      "888",
       "Adult",
       "Contemporary",
       "Feminism",
@@ -88190,9 +88187,8 @@
     "publisher": "NYRB Classics",
     "size": 1774698,
     "tags": [
-      "999",
-      "Gay",
       "Classics",
+      "Gay",
       "Historical"
     ],
     "title": "Notes of a Crocodile"
