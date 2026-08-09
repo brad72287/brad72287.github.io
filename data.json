@@ -9037,7 +9037,8 @@
       "Fantasy",
       "Fiction",
       "Literary",
-      "Magical Realism"
+      "Magical Realism",
+      "read_author"
     ],
     "title": "The Stone Sky"
   },
@@ -9057,7 +9058,8 @@
       "Adventure",
       "Literary",
       "Fantasy",
-      "Epic"
+      "Epic",
+      "read_author"
     ],
     "title": "The Hundred Thousand Kingdoms"
   },
@@ -28269,7 +28271,8 @@
       "bookclub",
       "Travel",
       "Romance",
-      "Historical"
+      "Historical",
+      "read_author"
     ],
     "title": "Taiwan Travelogue"
   },
@@ -29211,7 +29214,8 @@
       "Occult",
       "potential_normal",
       "Science Fiction",
-      "Supernatural"
+      "Supernatural",
+      "read_author"
     ],
     "title": "The Invention of Morel"
   },
@@ -37161,7 +37165,8 @@
       "Science Fiction",
       "Classics",
       "bookclub",
-      "synced"
+      "synced",
+      "read_author"
     ],
     "title": "At the Mountains of Madness"
   },
@@ -62527,7 +62532,8 @@
       "Science Fiction",
       "Gay",
       "Fantasy",
-      "Adult"
+      "Adult",
+      "read_author"
     ],
     "title": "The Fifth Season"
   },
@@ -74813,7 +74819,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "The Call of Cthulhu by H. P. Lovecraft"
   },
@@ -75326,7 +75333,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "Beyond the Wall of Sleep"
   },
@@ -78002,7 +78010,8 @@
       "Classics",
       "Fantasy",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "Dagon and Other Macabre Tales"
   },
@@ -78236,7 +78245,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "The Dunwich Horror and Others"
   },
@@ -78608,7 +78618,8 @@
       "Classics",
       "Horror",
       "Anthologies",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "Tales of H.P. Lovecraft"
   },
@@ -79770,7 +79781,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "The Thing on the Doorstep and Other Weird Stories"
   },
@@ -79806,7 +79818,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "The Dreams in the Witch House and Other Weird Stories"
   },
@@ -81087,7 +81100,8 @@
       "Fantasy",
       "Classics",
       "Horror",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "The Colour Out of Space: H.P. Lovecraft a La Carte No. 3"
   },
@@ -81137,23 +81151,6 @@
       "read_author"
     ],
     "title": "Borges on Writing"
-  },
-  {
-    "*grrating": "3.62",
-    "*grvotes": "6252",
-    "*pagecount": 235,
-    "authors": "Philip K. Dick",
-    "id": 43998,
-    "pubdate": "1964-08-01T07:00:00+00:00",
-    "publisher": "Livros do Brasil",
-    "tags": [
-      "Classics",
-      "Fantasy",
-      "Science",
-      "Science Fiction",
-      "read_author"
-    ],
-    "title": "O Tempo dos Simulacros"
   },
   {
     "*grrating": "4.1",
@@ -81585,7 +81582,8 @@
       "General",
       "Fantasy",
       "Romance",
-      "Fiction"
+      "Fiction",
+      "read_author"
     ],
     "title": "The Broken Kingdoms"
   },
@@ -81603,7 +81601,8 @@
       "bookclub",
       "Adult",
       "Fantasy",
-      "Science Fiction"
+      "Science Fiction",
+      "read_author"
     ],
     "title": "Emergency Skin"
   },
@@ -83556,7 +83555,8 @@
       "Magical Realism",
       "Classics",
       "Humorous",
-      "Fiction"
+      "Fiction",
+      "read_author"
     ],
     "title": "Asleep in the Sun"
   },
@@ -87893,7 +87893,7 @@
     "authors": "John Williams",
     "id": 54177,
     "pubdate": "0101-01-01T00:00:00+00:00",
-    "size": 2621623,
+    "size": 10575903,
     "tags": [
       "888",
       "read_author"
@@ -88003,7 +88003,8 @@
       "999",
       "Classics",
       "Historical",
-      "wafer_thin"
+      "wafer_thin",
+      "read_author"
     ],
     "title": "The Duel"
   },
@@ -88020,7 +88021,8 @@
     "tags": [
       "Historical",
       "wafer_thin",
-      "Classics"
+      "Classics",
+      "read_author"
     ],
     "title": "The Girls of Slender Means"
   },
@@ -88101,8 +88103,9 @@
     "publisher": "New Directions",
     "size": 789713,
     "tags": [
-      "999",
-      "Horror"
+      "bookclub",
+      "Horror",
+      "read_author"
     ],
     "title": "The Hole"
   },
@@ -88150,10 +88153,11 @@
     "publisher": "Granta Books",
     "size": 172407,
     "tags": [
-      "General",
-      "999",
+      "bookclub",
       "Classics",
-      "Fiction"
+      "Fiction",
+      "General",
+      "read_author"
     ],
     "title": "The Legend of the Holy Drinker"
   },
