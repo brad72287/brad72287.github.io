@@ -5541,13 +5541,14 @@
     "publisher": "Graphic Arts Books",
     "size": 581096,
     "tags": [
-      "Historical",
-      "bookclub",
-      "Fiction",
+      "999",
       "Adventure",
+      "bookclub",
       "Classics",
-      "synced",
-      "read_author"
+      "Fiction",
+      "Historical",
+      "read_author",
+      "synced"
     ],
     "title": "Nostromo"
   },
@@ -23408,23 +23409,6 @@
     "title": "How to Live: A Life of Montaigne in One Question and Twenty Attempts at an Answer"
   },
   {
-    "*grrating": "3.78",
-    "*grvotes": "3441",
-    "*pagecount": 413,
-    "*wordcount": 109363,
-    "authors": "Laurie Alice Eakes",
-    "id": 7639,
-    "pubdate": "2011-02-01T08:00:00+00:00",
-    "publisher": "Revell",
-    "size": 895052,
-    "tags": [
-      "Historical",
-      "Romance",
-      "Fiction:Religous"
-    ],
-    "title": "Lady in the Mist"
-  },
-  {
     "*grrating": "4.05",
     "*grvotes": "4439",
     "*pagecount": 348,
@@ -33478,11 +33462,12 @@
     "publisher": "Harper Perennial",
     "size": 378105,
     "tags": [
-      "Historical",
+      "999",
+      "Classics",
       "Fiction",
       "General",
-      "Literary",
-      "Classics"
+      "Historical",
+      "Literary"
     ],
     "title": "Under the Volcano"
   },
@@ -42934,7 +42919,7 @@
     "*grvotes": "53075",
     "*pagecount": 620,
     "*wordcount": 213189,
-    "authors": "Missouri. State Historical Society",
+    "authors": "Thomas Hobbes",
     "id": 16205,
     "pubdate": "1651-01-01T07:52:58+00:00",
     "publisher": "Forgotten Books",
@@ -74139,24 +74124,6 @@
     "title": "Nana by Emile Zola"
   },
   {
-    "*grrating": "4.21",
-    "*grvotes": "28940",
-    "*pagecount": 471,
-    "authors": "Cormac McCarthy",
-    "id": 27048,
-    "pubdate": "1979-05-01T07:00:00+00:00",
-    "publisher": "Vintage International",
-    "tags": [
-      "Historical",
-      "Classics",
-      "Western",
-      "Contemporary",
-      "Fiction",
-      "read_author"
-    ],
-    "title": "Suttree"
-  },
-  {
     "*grrating": "3.87",
     "*grvotes": "15640",
     "*pagecount": 331,
@@ -75118,20 +75085,6 @@
     "title": "The Executioner's Song"
   },
   {
-    "*grrating": "3.78",
-    "*grvotes": "5234",
-    "*pagecount": 233,
-    "authors": "Philip Roth",
-    "id": 27934,
-    "pubdate": "1993-01-01T08:00:00+00:00",
-    "publisher": "Generic",
-    "tags": [
-      "Contemporary",
-      "read_author"
-    ],
-    "title": "Operation Shylock Philip Roth Pen Faulkner 1st Edition First Printing Novel [Hardcover] Philip Roth"
-  },
-  {
     "*grrating": "3.79",
     "*grvotes": "24759",
     "*pagecount": 60,
@@ -75353,22 +75306,6 @@
       "read_author"
     ],
     "title": "Patrimony"
-  },
-  {
-    "*grrating": "4.17",
-    "*grvotes": "6599",
-    "*pagecount": 10,
-    "authors": "Jorge Luis Borges",
-    "id": 28250,
-    "pubdate": "1941-01-01T08:00:00+00:00",
-    "publisher": "Penguin Audio",
-    "tags": [
-      "Fantasy",
-      "Classics",
-      "Philosophy",
-      "read_author"
-    ],
-    "title": "The Garden of Forking Paths"
   },
   {
     "*grrating": "3.52",
@@ -77094,7 +77031,7 @@
       "Romance",
       "read_author"
     ],
-    "title": "A Month in the Country by Ivan Turgenev"
+    "title": "A Month in the Country"
   },
   {
     "*grrating": "3.96",
@@ -79018,6 +78955,7 @@
     "id": 36863,
     "pubdate": "1961-01-01T08:00:00+00:00",
     "publisher": "New York Review Books",
+    "size": 346971,
     "tags": [
       "War",
       "nyrb_classics",
@@ -82043,26 +81981,6 @@
     "title": "We Think the World of You"
   },
   {
-    "*grrating": "3.85",
-    "*grvotes": "114",
-    "*pagecount": 440,
-    "authors": "Richard Hughes",
-    "id": 45140,
-    "pubdate": "1973-01-01T08:00:00+00:00",
-    "publisher": "NYRB Classics",
-    "tags": [
-      "Political",
-      "General",
-      "Historical",
-      "Fiction",
-      "War",
-      "nyrb_classics",
-      "War & Military",
-      "read_author"
-    ],
-    "title": "The Wooden Shepherdess"
-  },
-  {
     "*grrating": "4.21",
     "*grvotes": "206",
     "*pagecount": 588,
@@ -84554,6 +84472,7 @@
     "id": 45337,
     "pubdate": "1938-01-01T08:00:00+00:00",
     "publisher": "NYRB Classics",
+    "size": 226895,
     "tags": [
       "Suspense",
       "nyrb_classics",
@@ -86981,26 +86900,6 @@
     "title": "The Farm in the Green Mountains"
   },
   {
-    "*grrating": "3.81",
-    "*grvotes": "11953",
-    "*pagecount": 256,
-    "authors": "QIU MIAOJIN",
-    "id": 45561,
-    "pubdate": "1994-05-11T07:00:00+00:00",
-    "publisher": "NYRB Classics",
-    "tags": [
-      "Lgbtq+",
-      "nyrb_classics",
-      "Coming of Age",
-      "Classics",
-      "Gay",
-      "Historical",
-      "Fiction",
-      "Dystopian"
-    ],
-    "title": "Notes of a Crocodile"
-  },
-  {
     "*grrating": "3.78",
     "*grvotes": "902",
     "*pagecount": 95,
@@ -87804,7 +87703,7 @@
     "publisher": "Farrar, Straus and Giroux",
     "size": 298134,
     "tags": [
-      "888",
+      "999",
       "Biography",
       "Classics",
       "Fiction",
@@ -88191,9 +88090,15 @@
     "publisher": "NYRB Classics",
     "size": 1774698,
     "tags": [
+      "999",
       "Classics",
+      "Coming of Age",
+      "Dystopian",
+      "Fiction",
       "Gay",
-      "Historical"
+      "Historical",
+      "Lgbtq+",
+      "nyrb_classics"
     ],
     "title": "Notes of a Crocodile"
   },
@@ -88208,8 +88113,8 @@
     "publisher": "New York Review Books",
     "size": 738451,
     "tags": [
-      "999",
       "20th Century",
+      "bookclub",
       "Classics",
       "Fiction",
       "Lgbtq+",
@@ -88217,5 +88122,92 @@
       "World Literature"
     ],
     "title": "Last Words from Montmartre"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "*pagecount": 48,
+    "*wordcount": 12562,
+    "authors": "Ambrose Bierce",
+    "id": 54201,
+    "pubdate": "2024-09-10T23:00:00+00:00",
+    "publisher": "Global Grey ebooks",
+    "size": 139382,
+    "tags": [
+      "Non-Fiction"
+    ],
+    "title": "Write It Right: A Little Blacklist of Literary Faults"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "authors": "John McNamara",
+    "id": 54203,
+    "pubdate": "0101-01-01T00:00:00+00:00",
+    "size": 151094353,
+    "tags": [],
+    "title": "Magic in Frosting"
+  },
+  {
+    "*grrating": "4.21",
+    "*grvotes": "28940",
+    "*pagecount": 667,
+    "*wordcount": 177409,
+    "authors": "Cormac McCarthy",
+    "id": 54204,
+    "pubdate": "2010-08-11T19:50:26+00:00",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "size": 2144473,
+    "tags": [
+      "Literary",
+      "Westerns",
+      "Historical",
+      "Classics",
+      "Contemporary",
+      "read_author",
+      "Western",
+      "Fiction",
+      "Sagas"
+    ],
+    "title": "Suttree"
+  },
+  {
+    "*grrating": "3.96",
+    "*grvotes": "20298",
+    "*pagecount": 134,
+    "*wordcount": 32789,
+    "authors": "Nikolai Gogol",
+    "id": 54206,
+    "pubdate": "1835-01-01T07:52:58+00:00",
+    "publisher": "Prabhat Prakashan",
+    "size": 146517,
+    "tags": [
+      "Classics",
+      "Russia -- Social life and customs -- Drama",
+      "Russian drama -- Translations into English",
+      "Comedy plays"
+    ],
+    "title": "The Inspector-General (English Edition): Nikolai Vasilevich Gogol Presents a Hilarious Tale of Mistaken Identity by Nikolai Vasilevich Gogol"
+  },
+  {
+    "*grrating": "3.85",
+    "*grvotes": "114",
+    "*pagecount": 440,
+    "authors": "Richard Hughes",
+    "id": 54210,
+    "pubdate": "1973-01-01T05:00:00+00:00",
+    "publisher": "NYRB Classics",
+    "size": 408205,
+    "tags": [
+      "Fiction",
+      "Historical",
+      "War & Military",
+      "Political",
+      "General",
+      "War",
+      "nyrb_classics",
+      "read_author"
+    ],
+    "title": "The Wooden Shepherdess"
   }
 ]Integration status: True
