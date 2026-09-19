@@ -87955,7 +87955,7 @@
     "publisher": "Buccaneer Books",
     "size": 284421,
     "tags": [
-      "999",
+      "bookclub",
       "Classics",
       "Crime",
       "Historical",
@@ -88215,5 +88215,29 @@
       "888"
     ],
     "title": "The Story of English in 100 Words"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "*pagecount": 191,
+    "authors": "Fran Lebowitz",
+    "id": 54218,
+    "pubdate": "2021-02-06T05:30:07+00:00",
+    "size": 37774244,
+    "tags": [],
+    "title": "Metropolitan Life"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "*pagecount": 1009,
+    "*wordcount": 346961,
+    "authors": "Simone de Beauvoir",
+    "id": 54219,
+    "pubdate": "2012-01-25T05:00:00+00:00",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "size": 2596026,
+    "tags": [],
+    "title": "The Second Sex"
   }
 ]Integration status: True
