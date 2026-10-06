@@ -81507,16 +81507,15 @@
     "publisher": "Everyman's Library",
     "size": 364757,
     "tags": [
+      "Adult",
       "Classics",
-      "Romance",
-      "999",
+      "Fiction",
+      "Gay",
       "General",
       "Historical",
-      "Fiction",
-      "Adult",
-      "Gay",
       "Literary",
-      "read_author"
+      "read_author",
+      "Romance"
     ],
     "title": "Giovanni's Room"
   },
@@ -88014,7 +88013,6 @@
     "publisher": "NYRB Classics",
     "size": 1776315,
     "tags": [
-      "999",
       "Classics",
       "Coming of Age",
       "Dystopian",
@@ -88239,5 +88237,185 @@
     "size": 2596026,
     "tags": [],
     "title": "The Second Sex"
+  },
+  {
+    "*grrating": "3.84",
+    "*grvotes": "535",
+    "authors": "Horace McCoy",
+    "id": 54220,
+    "pubdate": "1948-01-01T08:00:00+00:00",
+    "publisher": "Open Road Media",
+    "size": 431253,
+    "tags": [
+      "Crime",
+      "Mystery"
+    ],
+    "title": "Kiss Tomorrow Goodbye"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "*pagecount": 56,
+    "*wordcount": 22586,
+    "authors": "Carl Dare",
+    "id": 54221,
+    "pubdate": "0101-01-01T00:00:00+00:00",
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "size": 1333996,
+    "tags": [
+      "Pigeons",
+      "House & Home",
+      "Sustainable Living",
+      "General",
+      "History"
+    ],
+    "title": "Profitable Squab Breeding"
+  },
+  {
+    "*grrating": "0.0",
+    "*grvotes": "0",
+    "*pagecount": 216,
+    "authors": "Jan Aerts",
+    "id": 54222,
+    "pubdate": "1969-10-15T04:58:02+00:00",
+    "publisher": "Morrow",
+    "size": 11765441,
+    "tags": [
+      "Homing pigeons; Pigeon racing",
+      "https://archive.org/details/pigeonracingadva0000aert"
+    ],
+    "title": "Pigeon Racing: Advanced Techniques"
+  },
+  {
+    "*grrating": "4.31",
+    "*grvotes": "3043",
+    "*pagecount": 644,
+    "*wordcount": 203122,
+    "authors": "Marlon James",
+    "id": 54223,
+    "pubdate": "2026-09-02T00:00:00+00:00",
+    "publisher": "Riverhead Books",
+    "size": 1714421,
+    "tags": [
+      "Historical",
+      "Gay"
+    ],
+    "title": "The Disappearers"
+  },
+  {
+    "*grrating": "4.21",
+    "*grvotes": "5677",
+    "*pagecount": 132,
+    "*wordcount": 36838,
+    "authors": "Paul Yoon",
+    "id": 54224,
+    "pubdate": "2026-08-04T07:00:00+00:00",
+    "publisher": "Scribner",
+    "size": 2139636,
+    "tags": [
+      "999",
+      "Adult",
+      "Contemporary",
+      "Fantasy",
+      "War"
+    ],
+    "title": "Etna"
+  },
+  {
+    "*grrating": "4.27",
+    "*grvotes": "5660",
+    "*pagecount": 398,
+    "*wordcount": 117213,
+    "authors": "Colson Whitehead",
+    "id": 54225,
+    "pubdate": "2026-07-21T07:00:00+00:00",
+    "publisher": "Doubleday",
+    "size": 453158,
+    "tags": [
+      "Thriller",
+      "Crime",
+      "FIC000000 FICTION / General",
+      "Mystery",
+      "Historical"
+    ],
+    "title": "Cool Machine"
+  },
+  {
+    "*grrating": "2.92",
+    "*grvotes": "2189",
+    "*pagecount": 124,
+    "*wordcount": 40237,
+    "authors": "M. John Harrison",
+    "id": 54226,
+    "pubdate": "2026-06-18T07:00:00+00:00",
+    "publisher": "Serpent's Tail",
+    "size": 626199,
+    "tags": [
+      "Science Fiction",
+      "General",
+      "Fantasy",
+      "Fiction",
+      "Apocalyptic & Post-Apocalyptic",
+      "Literary",
+      "999"
+    ],
+    "title": "The End of Everything"
+  },
+  {
+    "*grrating": "3.72",
+    "*grvotes": "6468",
+    "*pagecount": 144,
+    "*wordcount": 45627,
+    "authors": "Rebecca Perry",
+    "id": 54227,
+    "pubdate": "2026-01-29T08:00:00+00:00",
+    "publisher": "Granta Books",
+    "size": 431221,
+    "tags": [
+      "General",
+      "Fantasy",
+      "Medieval",
+      "Fiction",
+      "Historical",
+      "Literary",
+      "Adult",
+      "Contemporary",
+      "999"
+    ],
+    "title": "May We Feed the King"
+  },
+  {
+    "*grrating": "4.06",
+    "*grvotes": "9661",
+    "*pagecount": 350,
+    "*wordcount": 100819,
+    "authors": "Emily St. John Mandel",
+    "id": 54228,
+    "pubdate": "2026-09-15T07:00:00+00:00",
+    "publisher": "Picador",
+    "size": 1040050,
+    "tags": [
+      "Science Fiction",
+      "Fantasy",
+      "Adult"
+    ],
+    "title": "Exit Party"
+  },
+  {
+    "*grrating": "3.89",
+    "*grvotes": "39747",
+    "*pagecount": 777,
+    "*wordcount": 242360,
+    "authors": "Marlon James",
+    "id": 54229,
+    "pubdate": "2014-10-02T07:00:00+00:00",
+    "publisher": "Penguin",
+    "size": 1267371,
+    "tags": [
+      "Historical",
+      "Crime",
+      "Mystery"
+    ],
+    "title": "A Brief History of Seven Killings"
   }
 ]Integration status: True
