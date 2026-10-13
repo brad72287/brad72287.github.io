@@ -8302,7 +8302,7 @@
     "publisher": "Mariner Books",
     "size": 111610,
     "tags": [
-      "999",
+      "bookclub",
       "Fantasy",
       "Fiction",
       "Humorous",
@@ -24437,6 +24437,7 @@
     "publisher": "Charco Press",
     "size": 301625,
     "tags": [
+      "999",
       "Fiction",
       "General",
       "Horror",
@@ -27463,7 +27464,6 @@
     "publisher": "Scribner",
     "size": 152141,
     "tags": [
-      "999",
       "Adult",
       "Adventure",
       "Classics",
@@ -58821,7 +58821,7 @@
     "publisher": "Standard Ebooks",
     "size": 1015324,
     "tags": [
-      "999",
+      "888",
       "Classics",
       "potential_short"
     ],
@@ -87819,11 +87819,11 @@
     "publisher": "Melville House",
     "size": 3769026,
     "tags": [
-      "999",
+      "888",
       "Classics",
       "Historical",
-      "wafer_thin",
-      "read_author"
+      "read_author",
+      "wafer_thin"
     ],
     "title": "The Duel"
   },
@@ -88417,5 +88417,61 @@
       "Mystery"
     ],
     "title": "A Brief History of Seven Killings"
+  },
+  {
+    "*grrating": "4.24",
+    "*grvotes": "39384",
+    "*pagecount": 70,
+    "*wordcount": 29521,
+    "authors": "Anne Carson",
+    "id": 54231,
+    "pubdate": "1998-12-24T08:00:00+00:00",
+    "publisher": "Vintage Contemporaries",
+    "size": 4420682,
+    "tags": [
+      "Poetry",
+      "Fantasy",
+      "Classics",
+      "Canadian",
+      "Fiction",
+      "Literary",
+      "999"
+    ],
+    "title": "Autobiography of Red"
+  },
+  {
+    "*grrating": "",
+    "*grvotes": "",
+    "*pagecount": 67,
+    "*wordcount": 20159,
+    "authors": "Claire Keegan",
+    "id": 54232,
+    "pubdate": "2021-11-14T16:00:00+00:00",
+    "publisher": "Faber and Faber",
+    "size": 127946,
+    "tags": [],
+    "title": "Small Things Like These"
+  },
+  {
+    "*grrating": "3.87",
+    "*grvotes": "141591",
+    "*pagecount": 298,
+    "*wordcount": 85536,
+    "authors": "Ling Ma",
+    "id": 54233,
+    "pubdate": "2018-08-14T07:00:00+00:00",
+    "publisher": "Farrar, Straus and Giroux",
+    "size": 305758,
+    "tags": [
+      "Satire",
+      "Contemporary",
+      "Adult",
+      "Asian American",
+      "Fiction",
+      "Science Fiction",
+      "Apocalyptic & Post-Apocalyptic",
+      "Literary"
+    ],
+    "title": "Severance"
   }
 ]Integration status: True
