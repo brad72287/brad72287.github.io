@@ -50,6 +50,11 @@
     "title": "The Postman Always Rings Twice"
   },
   {
+    "authors": "James M. Cain",
+    "id": 1486,
+    "title": "Double Indemnity"
+  },
+  {
     "authors": "Graham Greene",
     "id": 1593,
     "title": "The End of the Affair"
@@ -615,6 +620,11 @@
     "title": "Wuthering Heights"
   },
   {
+    "authors": "Owen Wister",
+    "id": 16173,
+    "title": "The Virginian"
+  },
+  {
     "authors": "E. M. Forster",
     "id": 16203,
     "title": "Howards End"
@@ -1063,5 +1073,40 @@
     "authors": "QIU MIAOJIN",
     "id": 54200,
     "title": "Last Words from Montmartre"
+  },
+  {
+    "authors": "Paul Yoon",
+    "id": 54224,
+    "title": "Etna"
+  },
+  {
+    "authors": "Andr\u00e9 Alexis",
+    "id": 54240,
+    "title": "Fifteen Dogs"
+  },
+  {
+    "authors": "Sarah Orne Jewett",
+    "id": 54266,
+    "title": "The Country of the Pointed Firs"
+  },
+  {
+    "authors": "Miles Franklin",
+    "id": 54389,
+    "title": "My Brilliant Career"
+  },
+  {
+    "authors": "Ford Madox Ford",
+    "id": 54783,
+    "title": "The Good Soldier: A Tale of Passion"
+  },
+  {
+    "authors": "E.M. Forster",
+    "id": 54888,
+    "title": "A Passage to India"
+  },
+  {
+    "authors": "Booth Tarkington",
+    "id": 54956,
+    "title": "The Magnificent Ambersons"
   }
 ]Integration status: True
